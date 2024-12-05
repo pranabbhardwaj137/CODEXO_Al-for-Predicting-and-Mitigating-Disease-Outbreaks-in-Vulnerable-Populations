@@ -47,13 +47,13 @@ bash
 
 Place the following CSV files in the root directory:
 
-climate_data_monthly.csv
+* climate_data_monthly.csv
 
-population_data.csv
+* population_data.csv
 
-healthcare_data.csv
+* healthcare_data.csv
 
-Ensure your trained model (disease_outbreak_model.pkl) and  scaler (scaler.pkl) are also in the root directory.
+* Ensure your trained model (disease_outbreak_model.pkl) and  scaler (scaler.pkl) are also in the root directory.
 
 ### Add your OpenWeatherMap API key:
 
