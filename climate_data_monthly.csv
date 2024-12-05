@@ -1,0 +1,1681 @@
+Month,State,District,AvgTemperature,AvgHumidity,TotalRainfall
+2023-01,Andhra Pradesh,Visakhapatnam,29.1,70,244.8
+2023-02,Andhra Pradesh,Visakhapatnam,26.9,51,29.2
+2023-03,Andhra Pradesh,Visakhapatnam,20.9,50,463.1
+2023-04,Andhra Pradesh,Visakhapatnam,34.2,56,15.7
+2023-05,Andhra Pradesh,Visakhapatnam,29.1,81,170.0
+2023-06,Andhra Pradesh,Visakhapatnam,32.6,56,481.4
+2023-07,Andhra Pradesh,Visakhapatnam,20.7,75,416.9
+2023-08,Andhra Pradesh,Visakhapatnam,27.8,90,190.1
+2023-09,Andhra Pradesh,Visakhapatnam,33.2,75,294.6
+2023-10,Andhra Pradesh,Visakhapatnam,21.8,79,300.3
+2023-11,Andhra Pradesh,Visakhapatnam,22.0,88,258.5
+2023-12,Andhra Pradesh,Visakhapatnam,30.4,72,121.2
+2023-01,Andhra Pradesh,Vijayawada,26.4,61,303.8
+2023-02,Andhra Pradesh,Vijayawada,23.3,68,31.4
+2023-03,Andhra Pradesh,Vijayawada,30.0,51,330.2
+2023-04,Andhra Pradesh,Vijayawada,27.7,55,321.5
+2023-05,Andhra Pradesh,Vijayawada,30.5,69,398.6
+2023-06,Andhra Pradesh,Vijayawada,34.2,71,253.9
+2023-07,Andhra Pradesh,Vijayawada,20.1,71,244.2
+2023-08,Andhra Pradesh,Vijayawada,30.4,61,0.4
+2023-09,Andhra Pradesh,Vijayawada,24.9,80,202.0
+2023-10,Andhra Pradesh,Vijayawada,34.2,83,392.3
+2023-11,Andhra Pradesh,Vijayawada,29.5,65,477.3
+2023-12,Andhra Pradesh,Vijayawada,26.7,53,339.3
+2023-01,Andhra Pradesh,Guntur,25.1,79,444.0
+2023-02,Andhra Pradesh,Guntur,35.0,73,419.7
+2023-03,Andhra Pradesh,Guntur,28.7,90,228.6
+2023-04,Andhra Pradesh,Guntur,32.1,58,194.0
+2023-05,Andhra Pradesh,Guntur,30.3,90,265.1
+2023-06,Andhra Pradesh,Guntur,33.8,83,200.1
+2023-07,Andhra Pradesh,Guntur,25.9,54,277.0
+2023-08,Andhra Pradesh,Guntur,22.6,67,19.6
+2023-09,Andhra Pradesh,Guntur,21.0,61,142.3
+2023-10,Andhra Pradesh,Guntur,22.5,74,377.7
+2023-11,Andhra Pradesh,Guntur,29.8,69,207.6
+2023-12,Andhra Pradesh,Guntur,33.8,54,27.4
+2023-01,Andhra Pradesh,Tirupati,23.4,89,25.4
+2023-02,Andhra Pradesh,Tirupati,22.7,89,4.2
+2023-03,Andhra Pradesh,Tirupati,26.4,59,499.3
+2023-04,Andhra Pradesh,Tirupati,33.3,81,324.2
+2023-05,Andhra Pradesh,Tirupati,33.0,57,313.6
+2023-06,Andhra Pradesh,Tirupati,27.1,66,349.1
+2023-07,Andhra Pradesh,Tirupati,22.7,64,9.3
+2023-08,Andhra Pradesh,Tirupati,25.9,83,116.1
+2023-09,Andhra Pradesh,Tirupati,31.5,53,123.9
+2023-10,Andhra Pradesh,Tirupati,25.6,56,244.3
+2023-11,Andhra Pradesh,Tirupati,30.8,64,290.8
+2023-12,Andhra Pradesh,Tirupati,27.0,57,1.9
+2023-01,Andhra Pradesh,Nellore,21.8,70,468.2
+2023-02,Andhra Pradesh,Nellore,31.6,88,29.6
+2023-03,Andhra Pradesh,Nellore,26.5,51,107.5
+2023-04,Andhra Pradesh,Nellore,32.0,84,331.1
+2023-05,Andhra Pradesh,Nellore,32.1,51,191.5
+2023-06,Andhra Pradesh,Nellore,28.0,62,406.4
+2023-07,Andhra Pradesh,Nellore,26.9,51,86.9
+2023-08,Andhra Pradesh,Nellore,31.2,72,12.9
+2023-09,Andhra Pradesh,Nellore,29.8,72,340.4
+2023-10,Andhra Pradesh,Nellore,29.3,90,234.4
+2023-11,Andhra Pradesh,Nellore,25.1,65,142.8
+2023-12,Andhra Pradesh,Nellore,21.1,87,73.8
+2023-01,Arunachal Pradesh,Itanagar,27.5,85,282.9
+2023-02,Arunachal Pradesh,Itanagar,22.9,55,260.2
+2023-03,Arunachal Pradesh,Itanagar,28.3,89,79.3
+2023-04,Arunachal Pradesh,Itanagar,20.2,65,473.7
+2023-05,Arunachal Pradesh,Itanagar,28.9,62,360.9
+2023-06,Arunachal Pradesh,Itanagar,28.3,55,270.9
+2023-07,Arunachal Pradesh,Itanagar,31.8,55,68.3
+2023-08,Arunachal Pradesh,Itanagar,22.9,58,72.9
+2023-09,Arunachal Pradesh,Itanagar,23.2,76,269.9
+2023-10,Arunachal Pradesh,Itanagar,27.7,75,341.3
+2023-11,Arunachal Pradesh,Itanagar,20.5,63,10.1
+2023-12,Arunachal Pradesh,Itanagar,23.1,58,471.6
+2023-01,Arunachal Pradesh,Tawang,28.7,51,97.1
+2023-02,Arunachal Pradesh,Tawang,32.1,62,228.2
+2023-03,Arunachal Pradesh,Tawang,28.0,86,179.6
+2023-04,Arunachal Pradesh,Tawang,34.8,66,370.6
+2023-05,Arunachal Pradesh,Tawang,30.2,54,16.4
+2023-06,Arunachal Pradesh,Tawang,25.4,80,414.7
+2023-07,Arunachal Pradesh,Tawang,33.4,56,76.0
+2023-08,Arunachal Pradesh,Tawang,21.9,87,499.7
+2023-09,Arunachal Pradesh,Tawang,28.5,89,352.6
+2023-10,Arunachal Pradesh,Tawang,32.3,71,59.2
+2023-11,Arunachal Pradesh,Tawang,26.7,87,70.5
+2023-12,Arunachal Pradesh,Tawang,32.5,71,343.1
+2023-01,Arunachal Pradesh,Pasighat,25.1,64,426.1
+2023-02,Arunachal Pradesh,Pasighat,33.6,69,268.2
+2023-03,Arunachal Pradesh,Pasighat,20.6,53,136.1
+2023-04,Arunachal Pradesh,Pasighat,22.6,88,41.0
+2023-05,Arunachal Pradesh,Pasighat,32.9,76,400.8
+2023-06,Arunachal Pradesh,Pasighat,25.3,52,244.8
+2023-07,Arunachal Pradesh,Pasighat,29.5,81,163.1
+2023-08,Arunachal Pradesh,Pasighat,20.7,71,486.1
+2023-09,Arunachal Pradesh,Pasighat,23.2,56,227.9
+2023-10,Arunachal Pradesh,Pasighat,30.4,55,116.7
+2023-11,Arunachal Pradesh,Pasighat,28.4,59,278.1
+2023-12,Arunachal Pradesh,Pasighat,28.9,51,311.8
+2023-01,Arunachal Pradesh,Ziro,27.0,57,365.0
+2023-02,Arunachal Pradesh,Ziro,20.4,87,366.3
+2023-03,Arunachal Pradesh,Ziro,32.7,53,348.6
+2023-04,Arunachal Pradesh,Ziro,20.3,50,333.0
+2023-05,Arunachal Pradesh,Ziro,31.0,88,303.2
+2023-06,Arunachal Pradesh,Ziro,27.4,89,6.7
+2023-07,Arunachal Pradesh,Ziro,21.6,52,267.2
+2023-08,Arunachal Pradesh,Ziro,27.3,61,228.6
+2023-09,Arunachal Pradesh,Ziro,25.5,79,64.1
+2023-10,Arunachal Pradesh,Ziro,31.9,69,16.1
+2023-11,Arunachal Pradesh,Ziro,27.0,65,269.3
+2023-12,Arunachal Pradesh,Ziro,28.8,87,207.4
+2023-01,Arunachal Pradesh,Bomdila,20.8,77,484.3
+2023-02,Arunachal Pradesh,Bomdila,20.1,75,498.6
+2023-03,Arunachal Pradesh,Bomdila,29.1,82,245.3
+2023-04,Arunachal Pradesh,Bomdila,32.0,85,379.5
+2023-05,Arunachal Pradesh,Bomdila,29.9,72,322.0
+2023-06,Arunachal Pradesh,Bomdila,21.5,80,202.0
+2023-07,Arunachal Pradesh,Bomdila,21.8,69,22.6
+2023-08,Arunachal Pradesh,Bomdila,24.8,81,52.1
+2023-09,Arunachal Pradesh,Bomdila,30.8,81,435.3
+2023-10,Arunachal Pradesh,Bomdila,20.6,78,160.5
+2023-11,Arunachal Pradesh,Bomdila,26.7,66,1.4
+2023-12,Arunachal Pradesh,Bomdila,30.2,51,186.4
+2023-01,Assam,Guwahati,31.5,72,7.8
+2023-02,Assam,Guwahati,27.1,55,21.2
+2023-03,Assam,Guwahati,24.5,59,464.7
+2023-04,Assam,Guwahati,28.0,77,114.1
+2023-05,Assam,Guwahati,21.6,71,419.7
+2023-06,Assam,Guwahati,25.3,64,174.5
+2023-07,Assam,Guwahati,21.7,62,407.4
+2023-08,Assam,Guwahati,25.4,56,303.3
+2023-09,Assam,Guwahati,32.3,77,285.3
+2023-10,Assam,Guwahati,27.9,70,483.1
+2023-11,Assam,Guwahati,34.5,66,372.1
+2023-12,Assam,Guwahati,29.7,83,380.9
+2023-01,Assam,Dibrugarh,24.2,75,304.3
+2023-02,Assam,Dibrugarh,28.5,51,462.5
+2023-03,Assam,Dibrugarh,31.6,90,339.3
+2023-04,Assam,Dibrugarh,21.6,65,345.7
+2023-05,Assam,Dibrugarh,20.0,57,43.1
+2023-06,Assam,Dibrugarh,30.6,53,198.8
+2023-07,Assam,Dibrugarh,26.9,87,435.9
+2023-08,Assam,Dibrugarh,23.4,74,181.7
+2023-09,Assam,Dibrugarh,22.8,74,109.0
+2023-10,Assam,Dibrugarh,28.7,50,221.6
+2023-11,Assam,Dibrugarh,21.7,84,421.4
+2023-12,Assam,Dibrugarh,32.7,75,425.4
+2023-01,Assam,Silchar,34.1,83,309.1
+2023-02,Assam,Silchar,21.8,54,217.6
+2023-03,Assam,Silchar,32.6,72,459.3
+2023-04,Assam,Silchar,28.7,53,269.1
+2023-05,Assam,Silchar,28.7,72,135.2
+2023-06,Assam,Silchar,34.3,59,73.9
+2023-07,Assam,Silchar,29.4,58,275.6
+2023-08,Assam,Silchar,32.8,68,236.8
+2023-09,Assam,Silchar,33.1,51,401.5
+2023-10,Assam,Silchar,24.8,68,344.0
+2023-11,Assam,Silchar,34.6,90,4.3
+2023-12,Assam,Silchar,20.0,80,290.1
+2023-01,Assam,Tezpur,25.7,80,50.0
+2023-02,Assam,Tezpur,29.8,58,228.8
+2023-03,Assam,Tezpur,30.3,58,336.2
+2023-04,Assam,Tezpur,30.5,82,63.3
+2023-05,Assam,Tezpur,24.3,51,393.7
+2023-06,Assam,Tezpur,32.8,62,482.2
+2023-07,Assam,Tezpur,26.1,64,485.9
+2023-08,Assam,Tezpur,33.8,52,475.3
+2023-09,Assam,Tezpur,29.9,73,422.1
+2023-10,Assam,Tezpur,24.6,83,409.9
+2023-11,Assam,Tezpur,31.5,58,195.1
+2023-12,Assam,Tezpur,28.6,54,140.8
+2023-01,Assam,Jorhat,27.1,60,189.6
+2023-02,Assam,Jorhat,23.2,59,469.6
+2023-03,Assam,Jorhat,27.1,60,109.0
+2023-04,Assam,Jorhat,33.2,70,252.1
+2023-05,Assam,Jorhat,32.6,63,375.8
+2023-06,Assam,Jorhat,34.3,71,276.5
+2023-07,Assam,Jorhat,30.2,80,468.2
+2023-08,Assam,Jorhat,23.7,60,345.2
+2023-09,Assam,Jorhat,21.9,62,424.7
+2023-10,Assam,Jorhat,34.6,80,179.5
+2023-11,Assam,Jorhat,21.3,64,386.6
+2023-12,Assam,Jorhat,28.9,76,446.2
+2023-01,Bihar,Patna,32.4,77,483.9
+2023-02,Bihar,Patna,28.1,76,108.7
+2023-03,Bihar,Patna,25.1,88,165.1
+2023-04,Bihar,Patna,34.8,56,393.4
+2023-05,Bihar,Patna,21.1,52,407.7
+2023-06,Bihar,Patna,29.5,53,380.8
+2023-07,Bihar,Patna,33.5,69,243.2
+2023-08,Bihar,Patna,28.4,77,63.7
+2023-09,Bihar,Patna,33.1,81,185.4
+2023-10,Bihar,Patna,25.7,62,147.2
+2023-11,Bihar,Patna,32.7,56,362.8
+2023-12,Bihar,Patna,23.9,83,168.5
+2023-01,Bihar,Gaya,25.3,77,432.4
+2023-02,Bihar,Gaya,33.7,69,19.3
+2023-03,Bihar,Gaya,33.3,90,447.1
+2023-04,Bihar,Gaya,25.8,90,34.8
+2023-05,Bihar,Gaya,31.5,81,463.8
+2023-06,Bihar,Gaya,21.1,87,284.3
+2023-07,Bihar,Gaya,21.7,56,331.5
+2023-08,Bihar,Gaya,21.3,65,130.6
+2023-09,Bihar,Gaya,25.9,82,294.4
+2023-10,Bihar,Gaya,25.1,60,93.4
+2023-11,Bihar,Gaya,29.6,62,479.4
+2023-12,Bihar,Gaya,23.1,61,476.2
+2023-01,Bihar,Muzaffarpur,23.6,76,138.7
+2023-02,Bihar,Muzaffarpur,20.8,56,378.5
+2023-03,Bihar,Muzaffarpur,25.6,61,5.8
+2023-04,Bihar,Muzaffarpur,20.1,87,108.3
+2023-05,Bihar,Muzaffarpur,20.5,71,226.4
+2023-06,Bihar,Muzaffarpur,31.6,78,182.4
+2023-07,Bihar,Muzaffarpur,20.3,61,258.3
+2023-08,Bihar,Muzaffarpur,30.1,75,18.7
+2023-09,Bihar,Muzaffarpur,31.3,55,334.2
+2023-10,Bihar,Muzaffarpur,33.2,85,17.2
+2023-11,Bihar,Muzaffarpur,32.1,85,50.8
+2023-12,Bihar,Muzaffarpur,21.8,89,65.3
+2023-01,Bihar,Bhagalpur,21.0,90,5.6
+2023-02,Bihar,Bhagalpur,24.2,57,451.7
+2023-03,Bihar,Bhagalpur,30.1,68,361.2
+2023-04,Bihar,Bhagalpur,20.4,56,379.2
+2023-05,Bihar,Bhagalpur,20.8,51,350.3
+2023-06,Bihar,Bhagalpur,33.1,90,236.4
+2023-07,Bihar,Bhagalpur,34.9,68,339.2
+2023-08,Bihar,Bhagalpur,26.5,54,206.1
+2023-09,Bihar,Bhagalpur,30.2,57,413.6
+2023-10,Bihar,Bhagalpur,30.1,62,360.9
+2023-11,Bihar,Bhagalpur,23.0,88,366.5
+2023-12,Bihar,Bhagalpur,27.2,86,253.4
+2023-01,Bihar,Darbhanga,34.4,75,119.4
+2023-02,Bihar,Darbhanga,22.6,70,378.2
+2023-03,Bihar,Darbhanga,34.7,52,263.0
+2023-04,Bihar,Darbhanga,31.9,58,446.6
+2023-05,Bihar,Darbhanga,30.1,54,25.9
+2023-06,Bihar,Darbhanga,29.1,63,359.4
+2023-07,Bihar,Darbhanga,30.9,71,416.9
+2023-08,Bihar,Darbhanga,24.4,73,124.6
+2023-09,Bihar,Darbhanga,27.7,60,145.5
+2023-10,Bihar,Darbhanga,34.1,88,214.1
+2023-11,Bihar,Darbhanga,32.9,73,444.5
+2023-12,Bihar,Darbhanga,29.6,86,380.5
+2023-01,Chhattisgarh,Raipur,21.3,50,310.4
+2023-02,Chhattisgarh,Raipur,23.3,74,315.8
+2023-03,Chhattisgarh,Raipur,21.8,65,218.7
+2023-04,Chhattisgarh,Raipur,25.4,71,178.1
+2023-05,Chhattisgarh,Raipur,31.0,82,284.9
+2023-06,Chhattisgarh,Raipur,28.6,81,218.6
+2023-07,Chhattisgarh,Raipur,28.6,63,495.0
+2023-08,Chhattisgarh,Raipur,21.0,72,260.6
+2023-09,Chhattisgarh,Raipur,25.1,72,141.0
+2023-10,Chhattisgarh,Raipur,26.1,61,56.5
+2023-11,Chhattisgarh,Raipur,31.0,61,302.3
+2023-12,Chhattisgarh,Raipur,26.1,90,262.3
+2023-01,Chhattisgarh,Bilaspur,20.4,68,439.5
+2023-02,Chhattisgarh,Bilaspur,20.5,57,307.8
+2023-03,Chhattisgarh,Bilaspur,30.0,75,428.1
+2023-04,Chhattisgarh,Bilaspur,34.4,62,316.1
+2023-05,Chhattisgarh,Bilaspur,29.4,90,191.4
+2023-06,Chhattisgarh,Bilaspur,33.7,52,361.7
+2023-07,Chhattisgarh,Bilaspur,33.5,85,337.9
+2023-08,Chhattisgarh,Bilaspur,30.4,67,498.9
+2023-09,Chhattisgarh,Bilaspur,28.4,74,204.4
+2023-10,Chhattisgarh,Bilaspur,28.5,57,39.6
+2023-11,Chhattisgarh,Bilaspur,31.6,73,129.9
+2023-12,Chhattisgarh,Bilaspur,24.3,54,34.5
+2023-01,Chhattisgarh,Korba,32.9,70,92.0
+2023-02,Chhattisgarh,Korba,24.9,74,24.5
+2023-03,Chhattisgarh,Korba,30.4,65,247.5
+2023-04,Chhattisgarh,Korba,25.5,67,91.1
+2023-05,Chhattisgarh,Korba,28.4,53,139.5
+2023-06,Chhattisgarh,Korba,33.8,50,368.9
+2023-07,Chhattisgarh,Korba,31.1,87,311.5
+2023-08,Chhattisgarh,Korba,23.2,89,193.0
+2023-09,Chhattisgarh,Korba,26.4,81,322.2
+2023-10,Chhattisgarh,Korba,20.2,70,180.4
+2023-11,Chhattisgarh,Korba,24.0,52,155.3
+2023-12,Chhattisgarh,Korba,21.2,69,45.8
+2023-01,Chhattisgarh,Durg,22.0,56,448.9
+2023-02,Chhattisgarh,Durg,22.5,58,3.6
+2023-03,Chhattisgarh,Durg,20.0,79,356.1
+2023-04,Chhattisgarh,Durg,28.4,85,103.9
+2023-05,Chhattisgarh,Durg,34.9,78,218.3
+2023-06,Chhattisgarh,Durg,33.3,74,271.7
+2023-07,Chhattisgarh,Durg,27.1,73,20.3
+2023-08,Chhattisgarh,Durg,23.3,86,496.3
+2023-09,Chhattisgarh,Durg,25.4,51,278.6
+2023-10,Chhattisgarh,Durg,29.3,85,258.3
+2023-11,Chhattisgarh,Durg,23.6,52,70.2
+2023-12,Chhattisgarh,Durg,25.5,55,368.3
+2023-01,Chhattisgarh,Jagdalpur,34.6,72,286.7
+2023-02,Chhattisgarh,Jagdalpur,32.4,50,73.7
+2023-03,Chhattisgarh,Jagdalpur,21.4,55,296.8
+2023-04,Chhattisgarh,Jagdalpur,30.9,65,64.0
+2023-05,Chhattisgarh,Jagdalpur,23.9,57,285.3
+2023-06,Chhattisgarh,Jagdalpur,29.4,63,317.6
+2023-07,Chhattisgarh,Jagdalpur,25.6,68,80.9
+2023-08,Chhattisgarh,Jagdalpur,24.4,65,486.5
+2023-09,Chhattisgarh,Jagdalpur,20.6,74,9.1
+2023-10,Chhattisgarh,Jagdalpur,30.6,60,391.1
+2023-11,Chhattisgarh,Jagdalpur,32.9,70,2.4
+2023-12,Chhattisgarh,Jagdalpur,31.7,63,129.6
+2023-01,Goa,Panaji,25.7,57,270.6
+2023-02,Goa,Panaji,31.8,65,3.4
+2023-03,Goa,Panaji,21.2,58,487.8
+2023-04,Goa,Panaji,24.0,89,13.3
+2023-05,Goa,Panaji,29.2,63,264.0
+2023-06,Goa,Panaji,26.9,70,49.6
+2023-07,Goa,Panaji,29.8,87,199.3
+2023-08,Goa,Panaji,20.4,68,219.6
+2023-09,Goa,Panaji,27.3,62,103.2
+2023-10,Goa,Panaji,24.8,65,372.8
+2023-11,Goa,Panaji,29.5,75,432.3
+2023-12,Goa,Panaji,30.2,90,201.0
+2023-01,Goa,Margao,28.7,70,137.5
+2023-02,Goa,Margao,25.5,53,37.3
+2023-03,Goa,Margao,30.7,51,258.6
+2023-04,Goa,Margao,32.6,53,388.8
+2023-05,Goa,Margao,31.9,63,95.4
+2023-06,Goa,Margao,26.3,55,286.3
+2023-07,Goa,Margao,34.0,74,310.3
+2023-08,Goa,Margao,20.3,69,237.9
+2023-09,Goa,Margao,22.0,58,260.8
+2023-10,Goa,Margao,34.5,61,8.3
+2023-11,Goa,Margao,28.7,61,141.6
+2023-12,Goa,Margao,32.9,90,75.4
+2023-01,Goa,Vasco da Gama,25.7,81,31.5
+2023-02,Goa,Vasco da Gama,33.8,79,124.0
+2023-03,Goa,Vasco da Gama,24.4,59,480.4
+2023-04,Goa,Vasco da Gama,32.2,73,440.5
+2023-05,Goa,Vasco da Gama,28.4,85,462.9
+2023-06,Goa,Vasco da Gama,34.3,56,461.4
+2023-07,Goa,Vasco da Gama,25.7,87,234.1
+2023-08,Goa,Vasco da Gama,34.0,88,200.4
+2023-09,Goa,Vasco da Gama,24.0,64,311.2
+2023-10,Goa,Vasco da Gama,33.2,67,102.5
+2023-11,Goa,Vasco da Gama,22.1,86,238.8
+2023-12,Goa,Vasco da Gama,27.1,52,152.8
+2023-01,Goa,Mapusa,32.6,75,409.8
+2023-02,Goa,Mapusa,24.9,71,221.2
+2023-03,Goa,Mapusa,21.1,71,194.9
+2023-04,Goa,Mapusa,34.7,89,414.0
+2023-05,Goa,Mapusa,25.1,81,157.1
+2023-06,Goa,Mapusa,26.1,50,62.1
+2023-07,Goa,Mapusa,27.6,51,304.3
+2023-08,Goa,Mapusa,21.9,54,451.8
+2023-09,Goa,Mapusa,27.8,68,26.3
+2023-10,Goa,Mapusa,22.5,55,204.8
+2023-11,Goa,Mapusa,27.5,84,465.6
+2023-12,Goa,Mapusa,20.5,55,415.6
+2023-01,Goa,Ponda,25.8,66,201.5
+2023-02,Goa,Ponda,34.2,71,376.5
+2023-03,Goa,Ponda,27.9,61,460.3
+2023-04,Goa,Ponda,26.7,62,375.8
+2023-05,Goa,Ponda,28.1,67,310.0
+2023-06,Goa,Ponda,31.6,78,33.4
+2023-07,Goa,Ponda,22.7,86,327.4
+2023-08,Goa,Ponda,24.3,53,172.6
+2023-09,Goa,Ponda,25.1,84,217.4
+2023-10,Goa,Ponda,22.2,67,240.4
+2023-11,Goa,Ponda,29.6,71,392.8
+2023-12,Goa,Ponda,26.3,53,427.8
+2023-01,Gujarat,Ahmedabad,24.5,78,17.1
+2023-02,Gujarat,Ahmedabad,22.2,85,127.5
+2023-03,Gujarat,Ahmedabad,25.8,64,455.1
+2023-04,Gujarat,Ahmedabad,22.2,67,478.5
+2023-05,Gujarat,Ahmedabad,28.1,68,376.8
+2023-06,Gujarat,Ahmedabad,30.0,72,261.0
+2023-07,Gujarat,Ahmedabad,27.7,54,370.3
+2023-08,Gujarat,Ahmedabad,24.7,79,102.3
+2023-09,Gujarat,Ahmedabad,29.9,61,65.2
+2023-10,Gujarat,Ahmedabad,20.0,76,329.6
+2023-11,Gujarat,Ahmedabad,33.8,78,10.3
+2023-12,Gujarat,Ahmedabad,34.2,59,322.3
+2023-01,Gujarat,Surat,21.6,80,400.5
+2023-02,Gujarat,Surat,34.6,54,431.1
+2023-03,Gujarat,Surat,20.8,78,109.6
+2023-04,Gujarat,Surat,26.1,55,21.0
+2023-05,Gujarat,Surat,28.2,89,262.6
+2023-06,Gujarat,Surat,27.4,72,48.8
+2023-07,Gujarat,Surat,27.6,72,102.1
+2023-08,Gujarat,Surat,21.6,63,118.0
+2023-09,Gujarat,Surat,28.4,77,397.7
+2023-10,Gujarat,Surat,24.9,62,238.8
+2023-11,Gujarat,Surat,27.0,64,366.5
+2023-12,Gujarat,Surat,22.2,50,499.7
+2023-01,Gujarat,Vadodara,23.6,59,249.0
+2023-02,Gujarat,Vadodara,26.5,53,100.0
+2023-03,Gujarat,Vadodara,25.9,79,289.8
+2023-04,Gujarat,Vadodara,34.4,88,83.3
+2023-05,Gujarat,Vadodara,27.3,52,384.6
+2023-06,Gujarat,Vadodara,28.6,88,432.4
+2023-07,Gujarat,Vadodara,34.8,50,444.2
+2023-08,Gujarat,Vadodara,34.9,56,79.8
+2023-09,Gujarat,Vadodara,27.1,57,300.5
+2023-10,Gujarat,Vadodara,32.1,71,305.6
+2023-11,Gujarat,Vadodara,34.1,66,499.6
+2023-12,Gujarat,Vadodara,20.5,82,7.0
+2023-01,Gujarat,Rajkot,24.8,81,427.1
+2023-02,Gujarat,Rajkot,25.4,59,305.2
+2023-03,Gujarat,Rajkot,25.8,89,141.9
+2023-04,Gujarat,Rajkot,22.7,56,65.5
+2023-05,Gujarat,Rajkot,30.7,59,496.9
+2023-06,Gujarat,Rajkot,25.0,76,324.5
+2023-07,Gujarat,Rajkot,21.0,73,497.6
+2023-08,Gujarat,Rajkot,27.1,54,105.3
+2023-09,Gujarat,Rajkot,25.0,81,443.5
+2023-10,Gujarat,Rajkot,33.6,85,307.4
+2023-11,Gujarat,Rajkot,31.6,85,339.9
+2023-12,Gujarat,Rajkot,27.4,82,350.8
+2023-01,Gujarat,Bhavnagar,30.7,74,209.1
+2023-02,Gujarat,Bhavnagar,28.6,64,432.9
+2023-03,Gujarat,Bhavnagar,25.6,87,366.1
+2023-04,Gujarat,Bhavnagar,30.1,70,264.5
+2023-05,Gujarat,Bhavnagar,20.9,72,175.3
+2023-06,Gujarat,Bhavnagar,28.0,58,52.4
+2023-07,Gujarat,Bhavnagar,34.0,87,91.7
+2023-08,Gujarat,Bhavnagar,24.7,81,242.8
+2023-09,Gujarat,Bhavnagar,28.6,90,392.1
+2023-10,Gujarat,Bhavnagar,29.6,71,75.9
+2023-11,Gujarat,Bhavnagar,24.7,58,492.9
+2023-12,Gujarat,Bhavnagar,29.4,69,138.7
+2023-01,Haryana,Gurgaon,25.8,90,398.1
+2023-02,Haryana,Gurgaon,31.2,77,316.9
+2023-03,Haryana,Gurgaon,22.4,74,192.6
+2023-04,Haryana,Gurgaon,32.3,85,413.5
+2023-05,Haryana,Gurgaon,33.4,67,284.0
+2023-06,Haryana,Gurgaon,30.0,77,238.2
+2023-07,Haryana,Gurgaon,34.0,84,51.7
+2023-08,Haryana,Gurgaon,23.8,79,126.0
+2023-09,Haryana,Gurgaon,28.4,76,202.5
+2023-10,Haryana,Gurgaon,23.8,80,140.2
+2023-11,Haryana,Gurgaon,24.8,50,334.7
+2023-12,Haryana,Gurgaon,27.5,66,65.7
+2023-01,Haryana,Faridabad,30.6,63,1.7
+2023-02,Haryana,Faridabad,22.3,65,191.3
+2023-03,Haryana,Faridabad,34.6,84,348.3
+2023-04,Haryana,Faridabad,25.4,51,236.2
+2023-05,Haryana,Faridabad,28.3,69,346.9
+2023-06,Haryana,Faridabad,31.9,58,385.6
+2023-07,Haryana,Faridabad,28.3,76,364.6
+2023-08,Haryana,Faridabad,31.4,78,241.4
+2023-09,Haryana,Faridabad,21.5,79,239.6
+2023-10,Haryana,Faridabad,23.4,75,149.0
+2023-11,Haryana,Faridabad,23.4,66,194.9
+2023-12,Haryana,Faridabad,22.8,65,98.3
+2023-01,Haryana,Panipat,27.7,88,211.1
+2023-02,Haryana,Panipat,22.4,68,335.7
+2023-03,Haryana,Panipat,27.1,80,377.9
+2023-04,Haryana,Panipat,22.9,64,13.5
+2023-05,Haryana,Panipat,32.4,57,148.7
+2023-06,Haryana,Panipat,30.2,66,386.8
+2023-07,Haryana,Panipat,26.8,85,20.1
+2023-08,Haryana,Panipat,33.7,84,479.4
+2023-09,Haryana,Panipat,25.1,58,202.5
+2023-10,Haryana,Panipat,22.1,56,484.6
+2023-11,Haryana,Panipat,24.0,74,321.2
+2023-12,Haryana,Panipat,23.5,72,398.1
+2023-01,Haryana,Ambala,29.1,62,43.5
+2023-02,Haryana,Ambala,33.4,58,284.7
+2023-03,Haryana,Ambala,27.5,70,385.8
+2023-04,Haryana,Ambala,29.2,61,233.6
+2023-05,Haryana,Ambala,20.9,50,158.0
+2023-06,Haryana,Ambala,34.1,60,140.0
+2023-07,Haryana,Ambala,28.6,89,2.4
+2023-08,Haryana,Ambala,26.1,85,434.9
+2023-09,Haryana,Ambala,23.6,68,164.5
+2023-10,Haryana,Ambala,32.0,82,437.0
+2023-11,Haryana,Ambala,28.7,87,229.8
+2023-12,Haryana,Ambala,22.7,57,119.7
+2023-01,Haryana,Karnal,22.4,87,245.8
+2023-02,Haryana,Karnal,29.9,52,401.9
+2023-03,Haryana,Karnal,33.4,62,41.4
+2023-04,Haryana,Karnal,26.0,79,2.6
+2023-05,Haryana,Karnal,34.5,90,25.9
+2023-06,Haryana,Karnal,33.5,68,211.6
+2023-07,Haryana,Karnal,21.5,72,135.7
+2023-08,Haryana,Karnal,26.1,65,270.5
+2023-09,Haryana,Karnal,25.8,86,233.5
+2023-10,Haryana,Karnal,28.4,64,370.8
+2023-11,Haryana,Karnal,27.3,68,138.9
+2023-12,Haryana,Karnal,23.2,61,312.6
+2023-01,Himachal Pradesh,Shimla,29.6,79,394.8
+2023-02,Himachal Pradesh,Shimla,22.5,51,150.4
+2023-03,Himachal Pradesh,Shimla,21.0,77,191.1
+2023-04,Himachal Pradesh,Shimla,34.8,80,436.9
+2023-05,Himachal Pradesh,Shimla,30.5,69,149.7
+2023-06,Himachal Pradesh,Shimla,27.6,89,168.3
+2023-07,Himachal Pradesh,Shimla,34.9,72,391.5
+2023-08,Himachal Pradesh,Shimla,34.2,63,108.0
+2023-09,Himachal Pradesh,Shimla,33.2,73,407.0
+2023-10,Himachal Pradesh,Shimla,31.6,60,299.7
+2023-11,Himachal Pradesh,Shimla,20.4,87,339.3
+2023-12,Himachal Pradesh,Shimla,35.0,79,8.4
+2023-01,Himachal Pradesh,Dharamshala,22.0,53,101.0
+2023-02,Himachal Pradesh,Dharamshala,34.9,66,64.7
+2023-03,Himachal Pradesh,Dharamshala,21.3,58,225.4
+2023-04,Himachal Pradesh,Dharamshala,33.0,79,402.2
+2023-05,Himachal Pradesh,Dharamshala,30.9,86,313.6
+2023-06,Himachal Pradesh,Dharamshala,31.7,60,399.7
+2023-07,Himachal Pradesh,Dharamshala,29.4,65,317.5
+2023-08,Himachal Pradesh,Dharamshala,30.2,87,258.3
+2023-09,Himachal Pradesh,Dharamshala,22.0,81,234.3
+2023-10,Himachal Pradesh,Dharamshala,28.9,66,113.8
+2023-11,Himachal Pradesh,Dharamshala,21.4,69,138.9
+2023-12,Himachal Pradesh,Dharamshala,27.0,71,450.8
+2023-01,Himachal Pradesh,Manali,23.5,57,163.4
+2023-02,Himachal Pradesh,Manali,33.6,79,203.2
+2023-03,Himachal Pradesh,Manali,28.0,71,436.1
+2023-04,Himachal Pradesh,Manali,21.0,56,401.1
+2023-05,Himachal Pradesh,Manali,30.1,88,229.2
+2023-06,Himachal Pradesh,Manali,26.5,51,44.6
+2023-07,Himachal Pradesh,Manali,20.7,62,488.4
+2023-08,Himachal Pradesh,Manali,25.1,78,404.6
+2023-09,Himachal Pradesh,Manali,27.6,54,312.9
+2023-10,Himachal Pradesh,Manali,32.6,58,11.4
+2023-11,Himachal Pradesh,Manali,30.6,76,245.9
+2023-12,Himachal Pradesh,Manali,28.7,69,194.2
+2023-01,Himachal Pradesh,Kullu,35.0,55,106.4
+2023-02,Himachal Pradesh,Kullu,29.2,58,344.1
+2023-03,Himachal Pradesh,Kullu,20.0,73,302.9
+2023-04,Himachal Pradesh,Kullu,20.8,79,303.6
+2023-05,Himachal Pradesh,Kullu,29.2,74,344.9
+2023-06,Himachal Pradesh,Kullu,23.6,83,96.6
+2023-07,Himachal Pradesh,Kullu,27.8,78,444.3
+2023-08,Himachal Pradesh,Kullu,34.8,61,224.8
+2023-09,Himachal Pradesh,Kullu,22.4,56,12.2
+2023-10,Himachal Pradesh,Kullu,26.9,63,390.3
+2023-11,Himachal Pradesh,Kullu,28.2,73,233.1
+2023-12,Himachal Pradesh,Kullu,26.6,53,136.4
+2023-01,Himachal Pradesh,Solan,34.1,79,348.4
+2023-02,Himachal Pradesh,Solan,28.3,63,288.9
+2023-03,Himachal Pradesh,Solan,31.7,70,91.9
+2023-04,Himachal Pradesh,Solan,21.9,55,87.3
+2023-05,Himachal Pradesh,Solan,23.2,85,77.2
+2023-06,Himachal Pradesh,Solan,28.0,80,201.0
+2023-07,Himachal Pradesh,Solan,23.8,87,212.2
+2023-08,Himachal Pradesh,Solan,30.7,59,381.3
+2023-09,Himachal Pradesh,Solan,27.5,73,382.6
+2023-10,Himachal Pradesh,Solan,20.0,70,416.8
+2023-11,Himachal Pradesh,Solan,28.2,55,102.2
+2023-12,Himachal Pradesh,Solan,21.9,83,316.2
+2023-01,Jharkhand,Ranchi,34.8,83,380.7
+2023-02,Jharkhand,Ranchi,29.4,90,168.7
+2023-03,Jharkhand,Ranchi,22.2,77,470.4
+2023-04,Jharkhand,Ranchi,20.6,58,428.5
+2023-05,Jharkhand,Ranchi,24.1,66,143.0
+2023-06,Jharkhand,Ranchi,26.0,54,458.0
+2023-07,Jharkhand,Ranchi,31.0,76,16.2
+2023-08,Jharkhand,Ranchi,26.2,81,131.6
+2023-09,Jharkhand,Ranchi,34.1,50,80.7
+2023-10,Jharkhand,Ranchi,23.1,89,333.4
+2023-11,Jharkhand,Ranchi,29.2,70,441.8
+2023-12,Jharkhand,Ranchi,34.1,90,450.3
+2023-01,Jharkhand,Jamshedpur,27.0,70,256.3
+2023-02,Jharkhand,Jamshedpur,29.5,53,204.5
+2023-03,Jharkhand,Jamshedpur,24.3,54,189.6
+2023-04,Jharkhand,Jamshedpur,34.7,78,339.0
+2023-05,Jharkhand,Jamshedpur,32.4,85,113.8
+2023-06,Jharkhand,Jamshedpur,32.1,51,424.8
+2023-07,Jharkhand,Jamshedpur,34.5,78,492.7
+2023-08,Jharkhand,Jamshedpur,20.6,56,83.6
+2023-09,Jharkhand,Jamshedpur,28.9,50,26.0
+2023-10,Jharkhand,Jamshedpur,27.4,90,330.3
+2023-11,Jharkhand,Jamshedpur,24.8,76,470.7
+2023-12,Jharkhand,Jamshedpur,23.5,63,15.7
+2023-01,Jharkhand,Dhanbad,21.1,72,422.6
+2023-02,Jharkhand,Dhanbad,33.5,65,264.7
+2023-03,Jharkhand,Dhanbad,30.3,84,205.3
+2023-04,Jharkhand,Dhanbad,28.0,74,61.4
+2023-05,Jharkhand,Dhanbad,26.2,62,227.0
+2023-06,Jharkhand,Dhanbad,20.3,80,373.2
+2023-07,Jharkhand,Dhanbad,29.9,53,227.3
+2023-08,Jharkhand,Dhanbad,25.2,52,110.6
+2023-09,Jharkhand,Dhanbad,29.8,71,225.6
+2023-10,Jharkhand,Dhanbad,26.1,83,303.4
+2023-11,Jharkhand,Dhanbad,21.4,83,449.6
+2023-12,Jharkhand,Dhanbad,30.2,66,493.4
+2023-01,Jharkhand,Bokaro,31.5,58,327.9
+2023-02,Jharkhand,Bokaro,23.9,74,344.5
+2023-03,Jharkhand,Bokaro,30.6,65,465.0
+2023-04,Jharkhand,Bokaro,23.2,60,215.5
+2023-05,Jharkhand,Bokaro,20.7,77,349.3
+2023-06,Jharkhand,Bokaro,30.2,71,411.3
+2023-07,Jharkhand,Bokaro,25.7,50,55.9
+2023-08,Jharkhand,Bokaro,27.3,51,84.2
+2023-09,Jharkhand,Bokaro,31.8,65,133.3
+2023-10,Jharkhand,Bokaro,29.2,50,77.7
+2023-11,Jharkhand,Bokaro,22.1,83,151.9
+2023-12,Jharkhand,Bokaro,20.0,77,426.4
+2023-01,Jharkhand,Deoghar,34.7,53,139.9
+2023-02,Jharkhand,Deoghar,22.0,78,286.7
+2023-03,Jharkhand,Deoghar,31.5,65,75.3
+2023-04,Jharkhand,Deoghar,33.9,77,81.8
+2023-05,Jharkhand,Deoghar,23.6,66,272.3
+2023-06,Jharkhand,Deoghar,34.2,87,342.6
+2023-07,Jharkhand,Deoghar,20.9,71,63.3
+2023-08,Jharkhand,Deoghar,25.1,54,470.4
+2023-09,Jharkhand,Deoghar,32.0,67,113.9
+2023-10,Jharkhand,Deoghar,25.7,76,372.3
+2023-11,Jharkhand,Deoghar,31.6,70,259.4
+2023-12,Jharkhand,Deoghar,26.7,56,382.5
+2023-01,Karnataka,Bengaluru,29.3,72,133.8
+2023-02,Karnataka,Bengaluru,21.1,52,251.0
+2023-03,Karnataka,Bengaluru,23.7,83,84.1
+2023-04,Karnataka,Bengaluru,23.1,62,57.0
+2023-05,Karnataka,Bengaluru,23.9,85,420.7
+2023-06,Karnataka,Bengaluru,34.3,62,86.7
+2023-07,Karnataka,Bengaluru,30.3,90,73.0
+2023-08,Karnataka,Bengaluru,29.5,83,313.6
+2023-09,Karnataka,Bengaluru,23.6,89,0.4
+2023-10,Karnataka,Bengaluru,28.4,89,74.7
+2023-11,Karnataka,Bengaluru,31.7,81,251.1
+2023-12,Karnataka,Bengaluru,21.9,51,163.9
+2023-01,Karnataka,Mysuru,20.7,86,71.9
+2023-02,Karnataka,Mysuru,22.2,66,391.3
+2023-03,Karnataka,Mysuru,33.4,70,371.7
+2023-04,Karnataka,Mysuru,25.2,50,360.9
+2023-05,Karnataka,Mysuru,30.4,83,63.2
+2023-06,Karnataka,Mysuru,29.6,88,81.8
+2023-07,Karnataka,Mysuru,22.4,81,425.1
+2023-08,Karnataka,Mysuru,32.6,71,74.1
+2023-09,Karnataka,Mysuru,26.6,77,88.8
+2023-10,Karnataka,Mysuru,21.2,87,44.8
+2023-11,Karnataka,Mysuru,22.4,84,200.5
+2023-12,Karnataka,Mysuru,32.7,74,456.6
+2023-01,Karnataka,Mangaluru,23.5,56,33.6
+2023-02,Karnataka,Mangaluru,29.4,78,488.2
+2023-03,Karnataka,Mangaluru,33.2,75,273.1
+2023-04,Karnataka,Mangaluru,25.5,70,126.3
+2023-05,Karnataka,Mangaluru,25.1,66,153.0
+2023-06,Karnataka,Mangaluru,33.2,83,239.0
+2023-07,Karnataka,Mangaluru,21.1,69,64.6
+2023-08,Karnataka,Mangaluru,31.4,62,427.0
+2023-09,Karnataka,Mangaluru,33.0,64,51.3
+2023-10,Karnataka,Mangaluru,27.7,68,172.8
+2023-11,Karnataka,Mangaluru,24.2,77,216.5
+2023-12,Karnataka,Mangaluru,34.8,73,329.2
+2023-01,Karnataka,Hubli,30.8,84,309.7
+2023-02,Karnataka,Hubli,34.9,73,388.5
+2023-03,Karnataka,Hubli,27.7,70,430.5
+2023-04,Karnataka,Hubli,27.8,56,446.1
+2023-05,Karnataka,Hubli,22.8,77,28.0
+2023-06,Karnataka,Hubli,31.1,61,186.2
+2023-07,Karnataka,Hubli,22.6,88,204.2
+2023-08,Karnataka,Hubli,24.1,59,472.8
+2023-09,Karnataka,Hubli,27.0,62,128.9
+2023-10,Karnataka,Hubli,27.8,56,474.7
+2023-11,Karnataka,Hubli,31.7,62,412.7
+2023-12,Karnataka,Hubli,32.6,87,364.5
+2023-01,Karnataka,Belagavi,29.2,59,453.6
+2023-02,Karnataka,Belagavi,26.5,60,159.2
+2023-03,Karnataka,Belagavi,22.0,71,330.8
+2023-04,Karnataka,Belagavi,33.3,65,110.7
+2023-05,Karnataka,Belagavi,32.7,81,368.6
+2023-06,Karnataka,Belagavi,34.9,53,17.0
+2023-07,Karnataka,Belagavi,20.5,63,434.4
+2023-08,Karnataka,Belagavi,33.4,76,106.6
+2023-09,Karnataka,Belagavi,34.6,50,293.3
+2023-10,Karnataka,Belagavi,21.8,51,151.0
+2023-11,Karnataka,Belagavi,35.0,53,282.2
+2023-12,Karnataka,Belagavi,27.7,55,33.4
+2023-01,Kerala,Thiruvananthapuram,29.5,78,236.1
+2023-02,Kerala,Thiruvananthapuram,27.4,86,105.9
+2023-03,Kerala,Thiruvananthapuram,20.6,61,325.3
+2023-04,Kerala,Thiruvananthapuram,31.3,84,407.3
+2023-05,Kerala,Thiruvananthapuram,27.7,60,458.2
+2023-06,Kerala,Thiruvananthapuram,31.2,90,201.9
+2023-07,Kerala,Thiruvananthapuram,20.1,61,473.5
+2023-08,Kerala,Thiruvananthapuram,24.1,72,493.2
+2023-09,Kerala,Thiruvananthapuram,29.3,64,493.8
+2023-10,Kerala,Thiruvananthapuram,26.1,84,272.9
+2023-11,Kerala,Thiruvananthapuram,25.5,86,151.7
+2023-12,Kerala,Thiruvananthapuram,29.7,69,405.7
+2023-01,Kerala,Kochi,26.1,90,360.4
+2023-02,Kerala,Kochi,34.8,58,455.7
+2023-03,Kerala,Kochi,31.8,77,119.7
+2023-04,Kerala,Kochi,26.7,59,335.7
+2023-05,Kerala,Kochi,34.0,86,116.9
+2023-06,Kerala,Kochi,28.5,53,492.9
+2023-07,Kerala,Kochi,31.9,81,72.4
+2023-08,Kerala,Kochi,34.5,83,279.9
+2023-09,Kerala,Kochi,32.1,89,487.5
+2023-10,Kerala,Kochi,24.6,70,340.0
+2023-11,Kerala,Kochi,20.3,55,308.9
+2023-12,Kerala,Kochi,24.4,53,98.7
+2023-01,Kerala,Kozhikode,34.7,66,314.6
+2023-02,Kerala,Kozhikode,21.7,87,469.1
+2023-03,Kerala,Kozhikode,22.4,53,86.9
+2023-04,Kerala,Kozhikode,28.8,73,263.7
+2023-05,Kerala,Kozhikode,21.4,86,488.1
+2023-06,Kerala,Kozhikode,32.8,77,144.5
+2023-07,Kerala,Kozhikode,25.3,66,174.3
+2023-08,Kerala,Kozhikode,23.3,72,51.4
+2023-09,Kerala,Kozhikode,33.6,50,197.3
+2023-10,Kerala,Kozhikode,33.1,57,420.1
+2023-11,Kerala,Kozhikode,32.2,71,324.3
+2023-12,Kerala,Kozhikode,24.6,67,367.3
+2023-01,Kerala,Thrissur,32.7,81,56.7
+2023-02,Kerala,Thrissur,25.2,57,437.1
+2023-03,Kerala,Thrissur,30.3,73,89.7
+2023-04,Kerala,Thrissur,21.3,57,329.1
+2023-05,Kerala,Thrissur,30.7,85,15.3
+2023-06,Kerala,Thrissur,28.3,61,115.8
+2023-07,Kerala,Thrissur,24.1,73,151.8
+2023-08,Kerala,Thrissur,29.0,54,311.3
+2023-09,Kerala,Thrissur,29.7,66,140.4
+2023-10,Kerala,Thrissur,26.8,76,437.3
+2023-11,Kerala,Thrissur,33.8,70,384.1
+2023-12,Kerala,Thrissur,26.1,84,229.0
+2023-01,Kerala,Kannur,31.2,55,280.3
+2023-02,Kerala,Kannur,28.4,90,118.9
+2023-03,Kerala,Kannur,35.0,89,434.9
+2023-04,Kerala,Kannur,24.8,73,107.6
+2023-05,Kerala,Kannur,21.4,87,376.1
+2023-06,Kerala,Kannur,33.0,54,216.0
+2023-07,Kerala,Kannur,28.2,82,21.9
+2023-08,Kerala,Kannur,23.7,69,42.9
+2023-09,Kerala,Kannur,33.8,87,202.6
+2023-10,Kerala,Kannur,26.6,87,37.9
+2023-11,Kerala,Kannur,23.9,51,440.8
+2023-12,Kerala,Kannur,33.8,54,424.7
+2023-01,Madhya Pradesh,Bhopal,21.2,79,108.0
+2023-02,Madhya Pradesh,Bhopal,23.0,50,112.6
+2023-03,Madhya Pradesh,Bhopal,32.8,64,315.7
+2023-04,Madhya Pradesh,Bhopal,32.9,68,31.5
+2023-05,Madhya Pradesh,Bhopal,24.3,70,342.6
+2023-06,Madhya Pradesh,Bhopal,31.4,52,409.4
+2023-07,Madhya Pradesh,Bhopal,25.0,90,175.4
+2023-08,Madhya Pradesh,Bhopal,35.0,67,328.7
+2023-09,Madhya Pradesh,Bhopal,28.4,66,442.4
+2023-10,Madhya Pradesh,Bhopal,24.9,88,429.8
+2023-11,Madhya Pradesh,Bhopal,26.1,76,370.1
+2023-12,Madhya Pradesh,Bhopal,29.7,67,227.2
+2023-01,Madhya Pradesh,Indore,24.5,78,59.8
+2023-02,Madhya Pradesh,Indore,32.3,63,38.4
+2023-03,Madhya Pradesh,Indore,34.7,73,294.8
+2023-04,Madhya Pradesh,Indore,31.2,54,129.9
+2023-05,Madhya Pradesh,Indore,28.4,81,316.7
+2023-06,Madhya Pradesh,Indore,21.5,68,155.3
+2023-07,Madhya Pradesh,Indore,24.3,81,228.1
+2023-08,Madhya Pradesh,Indore,23.3,88,101.2
+2023-09,Madhya Pradesh,Indore,20.1,57,289.8
+2023-10,Madhya Pradesh,Indore,28.4,66,137.8
+2023-11,Madhya Pradesh,Indore,26.4,58,145.6
+2023-12,Madhya Pradesh,Indore,32.6,70,206.5
+2023-01,Madhya Pradesh,Gwalior,28.5,78,139.6
+2023-02,Madhya Pradesh,Gwalior,30.0,60,244.6
+2023-03,Madhya Pradesh,Gwalior,28.0,59,439.9
+2023-04,Madhya Pradesh,Gwalior,33.5,79,301.8
+2023-05,Madhya Pradesh,Gwalior,21.8,72,81.2
+2023-06,Madhya Pradesh,Gwalior,21.1,67,260.4
+2023-07,Madhya Pradesh,Gwalior,28.7,84,359.9
+2023-08,Madhya Pradesh,Gwalior,29.0,82,159.4
+2023-09,Madhya Pradesh,Gwalior,20.8,69,439.3
+2023-10,Madhya Pradesh,Gwalior,22.5,73,117.5
+2023-11,Madhya Pradesh,Gwalior,30.0,68,450.5
+2023-12,Madhya Pradesh,Gwalior,33.2,54,83.2
+2023-01,Madhya Pradesh,Jabalpur,23.6,52,428.3
+2023-02,Madhya Pradesh,Jabalpur,29.4,54,253.1
+2023-03,Madhya Pradesh,Jabalpur,27.4,59,294.5
+2023-04,Madhya Pradesh,Jabalpur,27.1,85,339.6
+2023-05,Madhya Pradesh,Jabalpur,28.9,88,278.6
+2023-06,Madhya Pradesh,Jabalpur,20.1,60,491.7
+2023-07,Madhya Pradesh,Jabalpur,28.5,80,64.3
+2023-08,Madhya Pradesh,Jabalpur,24.5,63,360.4
+2023-09,Madhya Pradesh,Jabalpur,29.6,70,188.7
+2023-10,Madhya Pradesh,Jabalpur,26.1,62,69.8
+2023-11,Madhya Pradesh,Jabalpur,27.6,86,448.1
+2023-12,Madhya Pradesh,Jabalpur,27.0,88,348.0
+2023-01,Madhya Pradesh,Ujjain,29.7,61,127.2
+2023-02,Madhya Pradesh,Ujjain,32.6,56,224.1
+2023-03,Madhya Pradesh,Ujjain,31.4,72,380.7
+2023-04,Madhya Pradesh,Ujjain,31.0,77,236.3
+2023-05,Madhya Pradesh,Ujjain,24.1,72,258.8
+2023-06,Madhya Pradesh,Ujjain,32.2,72,149.0
+2023-07,Madhya Pradesh,Ujjain,30.0,54,159.1
+2023-08,Madhya Pradesh,Ujjain,27.8,73,319.3
+2023-09,Madhya Pradesh,Ujjain,27.8,62,424.8
+2023-10,Madhya Pradesh,Ujjain,20.8,68,53.7
+2023-11,Madhya Pradesh,Ujjain,30.2,68,443.2
+2023-12,Madhya Pradesh,Ujjain,21.3,79,39.2
+2023-01,Maharashtra,Mumbai,20.5,79,62.1
+2023-02,Maharashtra,Mumbai,27.5,61,460.1
+2023-03,Maharashtra,Mumbai,34.8,64,212.4
+2023-04,Maharashtra,Mumbai,21.0,83,209.9
+2023-05,Maharashtra,Mumbai,32.2,58,323.4
+2023-06,Maharashtra,Mumbai,34.6,53,19.6
+2023-07,Maharashtra,Mumbai,27.2,54,79.2
+2023-08,Maharashtra,Mumbai,23.4,67,0.0
+2023-09,Maharashtra,Mumbai,30.5,66,420.3
+2023-10,Maharashtra,Mumbai,33.4,83,470.9
+2023-11,Maharashtra,Mumbai,28.5,77,150.3
+2023-12,Maharashtra,Mumbai,25.2,77,353.0
+2023-01,Maharashtra,Pune,21.4,63,13.7
+2023-02,Maharashtra,Pune,25.9,86,245.8
+2023-03,Maharashtra,Pune,23.7,89,448.3
+2023-04,Maharashtra,Pune,33.7,74,388.1
+2023-05,Maharashtra,Pune,22.8,77,53.3
+2023-06,Maharashtra,Pune,21.1,87,13.8
+2023-07,Maharashtra,Pune,25.7,52,499.5
+2023-08,Maharashtra,Pune,33.9,72,36.3
+2023-09,Maharashtra,Pune,22.9,61,443.4
+2023-10,Maharashtra,Pune,28.8,82,13.2
+2023-11,Maharashtra,Pune,21.8,70,35.5
+2023-12,Maharashtra,Pune,34.6,84,83.9
+2023-01,Maharashtra,Nashik,29.4,67,393.9
+2023-02,Maharashtra,Nashik,30.7,85,79.3
+2023-03,Maharashtra,Nashik,27.9,59,112.8
+2023-04,Maharashtra,Nashik,24.8,73,456.2
+2023-05,Maharashtra,Nashik,25.9,65,144.0
+2023-06,Maharashtra,Nashik,21.9,70,272.2
+2023-07,Maharashtra,Nashik,31.1,76,117.9
+2023-08,Maharashtra,Nashik,27.3,67,484.1
+2023-09,Maharashtra,Nashik,33.9,56,11.0
+2023-10,Maharashtra,Nashik,27.6,71,286.9
+2023-11,Maharashtra,Nashik,22.0,68,183.1
+2023-12,Maharashtra,Nashik,33.4,62,457.5
+2023-01,Maharashtra,Nagpur,24.9,67,2.0
+2023-02,Maharashtra,Nagpur,25.3,71,445.4
+2023-03,Maharashtra,Nagpur,23.7,55,247.4
+2023-04,Maharashtra,Nagpur,27.0,67,209.0
+2023-05,Maharashtra,Nagpur,33.7,53,7.0
+2023-06,Maharashtra,Nagpur,21.7,87,106.4
+2023-07,Maharashtra,Nagpur,26.6,50,307.2
+2023-08,Maharashtra,Nagpur,27.2,68,454.6
+2023-09,Maharashtra,Nagpur,24.3,88,162.4
+2023-10,Maharashtra,Nagpur,26.6,68,193.8
+2023-11,Maharashtra,Nagpur,25.5,83,233.8
+2023-12,Maharashtra,Nagpur,21.2,63,465.8
+2023-01,Maharashtra,Thane,21.0,70,226.3
+2023-02,Maharashtra,Thane,23.3,66,450.4
+2023-03,Maharashtra,Thane,23.0,81,77.9
+2023-04,Maharashtra,Thane,22.2,64,120.6
+2023-05,Maharashtra,Thane,27.3,53,361.9
+2023-06,Maharashtra,Thane,33.4,56,281.7
+2023-07,Maharashtra,Thane,33.2,81,179.8
+2023-08,Maharashtra,Thane,28.7,65,444.4
+2023-09,Maharashtra,Thane,27.9,78,178.8
+2023-10,Maharashtra,Thane,33.3,57,420.8
+2023-11,Maharashtra,Thane,29.8,72,348.8
+2023-12,Maharashtra,Thane,26.8,89,473.0
+2023-01,Manipur,Imphal,23.6,74,494.9
+2023-02,Manipur,Imphal,27.5,52,140.4
+2023-03,Manipur,Imphal,30.1,71,358.4
+2023-04,Manipur,Imphal,34.9,71,156.9
+2023-05,Manipur,Imphal,21.2,87,331.1
+2023-06,Manipur,Imphal,25.9,57,433.0
+2023-07,Manipur,Imphal,28.2,86,22.1
+2023-08,Manipur,Imphal,20.2,54,372.4
+2023-09,Manipur,Imphal,34.5,61,132.3
+2023-10,Manipur,Imphal,34.8,76,424.2
+2023-11,Manipur,Imphal,24.0,53,19.1
+2023-12,Manipur,Imphal,22.3,67,322.2
+2023-01,Manipur,Churachandpur,33.5,65,400.2
+2023-02,Manipur,Churachandpur,20.0,83,318.7
+2023-03,Manipur,Churachandpur,33.8,89,441.5
+2023-04,Manipur,Churachandpur,29.6,73,434.3
+2023-05,Manipur,Churachandpur,20.2,89,401.3
+2023-06,Manipur,Churachandpur,23.5,64,186.6
+2023-07,Manipur,Churachandpur,25.0,68,36.7
+2023-08,Manipur,Churachandpur,29.7,79,321.5
+2023-09,Manipur,Churachandpur,23.8,80,215.1
+2023-10,Manipur,Churachandpur,22.2,60,208.8
+2023-11,Manipur,Churachandpur,20.5,71,342.3
+2023-12,Manipur,Churachandpur,28.4,62,182.2
+2023-01,Manipur,Thoubal,31.4,68,485.5
+2023-02,Manipur,Thoubal,29.5,69,277.6
+2023-03,Manipur,Thoubal,26.4,63,367.7
+2023-04,Manipur,Thoubal,22.5,75,346.5
+2023-05,Manipur,Thoubal,34.9,50,474.5
+2023-06,Manipur,Thoubal,30.1,90,395.7
+2023-07,Manipur,Thoubal,27.0,71,184.5
+2023-08,Manipur,Thoubal,27.5,58,345.0
+2023-09,Manipur,Thoubal,28.7,58,313.5
+2023-10,Manipur,Thoubal,28.4,65,245.0
+2023-11,Manipur,Thoubal,23.2,79,334.9
+2023-12,Manipur,Thoubal,25.1,56,248.7
+2023-01,Manipur,Bishnupur,31.0,70,367.1
+2023-02,Manipur,Bishnupur,33.6,56,384.9
+2023-03,Manipur,Bishnupur,34.0,53,460.8
+2023-04,Manipur,Bishnupur,34.3,72,137.5
+2023-05,Manipur,Bishnupur,34.2,84,435.6
+2023-06,Manipur,Bishnupur,34.1,54,213.8
+2023-07,Manipur,Bishnupur,31.9,50,494.6
+2023-08,Manipur,Bishnupur,34.7,84,189.0
+2023-09,Manipur,Bishnupur,29.7,64,452.3
+2023-10,Manipur,Bishnupur,20.0,60,328.5
+2023-11,Manipur,Bishnupur,26.9,61,323.4
+2023-12,Manipur,Bishnupur,31.8,63,143.5
+2023-01,Manipur,Senapati,34.6,85,172.3
+2023-02,Manipur,Senapati,21.2,80,116.4
+2023-03,Manipur,Senapati,34.9,68,405.7
+2023-04,Manipur,Senapati,20.1,55,487.0
+2023-05,Manipur,Senapati,20.0,55,237.7
+2023-06,Manipur,Senapati,33.9,52,497.5
+2023-07,Manipur,Senapati,21.0,79,106.9
+2023-08,Manipur,Senapati,34.5,73,322.4
+2023-09,Manipur,Senapati,31.6,67,312.0
+2023-10,Manipur,Senapati,26.5,56,113.7
+2023-11,Manipur,Senapati,25.3,67,452.6
+2023-12,Manipur,Senapati,33.8,55,311.0
+2023-01,Meghalaya,Shillong,34.6,76,27.8
+2023-02,Meghalaya,Shillong,29.2,84,86.2
+2023-03,Meghalaya,Shillong,29.0,78,281.8
+2023-04,Meghalaya,Shillong,28.4,50,217.2
+2023-05,Meghalaya,Shillong,30.2,90,427.1
+2023-06,Meghalaya,Shillong,25.0,51,222.9
+2023-07,Meghalaya,Shillong,25.2,55,419.5
+2023-08,Meghalaya,Shillong,24.1,79,494.3
+2023-09,Meghalaya,Shillong,33.5,80,183.3
+2023-10,Meghalaya,Shillong,22.8,85,73.7
+2023-11,Meghalaya,Shillong,30.6,67,269.3
+2023-12,Meghalaya,Shillong,23.3,90,212.6
+2023-01,Meghalaya,Tura,33.9,76,437.3
+2023-02,Meghalaya,Tura,33.2,75,4.2
+2023-03,Meghalaya,Tura,20.6,74,394.3
+2023-04,Meghalaya,Tura,28.2,68,14.9
+2023-05,Meghalaya,Tura,33.0,64,45.6
+2023-06,Meghalaya,Tura,24.5,80,100.1
+2023-07,Meghalaya,Tura,30.2,71,272.2
+2023-08,Meghalaya,Tura,20.3,73,375.7
+2023-09,Meghalaya,Tura,32.2,82,265.8
+2023-10,Meghalaya,Tura,29.6,89,325.0
+2023-11,Meghalaya,Tura,32.1,83,101.4
+2023-12,Meghalaya,Tura,31.1,90,480.2
+2023-01,Meghalaya,Jowai,24.1,69,116.0
+2023-02,Meghalaya,Jowai,24.3,77,180.5
+2023-03,Meghalaya,Jowai,22.6,61,128.5
+2023-04,Meghalaya,Jowai,25.7,55,152.5
+2023-05,Meghalaya,Jowai,27.3,55,115.7
+2023-06,Meghalaya,Jowai,24.4,81,211.8
+2023-07,Meghalaya,Jowai,22.0,70,311.4
+2023-08,Meghalaya,Jowai,26.7,60,55.1
+2023-09,Meghalaya,Jowai,32.0,56,439.0
+2023-10,Meghalaya,Jowai,25.6,54,309.4
+2023-11,Meghalaya,Jowai,26.9,68,493.2
+2023-12,Meghalaya,Jowai,33.7,89,446.8
+2023-01,Meghalaya,Nongstoin,23.7,80,381.9
+2023-02,Meghalaya,Nongstoin,25.7,67,449.7
+2023-03,Meghalaya,Nongstoin,20.9,76,33.9
+2023-04,Meghalaya,Nongstoin,24.7,79,374.9
+2023-05,Meghalaya,Nongstoin,26.7,70,427.5
+2023-06,Meghalaya,Nongstoin,33.5,87,438.0
+2023-07,Meghalaya,Nongstoin,30.7,65,197.4
+2023-08,Meghalaya,Nongstoin,27.5,88,440.5
+2023-09,Meghalaya,Nongstoin,29.8,55,116.9
+2023-10,Meghalaya,Nongstoin,26.5,62,39.2
+2023-11,Meghalaya,Nongstoin,28.6,87,462.5
+2023-12,Meghalaya,Nongstoin,22.4,70,195.5
+2023-01,Meghalaya,Baghmara,20.8,80,133.1
+2023-02,Meghalaya,Baghmara,23.0,80,431.7
+2023-03,Meghalaya,Baghmara,28.6,76,430.6
+2023-04,Meghalaya,Baghmara,22.1,87,209.9
+2023-05,Meghalaya,Baghmara,34.1,62,28.6
+2023-06,Meghalaya,Baghmara,34.6,87,69.9
+2023-07,Meghalaya,Baghmara,26.1,87,117.3
+2023-08,Meghalaya,Baghmara,28.9,52,391.8
+2023-09,Meghalaya,Baghmara,27.7,61,340.2
+2023-10,Meghalaya,Baghmara,28.4,69,275.3
+2023-11,Meghalaya,Baghmara,22.6,85,126.5
+2023-12,Meghalaya,Baghmara,20.2,84,27.6
+2023-01,Mizoram,Aizawl,30.2,58,43.4
+2023-02,Mizoram,Aizawl,31.3,86,439.8
+2023-03,Mizoram,Aizawl,31.3,89,386.5
+2023-04,Mizoram,Aizawl,23.7,86,26.6
+2023-05,Mizoram,Aizawl,21.8,70,183.3
+2023-06,Mizoram,Aizawl,25.7,56,64.5
+2023-07,Mizoram,Aizawl,20.3,83,225.2
+2023-08,Mizoram,Aizawl,32.0,68,227.6
+2023-09,Mizoram,Aizawl,32.0,67,330.0
+2023-10,Mizoram,Aizawl,25.8,50,129.3
+2023-11,Mizoram,Aizawl,23.4,64,472.3
+2023-12,Mizoram,Aizawl,31.6,86,459.6
+2023-01,Mizoram,Lunglei,28.3,78,271.7
+2023-02,Mizoram,Lunglei,29.6,74,146.3
+2023-03,Mizoram,Lunglei,20.1,81,75.1
+2023-04,Mizoram,Lunglei,27.2,85,194.8
+2023-05,Mizoram,Lunglei,24.0,70,257.1
+2023-06,Mizoram,Lunglei,33.2,64,268.9
+2023-07,Mizoram,Lunglei,24.2,64,469.5
+2023-08,Mizoram,Lunglei,33.2,70,138.4
+2023-09,Mizoram,Lunglei,31.3,72,411.0
+2023-10,Mizoram,Lunglei,30.1,84,112.6
+2023-11,Mizoram,Lunglei,31.0,56,344.1
+2023-12,Mizoram,Lunglei,24.1,53,76.2
+2023-01,Mizoram,Champhai,22.5,78,355.9
+2023-02,Mizoram,Champhai,23.5,53,426.2
+2023-03,Mizoram,Champhai,30.0,77,203.7
+2023-04,Mizoram,Champhai,29.5,90,463.9
+2023-05,Mizoram,Champhai,29.2,55,442.4
+2023-06,Mizoram,Champhai,31.4,80,82.7
+2023-07,Mizoram,Champhai,22.9,66,290.3
+2023-08,Mizoram,Champhai,24.3,85,167.1
+2023-09,Mizoram,Champhai,34.8,68,191.1
+2023-10,Mizoram,Champhai,29.0,58,99.4
+2023-11,Mizoram,Champhai,23.6,78,340.1
+2023-12,Mizoram,Champhai,33.7,88,252.6
+2023-01,Mizoram,Serchhip,20.1,68,152.8
+2023-02,Mizoram,Serchhip,27.3,56,134.4
+2023-03,Mizoram,Serchhip,33.9,64,168.1
+2023-04,Mizoram,Serchhip,30.0,64,111.7
+2023-05,Mizoram,Serchhip,22.2,79,438.8
+2023-06,Mizoram,Serchhip,26.7,83,414.0
+2023-07,Mizoram,Serchhip,30.8,89,317.8
+2023-08,Mizoram,Serchhip,34.0,64,376.6
+2023-09,Mizoram,Serchhip,28.8,52,43.1
+2023-10,Mizoram,Serchhip,31.4,54,216.1
+2023-11,Mizoram,Serchhip,24.3,79,199.3
+2023-12,Mizoram,Serchhip,32.7,81,400.8
+2023-01,Mizoram,Kolasib,34.0,72,279.9
+2023-02,Mizoram,Kolasib,28.9,89,149.4
+2023-03,Mizoram,Kolasib,33.7,78,321.8
+2023-04,Mizoram,Kolasib,28.2,86,168.8
+2023-05,Mizoram,Kolasib,26.4,53,128.6
+2023-06,Mizoram,Kolasib,32.2,63,408.0
+2023-07,Mizoram,Kolasib,33.6,60,173.2
+2023-08,Mizoram,Kolasib,29.3,77,275.4
+2023-09,Mizoram,Kolasib,34.8,56,383.3
+2023-10,Mizoram,Kolasib,29.6,63,449.0
+2023-11,Mizoram,Kolasib,27.7,74,379.3
+2023-12,Mizoram,Kolasib,24.2,55,69.2
+2023-01,Nagaland,Kohima,30.0,57,117.2
+2023-02,Nagaland,Kohima,30.4,86,385.0
+2023-03,Nagaland,Kohima,27.1,67,100.9
+2023-04,Nagaland,Kohima,22.8,67,458.9
+2023-05,Nagaland,Kohima,27.2,71,209.2
+2023-06,Nagaland,Kohima,28.4,68,268.2
+2023-07,Nagaland,Kohima,31.3,82,133.8
+2023-08,Nagaland,Kohima,33.3,82,75.4
+2023-09,Nagaland,Kohima,33.6,74,244.3
+2023-10,Nagaland,Kohima,32.2,71,187.1
+2023-11,Nagaland,Kohima,28.8,57,398.0
+2023-12,Nagaland,Kohima,26.3,65,470.5
+2023-01,Nagaland,Dimapur,27.6,60,32.2
+2023-02,Nagaland,Dimapur,26.0,83,285.0
+2023-03,Nagaland,Dimapur,34.5,74,66.8
+2023-04,Nagaland,Dimapur,30.8,83,415.2
+2023-05,Nagaland,Dimapur,20.4,85,371.0
+2023-06,Nagaland,Dimapur,28.4,52,296.2
+2023-07,Nagaland,Dimapur,34.3,68,202.3
+2023-08,Nagaland,Dimapur,21.4,87,4.0
+2023-09,Nagaland,Dimapur,29.9,87,107.9
+2023-10,Nagaland,Dimapur,31.1,54,443.1
+2023-11,Nagaland,Dimapur,31.9,75,247.0
+2023-12,Nagaland,Dimapur,26.4,59,221.5
+2023-01,Nagaland,Mokokchung,22.0,75,42.6
+2023-02,Nagaland,Mokokchung,34.7,88,408.6
+2023-03,Nagaland,Mokokchung,33.3,55,493.3
+2023-04,Nagaland,Mokokchung,31.3,67,397.0
+2023-05,Nagaland,Mokokchung,29.3,77,298.1
+2023-06,Nagaland,Mokokchung,30.4,51,194.1
+2023-07,Nagaland,Mokokchung,31.2,80,78.1
+2023-08,Nagaland,Mokokchung,29.4,53,81.7
+2023-09,Nagaland,Mokokchung,24.2,72,453.3
+2023-10,Nagaland,Mokokchung,31.4,58,258.3
+2023-11,Nagaland,Mokokchung,20.6,57,154.7
+2023-12,Nagaland,Mokokchung,34.8,68,484.4
+2023-01,Nagaland,Mon,22.7,85,214.2
+2023-02,Nagaland,Mon,20.2,69,398.5
+2023-03,Nagaland,Mon,27.3,68,335.1
+2023-04,Nagaland,Mon,25.8,62,438.2
+2023-05,Nagaland,Mon,29.0,52,165.2
+2023-06,Nagaland,Mon,32.2,89,124.0
+2023-07,Nagaland,Mon,22.0,84,292.5
+2023-08,Nagaland,Mon,26.6,58,340.7
+2023-09,Nagaland,Mon,32.0,87,193.4
+2023-10,Nagaland,Mon,33.7,52,28.8
+2023-11,Nagaland,Mon,25.8,75,76.9
+2023-12,Nagaland,Mon,34.9,66,146.0
+2023-01,Nagaland,Wokha,33.2,68,12.5
+2023-02,Nagaland,Wokha,23.4,83,187.5
+2023-03,Nagaland,Wokha,29.4,81,193.3
+2023-04,Nagaland,Wokha,32.4,75,93.3
+2023-05,Nagaland,Wokha,32.7,90,200.1
+2023-06,Nagaland,Wokha,34.4,50,108.7
+2023-07,Nagaland,Wokha,29.6,69,283.5
+2023-08,Nagaland,Wokha,20.5,60,289.4
+2023-09,Nagaland,Wokha,26.0,88,269.3
+2023-10,Nagaland,Wokha,32.1,79,493.4
+2023-11,Nagaland,Wokha,31.4,76,159.7
+2023-12,Nagaland,Wokha,32.9,78,36.3
+2023-01,Odisha,Bhubaneswar,30.0,66,12.6
+2023-02,Odisha,Bhubaneswar,23.8,74,168.6
+2023-03,Odisha,Bhubaneswar,34.9,68,118.8
+2023-04,Odisha,Bhubaneswar,28.2,56,200.1
+2023-05,Odisha,Bhubaneswar,29.3,88,396.4
+2023-06,Odisha,Bhubaneswar,30.2,75,200.8
+2023-07,Odisha,Bhubaneswar,24.4,59,427.8
+2023-08,Odisha,Bhubaneswar,26.4,52,14.3
+2023-09,Odisha,Bhubaneswar,24.5,65,484.9
+2023-10,Odisha,Bhubaneswar,33.8,68,496.8
+2023-11,Odisha,Bhubaneswar,22.4,50,266.3
+2023-12,Odisha,Bhubaneswar,22.2,70,103.8
+2023-01,Odisha,Cuttack,27.7,76,154.8
+2023-02,Odisha,Cuttack,23.4,74,283.4
+2023-03,Odisha,Cuttack,26.1,82,44.7
+2023-04,Odisha,Cuttack,31.5,57,112.0
+2023-05,Odisha,Cuttack,20.7,77,407.6
+2023-06,Odisha,Cuttack,23.6,64,138.1
+2023-07,Odisha,Cuttack,22.9,66,377.4
+2023-08,Odisha,Cuttack,26.0,62,433.8
+2023-09,Odisha,Cuttack,29.7,75,123.6
+2023-10,Odisha,Cuttack,31.7,68,467.5
+2023-11,Odisha,Cuttack,28.7,83,84.7
+2023-12,Odisha,Cuttack,28.8,71,484.8
+2023-01,Odisha,Rourkela,23.1,89,393.8
+2023-02,Odisha,Rourkela,26.1,62,283.6
+2023-03,Odisha,Rourkela,33.0,73,341.1
+2023-04,Odisha,Rourkela,32.5,80,486.2
+2023-05,Odisha,Rourkela,26.6,82,307.6
+2023-06,Odisha,Rourkela,21.1,64,340.2
+2023-07,Odisha,Rourkela,20.8,81,206.6
+2023-08,Odisha,Rourkela,32.8,83,301.7
+2023-09,Odisha,Rourkela,27.8,59,329.3
+2023-10,Odisha,Rourkela,31.7,56,305.7
+2023-11,Odisha,Rourkela,29.9,71,78.6
+2023-12,Odisha,Rourkela,26.9,90,488.8
+2023-01,Odisha,Berhampur,23.9,66,490.7
+2023-02,Odisha,Berhampur,21.9,60,434.9
+2023-03,Odisha,Berhampur,34.7,90,62.8
+2023-04,Odisha,Berhampur,30.9,71,467.5
+2023-05,Odisha,Berhampur,21.9,54,461.9
+2023-06,Odisha,Berhampur,32.4,79,11.0
+2023-07,Odisha,Berhampur,21.6,59,347.5
+2023-08,Odisha,Berhampur,28.4,74,109.2
+2023-09,Odisha,Berhampur,23.0,84,251.0
+2023-10,Odisha,Berhampur,20.8,60,39.9
+2023-11,Odisha,Berhampur,29.2,61,65.6
+2023-12,Odisha,Berhampur,31.8,86,186.7
+2023-01,Odisha,Sambalpur,25.0,69,327.3
+2023-02,Odisha,Sambalpur,22.9,77,304.6
+2023-03,Odisha,Sambalpur,26.9,54,82.7
+2023-04,Odisha,Sambalpur,28.5,89,149.1
+2023-05,Odisha,Sambalpur,33.8,88,37.5
+2023-06,Odisha,Sambalpur,21.9,54,200.4
+2023-07,Odisha,Sambalpur,25.2,59,229.3
+2023-08,Odisha,Sambalpur,20.0,55,289.7
+2023-09,Odisha,Sambalpur,25.6,84,255.5
+2023-10,Odisha,Sambalpur,25.5,70,247.7
+2023-11,Odisha,Sambalpur,33.2,65,369.8
+2023-12,Odisha,Sambalpur,24.0,64,103.2
+2023-01,Punjab,Chandigarh,23.3,77,454.0
+2023-02,Punjab,Chandigarh,22.8,55,478.9
+2023-03,Punjab,Chandigarh,24.2,64,419.5
+2023-04,Punjab,Chandigarh,20.3,71,128.4
+2023-05,Punjab,Chandigarh,34.8,86,68.0
+2023-06,Punjab,Chandigarh,34.2,58,319.6
+2023-07,Punjab,Chandigarh,29.2,65,462.0
+2023-08,Punjab,Chandigarh,24.1,56,305.0
+2023-09,Punjab,Chandigarh,22.6,77,256.3
+2023-10,Punjab,Chandigarh,23.7,53,434.6
+2023-11,Punjab,Chandigarh,21.6,75,12.1
+2023-12,Punjab,Chandigarh,29.9,64,373.2
+2023-01,Punjab,Ludhiana,30.5,62,81.2
+2023-02,Punjab,Ludhiana,24.7,62,119.5
+2023-03,Punjab,Ludhiana,25.8,53,242.3
+2023-04,Punjab,Ludhiana,20.1,66,60.9
+2023-05,Punjab,Ludhiana,31.3,77,446.6
+2023-06,Punjab,Ludhiana,32.7,52,137.8
+2023-07,Punjab,Ludhiana,33.5,75,61.8
+2023-08,Punjab,Ludhiana,32.3,62,57.7
+2023-09,Punjab,Ludhiana,20.9,74,469.2
+2023-10,Punjab,Ludhiana,21.4,68,429.8
+2023-11,Punjab,Ludhiana,22.0,62,79.2
+2023-12,Punjab,Ludhiana,30.0,54,14.1
+2023-01,Punjab,Amritsar,31.3,80,218.5
+2023-02,Punjab,Amritsar,28.9,76,39.3
+2023-03,Punjab,Amritsar,24.1,83,16.7
+2023-04,Punjab,Amritsar,25.5,84,396.9
+2023-05,Punjab,Amritsar,20.3,69,402.3
+2023-06,Punjab,Amritsar,21.0,70,231.3
+2023-07,Punjab,Amritsar,24.6,54,466.3
+2023-08,Punjab,Amritsar,30.3,77,467.8
+2023-09,Punjab,Amritsar,23.3,53,296.1
+2023-10,Punjab,Amritsar,29.5,56,103.9
+2023-11,Punjab,Amritsar,32.1,75,137.8
+2023-12,Punjab,Amritsar,25.0,70,157.2
+2023-01,Punjab,Jalandhar,24.6,81,295.7
+2023-02,Punjab,Jalandhar,34.6,53,320.9
+2023-03,Punjab,Jalandhar,24.3,80,328.8
+2023-04,Punjab,Jalandhar,27.2,67,420.0
+2023-05,Punjab,Jalandhar,34.1,67,111.5
+2023-06,Punjab,Jalandhar,33.9,79,111.8
+2023-07,Punjab,Jalandhar,20.4,55,84.4
+2023-08,Punjab,Jalandhar,25.1,50,244.4
+2023-09,Punjab,Jalandhar,31.8,78,67.8
+2023-10,Punjab,Jalandhar,32.0,58,300.8
+2023-11,Punjab,Jalandhar,22.8,90,52.2
+2023-12,Punjab,Jalandhar,22.0,71,107.7
+2023-01,Punjab,Patiala,25.8,59,496.7
+2023-02,Punjab,Patiala,23.7,50,216.7
+2023-03,Punjab,Patiala,30.2,75,147.4
+2023-04,Punjab,Patiala,25.9,68,136.6
+2023-05,Punjab,Patiala,23.4,61,7.1
+2023-06,Punjab,Patiala,24.6,59,403.7
+2023-07,Punjab,Patiala,24.8,78,376.1
+2023-08,Punjab,Patiala,22.2,88,474.7
+2023-09,Punjab,Patiala,26.5,50,114.1
+2023-10,Punjab,Patiala,33.6,79,141.1
+2023-11,Punjab,Patiala,26.7,78,375.9
+2023-12,Punjab,Patiala,33.3,74,316.8
+2023-01,Rajasthan,Jaipur,27.6,63,270.6
+2023-02,Rajasthan,Jaipur,20.6,65,41.7
+2023-03,Rajasthan,Jaipur,30.5,75,306.5
+2023-04,Rajasthan,Jaipur,32.8,52,337.0
+2023-05,Rajasthan,Jaipur,20.1,86,427.0
+2023-06,Rajasthan,Jaipur,21.7,69,230.6
+2023-07,Rajasthan,Jaipur,22.6,75,448.1
+2023-08,Rajasthan,Jaipur,28.8,66,212.8
+2023-09,Rajasthan,Jaipur,20.1,50,185.0
+2023-10,Rajasthan,Jaipur,20.3,61,399.2
+2023-11,Rajasthan,Jaipur,25.5,72,206.9
+2023-12,Rajasthan,Jaipur,27.0,60,81.6
+2023-01,Rajasthan,Udaipur,30.4,61,301.8
+2023-02,Rajasthan,Udaipur,24.7,76,356.2
+2023-03,Rajasthan,Udaipur,28.4,61,276.3
+2023-04,Rajasthan,Udaipur,25.8,64,144.6
+2023-05,Rajasthan,Udaipur,20.1,75,490.9
+2023-06,Rajasthan,Udaipur,30.8,73,364.4
+2023-07,Rajasthan,Udaipur,28.1,85,159.5
+2023-08,Rajasthan,Udaipur,32.9,74,343.6
+2023-09,Rajasthan,Udaipur,28.6,54,387.0
+2023-10,Rajasthan,Udaipur,20.3,61,100.0
+2023-11,Rajasthan,Udaipur,23.9,68,276.2
+2023-12,Rajasthan,Udaipur,29.3,81,138.3
+2023-01,Rajasthan,Jodhpur,22.5,59,443.6
+2023-02,Rajasthan,Jodhpur,27.2,60,389.3
+2023-03,Rajasthan,Jodhpur,27.7,53,420.8
+2023-04,Rajasthan,Jodhpur,23.0,80,447.3
+2023-05,Rajasthan,Jodhpur,27.8,66,460.5
+2023-06,Rajasthan,Jodhpur,26.8,58,109.6
+2023-07,Rajasthan,Jodhpur,30.7,54,348.4
+2023-08,Rajasthan,Jodhpur,32.9,52,148.8
+2023-09,Rajasthan,Jodhpur,22.1,56,240.2
+2023-10,Rajasthan,Jodhpur,24.9,84,444.8
+2023-11,Rajasthan,Jodhpur,30.5,79,19.9
+2023-12,Rajasthan,Jodhpur,23.4,65,44.5
+2023-01,Rajasthan,Ajmer,20.7,65,488.2
+2023-02,Rajasthan,Ajmer,20.4,50,92.6
+2023-03,Rajasthan,Ajmer,27.0,88,281.6
+2023-04,Rajasthan,Ajmer,34.0,57,13.0
+2023-05,Rajasthan,Ajmer,33.1,80,78.9
+2023-06,Rajasthan,Ajmer,20.7,60,412.5
+2023-07,Rajasthan,Ajmer,22.3,77,191.9
+2023-08,Rajasthan,Ajmer,20.5,54,75.8
+2023-09,Rajasthan,Ajmer,23.0,59,151.8
+2023-10,Rajasthan,Ajmer,34.2,50,388.9
+2023-11,Rajasthan,Ajmer,28.3,64,180.9
+2023-12,Rajasthan,Ajmer,27.5,83,436.5
+2023-01,Rajasthan,Bikaner,28.8,53,152.3
+2023-02,Rajasthan,Bikaner,25.8,68,134.3
+2023-03,Rajasthan,Bikaner,20.5,58,122.5
+2023-04,Rajasthan,Bikaner,25.0,85,29.1
+2023-05,Rajasthan,Bikaner,33.6,86,264.6
+2023-06,Rajasthan,Bikaner,33.0,87,38.1
+2023-07,Rajasthan,Bikaner,20.9,75,399.4
+2023-08,Rajasthan,Bikaner,24.0,64,125.4
+2023-09,Rajasthan,Bikaner,30.1,76,436.1
+2023-10,Rajasthan,Bikaner,28.7,70,164.2
+2023-11,Rajasthan,Bikaner,34.8,77,432.9
+2023-12,Rajasthan,Bikaner,31.5,87,136.4
+2023-01,Sikkim,Gangtok,31.0,70,192.2
+2023-02,Sikkim,Gangtok,21.2,54,217.5
+2023-03,Sikkim,Gangtok,33.1,80,445.1
+2023-04,Sikkim,Gangtok,30.1,74,60.7
+2023-05,Sikkim,Gangtok,20.8,56,363.5
+2023-06,Sikkim,Gangtok,30.7,81,326.3
+2023-07,Sikkim,Gangtok,28.6,73,115.9
+2023-08,Sikkim,Gangtok,29.0,50,232.2
+2023-09,Sikkim,Gangtok,23.7,50,407.6
+2023-10,Sikkim,Gangtok,30.3,61,366.7
+2023-11,Sikkim,Gangtok,28.4,71,80.9
+2023-12,Sikkim,Gangtok,34.0,80,441.5
+2023-01,Sikkim,Namchi,26.7,69,459.4
+2023-02,Sikkim,Namchi,33.2,90,452.0
+2023-03,Sikkim,Namchi,32.4,50,269.3
+2023-04,Sikkim,Namchi,29.1,51,364.1
+2023-05,Sikkim,Namchi,22.1,77,407.5
+2023-06,Sikkim,Namchi,23.0,64,117.1
+2023-07,Sikkim,Namchi,31.5,58,197.8
+2023-08,Sikkim,Namchi,26.4,90,365.7
+2023-09,Sikkim,Namchi,32.4,76,439.5
+2023-10,Sikkim,Namchi,23.4,89,312.5
+2023-11,Sikkim,Namchi,30.5,89,135.6
+2023-12,Sikkim,Namchi,33.5,87,333.2
+2023-01,Sikkim,Pelling,33.3,74,43.7
+2023-02,Sikkim,Pelling,25.3,53,267.9
+2023-03,Sikkim,Pelling,20.8,50,272.9
+2023-04,Sikkim,Pelling,33.7,83,414.9
+2023-05,Sikkim,Pelling,24.2,69,126.0
+2023-06,Sikkim,Pelling,26.1,81,346.7
+2023-07,Sikkim,Pelling,20.8,72,326.0
+2023-08,Sikkim,Pelling,26.4,65,279.3
+2023-09,Sikkim,Pelling,27.0,80,77.7
+2023-10,Sikkim,Pelling,31.9,55,295.2
+2023-11,Sikkim,Pelling,34.7,61,87.1
+2023-12,Sikkim,Pelling,21.3,57,209.6
+2023-01,Sikkim,Ravangla,21.4,51,239.0
+2023-02,Sikkim,Ravangla,23.9,69,493.1
+2023-03,Sikkim,Ravangla,30.7,66,486.0
+2023-04,Sikkim,Ravangla,35.0,90,302.5
+2023-05,Sikkim,Ravangla,21.4,83,144.8
+2023-06,Sikkim,Ravangla,23.8,52,295.1
+2023-07,Sikkim,Ravangla,26.8,80,255.7
+2023-08,Sikkim,Ravangla,21.2,81,82.0
+2023-09,Sikkim,Ravangla,34.4,61,29.9
+2023-10,Sikkim,Ravangla,20.6,80,84.0
+2023-11,Sikkim,Ravangla,24.4,73,160.1
+2023-12,Sikkim,Ravangla,30.8,89,168.0
+2023-01,Sikkim,Gyalshing,26.2,71,337.7
+2023-02,Sikkim,Gyalshing,22.0,73,149.8
+2023-03,Sikkim,Gyalshing,23.1,64,89.6
+2023-04,Sikkim,Gyalshing,20.2,75,337.5
+2023-05,Sikkim,Gyalshing,23.0,89,53.5
+2023-06,Sikkim,Gyalshing,23.5,65,498.2
+2023-07,Sikkim,Gyalshing,25.1,75,143.2
+2023-08,Sikkim,Gyalshing,32.3,50,491.5
+2023-09,Sikkim,Gyalshing,33.9,77,113.4
+2023-10,Sikkim,Gyalshing,21.1,73,241.7
+2023-11,Sikkim,Gyalshing,24.4,52,158.3
+2023-12,Sikkim,Gyalshing,35.0,63,266.9
+2023-01,Tamil Nadu,Chennai,25.1,76,49.4
+2023-02,Tamil Nadu,Chennai,28.2,77,240.7
+2023-03,Tamil Nadu,Chennai,22.2,59,446.3
+2023-04,Tamil Nadu,Chennai,29.9,52,425.6
+2023-05,Tamil Nadu,Chennai,31.9,64,410.9
+2023-06,Tamil Nadu,Chennai,28.6,68,462.0
+2023-07,Tamil Nadu,Chennai,31.1,82,464.5
+2023-08,Tamil Nadu,Chennai,20.1,59,9.2
+2023-09,Tamil Nadu,Chennai,25.9,63,198.5
+2023-10,Tamil Nadu,Chennai,32.0,83,446.6
+2023-11,Tamil Nadu,Chennai,22.5,79,414.3
+2023-12,Tamil Nadu,Chennai,24.2,86,121.2
+2023-01,Tamil Nadu,Coimbatore,21.7,82,427.9
+2023-02,Tamil Nadu,Coimbatore,26.1,58,51.4
+2023-03,Tamil Nadu,Coimbatore,21.7,80,153.5
+2023-04,Tamil Nadu,Coimbatore,26.9,81,108.9
+2023-05,Tamil Nadu,Coimbatore,29.8,84,274.8
+2023-06,Tamil Nadu,Coimbatore,21.9,74,435.1
+2023-07,Tamil Nadu,Coimbatore,28.8,73,2.8
+2023-08,Tamil Nadu,Coimbatore,26.4,74,386.5
+2023-09,Tamil Nadu,Coimbatore,23.1,65,100.0
+2023-10,Tamil Nadu,Coimbatore,30.8,60,440.3
+2023-11,Tamil Nadu,Coimbatore,30.3,74,71.2
+2023-12,Tamil Nadu,Coimbatore,33.9,84,293.3
+2023-01,Tamil Nadu,Madurai,22.7,64,5.7
+2023-02,Tamil Nadu,Madurai,27.5,64,152.8
+2023-03,Tamil Nadu,Madurai,32.9,67,266.7
+2023-04,Tamil Nadu,Madurai,30.0,55,118.0
+2023-05,Tamil Nadu,Madurai,34.4,77,47.2
+2023-06,Tamil Nadu,Madurai,27.1,79,174.0
+2023-07,Tamil Nadu,Madurai,26.7,53,39.0
+2023-08,Tamil Nadu,Madurai,29.2,82,419.6
+2023-09,Tamil Nadu,Madurai,26.0,61,126.1
+2023-10,Tamil Nadu,Madurai,23.2,90,294.6
+2023-11,Tamil Nadu,Madurai,20.2,57,62.9
+2023-12,Tamil Nadu,Madurai,30.8,61,236.9
+2023-01,Tamil Nadu,Tiruchirappalli,23.2,84,225.4
+2023-02,Tamil Nadu,Tiruchirappalli,25.3,50,75.2
+2023-03,Tamil Nadu,Tiruchirappalli,21.1,61,107.2
+2023-04,Tamil Nadu,Tiruchirappalli,21.2,81,255.8
+2023-05,Tamil Nadu,Tiruchirappalli,33.7,63,428.5
+2023-06,Tamil Nadu,Tiruchirappalli,27.0,85,225.2
+2023-07,Tamil Nadu,Tiruchirappalli,34.5,73,258.3
+2023-08,Tamil Nadu,Tiruchirappalli,30.8,68,432.9
+2023-09,Tamil Nadu,Tiruchirappalli,25.7,58,443.4
+2023-10,Tamil Nadu,Tiruchirappalli,28.5,53,8.3
+2023-11,Tamil Nadu,Tiruchirappalli,23.3,69,420.8
+2023-12,Tamil Nadu,Tiruchirappalli,24.2,79,146.1
+2023-01,Tamil Nadu,Salem,22.2,79,291.6
+2023-02,Tamil Nadu,Salem,27.1,67,270.8
+2023-03,Tamil Nadu,Salem,25.0,70,396.5
+2023-04,Tamil Nadu,Salem,21.5,87,131.8
+2023-05,Tamil Nadu,Salem,30.2,79,310.0
+2023-06,Tamil Nadu,Salem,28.3,80,109.9
+2023-07,Tamil Nadu,Salem,29.1,50,457.5
+2023-08,Tamil Nadu,Salem,21.9,88,21.9
+2023-09,Tamil Nadu,Salem,21.0,57,233.3
+2023-10,Tamil Nadu,Salem,21.2,88,218.4
+2023-11,Tamil Nadu,Salem,22.7,52,17.4
+2023-12,Tamil Nadu,Salem,21.7,69,269.8
+2023-01,Telangana,Hyderabad,28.7,72,245.1
+2023-02,Telangana,Hyderabad,26.1,58,382.8
+2023-03,Telangana,Hyderabad,25.8,87,53.9
+2023-04,Telangana,Hyderabad,33.1,55,167.3
+2023-05,Telangana,Hyderabad,28.2,65,486.1
+2023-06,Telangana,Hyderabad,30.5,77,378.6
+2023-07,Telangana,Hyderabad,24.9,52,180.6
+2023-08,Telangana,Hyderabad,24.6,66,377.3
+2023-09,Telangana,Hyderabad,22.8,73,274.4
+2023-10,Telangana,Hyderabad,20.7,58,143.8
+2023-11,Telangana,Hyderabad,21.0,88,168.8
+2023-12,Telangana,Hyderabad,21.9,83,422.7
+2023-01,Telangana,Warangal,33.3,54,449.0
+2023-02,Telangana,Warangal,32.2,82,286.4
+2023-03,Telangana,Warangal,28.3,64,211.7
+2023-04,Telangana,Warangal,25.9,90,246.5
+2023-05,Telangana,Warangal,24.2,88,446.6
+2023-06,Telangana,Warangal,22.6,71,380.5
+2023-07,Telangana,Warangal,25.2,59,203.3
+2023-08,Telangana,Warangal,31.0,86,136.6
+2023-09,Telangana,Warangal,34.2,89,448.4
+2023-10,Telangana,Warangal,23.4,58,434.8
+2023-11,Telangana,Warangal,25.2,82,15.8
+2023-12,Telangana,Warangal,27.5,51,79.1
+2023-01,Telangana,Nizamabad,21.4,63,151.4
+2023-02,Telangana,Nizamabad,20.2,71,299.1
+2023-03,Telangana,Nizamabad,23.1,58,246.1
+2023-04,Telangana,Nizamabad,30.5,74,457.4
+2023-05,Telangana,Nizamabad,27.3,77,184.2
+2023-06,Telangana,Nizamabad,30.9,58,41.6
+2023-07,Telangana,Nizamabad,31.0,81,302.5
+2023-08,Telangana,Nizamabad,28.3,71,412.5
+2023-09,Telangana,Nizamabad,31.0,50,240.7
+2023-10,Telangana,Nizamabad,32.9,79,155.5
+2023-11,Telangana,Nizamabad,28.3,74,78.6
+2023-12,Telangana,Nizamabad,27.6,79,89.2
+2023-01,Telangana,Khammam,22.8,58,393.2
+2023-02,Telangana,Khammam,32.0,64,320.7
+2023-03,Telangana,Khammam,21.3,72,205.7
+2023-04,Telangana,Khammam,23.3,74,347.9
+2023-05,Telangana,Khammam,30.5,55,492.0
+2023-06,Telangana,Khammam,25.3,75,84.7
+2023-07,Telangana,Khammam,28.0,65,353.4
+2023-08,Telangana,Khammam,24.5,70,112.9
+2023-09,Telangana,Khammam,22.8,53,251.0
+2023-10,Telangana,Khammam,30.5,55,383.3
+2023-11,Telangana,Khammam,28.6,83,29.1
+2023-12,Telangana,Khammam,31.3,55,10.3
+2023-01,Telangana,Karimnagar,34.4,61,67.9
+2023-02,Telangana,Karimnagar,30.7,54,16.2
+2023-03,Telangana,Karimnagar,28.2,52,257.7
+2023-04,Telangana,Karimnagar,34.9,52,151.9
+2023-05,Telangana,Karimnagar,32.8,88,492.8
+2023-06,Telangana,Karimnagar,23.1,75,366.1
+2023-07,Telangana,Karimnagar,20.8,89,216.7
+2023-08,Telangana,Karimnagar,25.2,82,75.3
+2023-09,Telangana,Karimnagar,27.5,82,486.0
+2023-10,Telangana,Karimnagar,25.7,83,433.0
+2023-11,Telangana,Karimnagar,29.5,53,452.4
+2023-12,Telangana,Karimnagar,27.0,83,375.0
+2023-01,Tripura,Agartala,23.1,82,333.0
+2023-02,Tripura,Agartala,29.6,85,413.9
+2023-03,Tripura,Agartala,23.8,66,233.6
+2023-04,Tripura,Agartala,32.2,82,6.9
+2023-05,Tripura,Agartala,26.9,60,496.8
+2023-06,Tripura,Agartala,34.7,81,439.2
+2023-07,Tripura,Agartala,21.0,82,243.7
+2023-08,Tripura,Agartala,29.0,72,225.9
+2023-09,Tripura,Agartala,25.6,76,369.9
+2023-10,Tripura,Agartala,33.6,83,270.0
+2023-11,Tripura,Agartala,34.2,83,335.6
+2023-12,Tripura,Agartala,21.0,61,145.8
+2023-01,Tripura,Udaipur,24.1,71,398.8
+2023-02,Tripura,Udaipur,23.5,61,475.7
+2023-03,Tripura,Udaipur,22.8,69,322.6
+2023-04,Tripura,Udaipur,29.3,55,11.4
+2023-05,Tripura,Udaipur,24.4,63,420.2
+2023-06,Tripura,Udaipur,22.1,83,43.9
+2023-07,Tripura,Udaipur,32.7,80,73.5
+2023-08,Tripura,Udaipur,26.5,65,168.7
+2023-09,Tripura,Udaipur,35.0,71,342.4
+2023-10,Tripura,Udaipur,31.4,90,214.1
+2023-11,Tripura,Udaipur,20.3,80,302.6
+2023-12,Tripura,Udaipur,30.6,73,365.5
+2023-01,Tripura,Dharmanagar,25.0,81,240.1
+2023-02,Tripura,Dharmanagar,33.0,53,17.2
+2023-03,Tripura,Dharmanagar,24.4,73,473.1
+2023-04,Tripura,Dharmanagar,24.3,87,111.6
+2023-05,Tripura,Dharmanagar,22.9,70,433.7
+2023-06,Tripura,Dharmanagar,28.0,63,97.9
+2023-07,Tripura,Dharmanagar,22.7,89,372.7
+2023-08,Tripura,Dharmanagar,33.1,85,1.8
+2023-09,Tripura,Dharmanagar,29.2,59,438.8
+2023-10,Tripura,Dharmanagar,26.4,55,198.5
+2023-11,Tripura,Dharmanagar,30.5,61,471.7
+2023-12,Tripura,Dharmanagar,30.1,65,372.6
+2023-01,Tripura,Kailashahar,29.6,87,317.4
+2023-02,Tripura,Kailashahar,26.9,77,425.5
+2023-03,Tripura,Kailashahar,34.1,79,281.6
+2023-04,Tripura,Kailashahar,25.0,88,271.0
+2023-05,Tripura,Kailashahar,34.0,54,458.8
+2023-06,Tripura,Kailashahar,25.6,77,388.0
+2023-07,Tripura,Kailashahar,23.4,68,329.4
+2023-08,Tripura,Kailashahar,25.7,80,357.5
+2023-09,Tripura,Kailashahar,26.9,79,349.1
+2023-10,Tripura,Kailashahar,24.1,77,112.4
+2023-11,Tripura,Kailashahar,21.1,79,356.1
+2023-12,Tripura,Kailashahar,30.0,77,22.5
+2023-01,Tripura,Ambassa,25.1,51,246.3
+2023-02,Tripura,Ambassa,34.1,57,73.5
+2023-03,Tripura,Ambassa,27.5,50,353.5
+2023-04,Tripura,Ambassa,25.9,87,9.4
+2023-05,Tripura,Ambassa,31.2,65,473.0
+2023-06,Tripura,Ambassa,31.7,72,310.3
+2023-07,Tripura,Ambassa,22.6,64,291.4
+2023-08,Tripura,Ambassa,21.5,59,379.8
+2023-09,Tripura,Ambassa,32.5,81,347.7
+2023-10,Tripura,Ambassa,31.5,57,148.4
+2023-11,Tripura,Ambassa,34.7,51,306.6
+2023-12,Tripura,Ambassa,20.5,62,435.8
+2023-01,Uttar Pradesh,Lucknow,32.8,88,420.9
+2023-02,Uttar Pradesh,Lucknow,29.7,84,425.8
+2023-03,Uttar Pradesh,Lucknow,35.0,79,353.7
+2023-04,Uttar Pradesh,Lucknow,31.0,85,77.4
+2023-05,Uttar Pradesh,Lucknow,31.1,62,327.0
+2023-06,Uttar Pradesh,Lucknow,33.3,50,108.6
+2023-07,Uttar Pradesh,Lucknow,27.4,53,107.1
+2023-08,Uttar Pradesh,Lucknow,25.5,64,101.5
+2023-09,Uttar Pradesh,Lucknow,21.1,66,333.2
+2023-10,Uttar Pradesh,Lucknow,20.4,69,263.9
+2023-11,Uttar Pradesh,Lucknow,32.2,84,374.0
+2023-12,Uttar Pradesh,Lucknow,23.5,60,460.7
+2023-01,Uttar Pradesh,Kanpur,27.4,71,151.5
+2023-02,Uttar Pradesh,Kanpur,31.3,88,395.5
+2023-03,Uttar Pradesh,Kanpur,32.9,62,123.4
+2023-04,Uttar Pradesh,Kanpur,32.5,85,436.8
+2023-05,Uttar Pradesh,Kanpur,28.3,76,397.4
+2023-06,Uttar Pradesh,Kanpur,25.2,55,236.5
+2023-07,Uttar Pradesh,Kanpur,21.8,90,482.6
+2023-08,Uttar Pradesh,Kanpur,26.6,64,295.5
+2023-09,Uttar Pradesh,Kanpur,30.0,82,136.0
+2023-10,Uttar Pradesh,Kanpur,34.6,76,20.9
+2023-11,Uttar Pradesh,Kanpur,33.8,82,54.9
+2023-12,Uttar Pradesh,Kanpur,21.0,70,105.5
+2023-01,Uttar Pradesh,Varanasi,34.8,67,97.5
+2023-02,Uttar Pradesh,Varanasi,28.5,56,367.2
+2023-03,Uttar Pradesh,Varanasi,28.9,68,114.3
+2023-04,Uttar Pradesh,Varanasi,22.5,56,161.4
+2023-05,Uttar Pradesh,Varanasi,32.2,68,325.6
+2023-06,Uttar Pradesh,Varanasi,24.1,61,98.3
+2023-07,Uttar Pradesh,Varanasi,21.4,52,447.5
+2023-08,Uttar Pradesh,Varanasi,33.0,71,434.7
+2023-09,Uttar Pradesh,Varanasi,25.8,78,332.1
+2023-10,Uttar Pradesh,Varanasi,22.6,64,384.7
+2023-11,Uttar Pradesh,Varanasi,28.3,66,126.3
+2023-12,Uttar Pradesh,Varanasi,27.8,63,433.3
+2023-01,Uttar Pradesh,Agra,24.6,54,22.7
+2023-02,Uttar Pradesh,Agra,32.5,76,46.9
+2023-03,Uttar Pradesh,Agra,25.0,66,134.8
+2023-04,Uttar Pradesh,Agra,22.2,74,269.1
+2023-05,Uttar Pradesh,Agra,29.8,82,433.2
+2023-06,Uttar Pradesh,Agra,22.8,72,245.0
+2023-07,Uttar Pradesh,Agra,24.2,57,476.3
+2023-08,Uttar Pradesh,Agra,29.2,59,329.1
+2023-09,Uttar Pradesh,Agra,34.6,73,407.3
+2023-10,Uttar Pradesh,Agra,33.0,73,435.6
+2023-11,Uttar Pradesh,Agra,34.2,59,403.1
+2023-12,Uttar Pradesh,Agra,34.4,66,269.6
+2023-01,Uttar Pradesh,Meerut,31.0,54,169.5
+2023-02,Uttar Pradesh,Meerut,33.1,59,427.8
+2023-03,Uttar Pradesh,Meerut,24.1,69,470.2
+2023-04,Uttar Pradesh,Meerut,23.7,53,267.3
+2023-05,Uttar Pradesh,Meerut,33.7,59,94.7
+2023-06,Uttar Pradesh,Meerut,32.9,51,487.0
+2023-07,Uttar Pradesh,Meerut,34.8,82,344.9
+2023-08,Uttar Pradesh,Meerut,20.4,69,396.5
+2023-09,Uttar Pradesh,Meerut,24.4,62,1.2
+2023-10,Uttar Pradesh,Meerut,32.6,82,248.9
+2023-11,Uttar Pradesh,Meerut,33.4,61,416.5
+2023-12,Uttar Pradesh,Meerut,33.6,59,417.2
+2023-01,Uttarakhand,Dehradun,22.3,66,225.4
+2023-02,Uttarakhand,Dehradun,29.4,50,383.8
+2023-03,Uttarakhand,Dehradun,23.9,80,178.5
+2023-04,Uttarakhand,Dehradun,31.6,68,41.2
+2023-05,Uttarakhand,Dehradun,28.6,73,75.9
+2023-06,Uttarakhand,Dehradun,22.5,53,246.0
+2023-07,Uttarakhand,Dehradun,34.2,56,322.6
+2023-08,Uttarakhand,Dehradun,23.1,70,254.6
+2023-09,Uttarakhand,Dehradun,32.8,77,255.4
+2023-10,Uttarakhand,Dehradun,29.6,74,146.4
+2023-11,Uttarakhand,Dehradun,33.8,86,189.0
+2023-12,Uttarakhand,Dehradun,28.6,52,120.5
+2023-01,Uttarakhand,Haridwar,29.4,78,257.6
+2023-02,Uttarakhand,Haridwar,26.9,58,252.4
+2023-03,Uttarakhand,Haridwar,21.3,82,0.2
+2023-04,Uttarakhand,Haridwar,25.9,88,468.9
+2023-05,Uttarakhand,Haridwar,20.5,84,413.1
+2023-06,Uttarakhand,Haridwar,24.4,65,356.2
+2023-07,Uttarakhand,Haridwar,25.0,73,47.5
+2023-08,Uttarakhand,Haridwar,22.2,55,83.6
+2023-09,Uttarakhand,Haridwar,32.0,72,96.7
+2023-10,Uttarakhand,Haridwar,24.7,65,268.1
+2023-11,Uttarakhand,Haridwar,28.6,85,351.6
+2023-12,Uttarakhand,Haridwar,20.7,58,486.6
+2023-01,Uttarakhand,Nainital,31.2,80,162.9
+2023-02,Uttarakhand,Nainital,29.7,76,349.8
+2023-03,Uttarakhand,Nainital,22.8,67,7.6
+2023-04,Uttarakhand,Nainital,34.6,83,325.8
+2023-05,Uttarakhand,Nainital,22.3,70,254.2
+2023-06,Uttarakhand,Nainital,22.0,65,142.7
+2023-07,Uttarakhand,Nainital,32.0,78,250.8
+2023-08,Uttarakhand,Nainital,26.3,51,128.2
+2023-09,Uttarakhand,Nainital,24.2,71,421.2
+2023-10,Uttarakhand,Nainital,28.0,79,494.1
+2023-11,Uttarakhand,Nainital,28.9,81,416.2
+2023-12,Uttarakhand,Nainital,28.8,82,240.0
+2023-01,Uttarakhand,Rishikesh,29.2,83,133.8
+2023-02,Uttarakhand,Rishikesh,32.8,77,87.3
+2023-03,Uttarakhand,Rishikesh,22.8,60,417.4
+2023-04,Uttarakhand,Rishikesh,29.0,70,387.2
+2023-05,Uttarakhand,Rishikesh,26.7,56,328.3
+2023-06,Uttarakhand,Rishikesh,29.7,61,222.9
+2023-07,Uttarakhand,Rishikesh,25.6,65,71.4
+2023-08,Uttarakhand,Rishikesh,30.1,72,271.3
+2023-09,Uttarakhand,Rishikesh,27.0,72,157.1
+2023-10,Uttarakhand,Rishikesh,35.0,54,412.4
+2023-11,Uttarakhand,Rishikesh,32.3,68,237.1
+2023-12,Uttarakhand,Rishikesh,25.4,87,251.9
+2023-01,Uttarakhand,Haldwani,21.9,64,340.9
+2023-02,Uttarakhand,Haldwani,34.0,81,116.7
+2023-03,Uttarakhand,Haldwani,22.7,87,203.1
+2023-04,Uttarakhand,Haldwani,22.2,82,67.3
+2023-05,Uttarakhand,Haldwani,23.1,69,458.3
+2023-06,Uttarakhand,Haldwani,24.9,82,21.7
+2023-07,Uttarakhand,Haldwani,22.6,51,119.3
+2023-08,Uttarakhand,Haldwani,21.2,86,274.6
+2023-09,Uttarakhand,Haldwani,31.7,54,348.6
+2023-10,Uttarakhand,Haldwani,23.3,85,199.4
+2023-11,Uttarakhand,Haldwani,24.4,74,5.0
+2023-12,Uttarakhand,Haldwani,31.0,73,158.5
+2023-01,West Bengal,Kolkata,20.2,57,53.6
+2023-02,West Bengal,Kolkata,34.5,73,321.2
+2023-03,West Bengal,Kolkata,27.9,73,254.5
+2023-04,West Bengal,Kolkata,27.8,67,249.2
+2023-05,West Bengal,Kolkata,29.2,60,3.0
+2023-06,West Bengal,Kolkata,22.4,90,350.9
+2023-07,West Bengal,Kolkata,27.9,71,165.7
+2023-08,West Bengal,Kolkata,21.0,50,131.3
+2023-09,West Bengal,Kolkata,34.8,84,354.9
+2023-10,West Bengal,Kolkata,34.1,63,404.3
+2023-11,West Bengal,Kolkata,28.2,77,343.3
+2023-12,West Bengal,Kolkata,20.1,52,20.9
+2023-01,West Bengal,Darjeeling,20.1,66,97.0
+2023-02,West Bengal,Darjeeling,27.2,85,21.4
+2023-03,West Bengal,Darjeeling,31.5,57,94.3
+2023-04,West Bengal,Darjeeling,34.3,82,435.2
+2023-05,West Bengal,Darjeeling,26.0,51,346.0
+2023-06,West Bengal,Darjeeling,32.0,72,184.3
+2023-07,West Bengal,Darjeeling,24.2,63,377.3
+2023-08,West Bengal,Darjeeling,27.6,67,272.9
+2023-09,West Bengal,Darjeeling,29.0,54,303.9
+2023-10,West Bengal,Darjeeling,27.7,75,49.5
+2023-11,West Bengal,Darjeeling,23.9,78,4.2
+2023-12,West Bengal,Darjeeling,21.6,88,294.7
+2023-01,West Bengal,Siliguri,29.0,76,352.7
+2023-02,West Bengal,Siliguri,22.1,67,411.1
+2023-03,West Bengal,Siliguri,28.9,71,361.1
+2023-04,West Bengal,Siliguri,33.2,87,341.8
+2023-05,West Bengal,Siliguri,30.7,68,442.1
+2023-06,West Bengal,Siliguri,26.4,78,449.0
+2023-07,West Bengal,Siliguri,20.9,77,212.6
+2023-08,West Bengal,Siliguri,26.7,84,264.4
+2023-09,West Bengal,Siliguri,25.5,50,196.1
+2023-10,West Bengal,Siliguri,34.9,64,127.2
+2023-11,West Bengal,Siliguri,27.3,84,191.1
+2023-12,West Bengal,Siliguri,28.9,81,314.3
+2023-01,West Bengal,Howrah,31.7,58,353.9
+2023-02,West Bengal,Howrah,32.3,90,149.5
+2023-03,West Bengal,Howrah,25.3,50,90.4
+2023-04,West Bengal,Howrah,24.4,84,210.3
+2023-05,West Bengal,Howrah,21.4,62,433.5
+2023-06,West Bengal,Howrah,22.5,76,473.7
+2023-07,West Bengal,Howrah,34.7,70,181.6
+2023-08,West Bengal,Howrah,34.9,51,330.8
+2023-09,West Bengal,Howrah,30.7,83,458.1
+2023-10,West Bengal,Howrah,24.0,65,186.0
+2023-11,West Bengal,Howrah,32.6,73,10.8
+2023-12,West Bengal,Howrah,27.1,74,157.5
+2023-01,West Bengal,Durgapur,24.7,64,441.9
+2023-02,West Bengal,Durgapur,34.8,55,488.1
+2023-03,West Bengal,Durgapur,27.8,51,294.3
+2023-04,West Bengal,Durgapur,28.6,79,467.4
+2023-05,West Bengal,Durgapur,26.5,78,363.7
+2023-06,West Bengal,Durgapur,34.7,66,463.6
+2023-07,West Bengal,Durgapur,31.4,53,389.9
+2023-08,West Bengal,Durgapur,33.4,55,332.1
+2023-09,West Bengal,Durgapur,26.4,50,376.6
+2023-10,West Bengal,Durgapur,25.7,71,393.2
+2023-11,West Bengal,Durgapur,20.8,70,80.2
+2023-12,West Bengal,Durgapur,23.5,87,493.5

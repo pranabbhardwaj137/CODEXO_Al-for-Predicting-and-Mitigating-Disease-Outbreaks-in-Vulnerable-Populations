@@ -1,0 +1,141 @@
+State,District,Hospitals,Beds,Doctors,Nurses
+Andhra Pradesh,Visakhapatnam,467,1186,928,1095
+Andhra Pradesh,Vijayawada,349,6945,1884,3348
+Andhra Pradesh,Guntur,373,5113,744,2008
+Andhra Pradesh,Tirupati,401,8042,666,1176
+Andhra Pradesh,Nellore,170,6273,656,4626
+Arunachal Pradesh,Itanagar,208,5694,727,3890
+Arunachal Pradesh,Tawang,260,1509,1904,4550
+Arunachal Pradesh,Pasighat,257,2803,729,4549
+Arunachal Pradesh,Ziro,263,8419,1753,4490
+Arunachal Pradesh,Bomdila,96,9180,1977,3205
+Assam,Guwahati,213,4791,2158,2733
+Assam,Dibrugarh,350,7643,2055,4339
+Assam,Silchar,126,2072,1765,2173
+Assam,Tezpur,254,6660,2669,4455
+Assam,Jorhat,235,4856,1129,4346
+Bihar,Patna,383,2700,1969,1956
+Bihar,Gaya,146,2243,1725,2598
+Bihar,Muzaffarpur,499,3188,1764,3737
+Bihar,Bhagalpur,245,7627,1026,3836
+Bihar,Darbhanga,302,2156,898,3554
+Chhattisgarh,Raipur,165,3324,1800,3056
+Chhattisgarh,Bilaspur,192,9319,1171,4771
+Chhattisgarh,Korba,466,1895,1044,2754
+Chhattisgarh,Durg,203,3290,2673,3886
+Chhattisgarh,Jagdalpur,325,1843,2662,1812
+Goa,Panaji,268,4671,1102,1157
+Goa,Margao,324,2384,1014,2934
+Goa,Vasco da Gama,415,6454,1277,4383
+Goa,Mapusa,63,6280,2789,1636
+Goa,Ponda,194,6041,1037,2838
+Gujarat,Ahmedabad,285,2527,2319,4312
+Gujarat,Surat,378,2272,2323,1994
+Gujarat,Vadodara,204,8279,607,3800
+Gujarat,Rajkot,290,7351,1365,3739
+Gujarat,Bhavnagar,50,9864,2633,2747
+Haryana,Gurgaon,361,9634,1459,3666
+Haryana,Faridabad,327,4940,2414,1306
+Haryana,Panipat,346,9316,756,2023
+Haryana,Ambala,143,4996,957,3981
+Haryana,Karnal,464,1997,1198,1449
+Himachal Pradesh,Shimla,426,7324,2134,2117
+Himachal Pradesh,Dharamshala,365,6163,1174,2720
+Himachal Pradesh,Manali,192,3066,1886,1509
+Himachal Pradesh,Kullu,416,4581,2546,3151
+Himachal Pradesh,Solan,255,7666,2014,4332
+Jharkhand,Ranchi,171,3619,1351,4535
+Jharkhand,Jamshedpur,93,6391,2873,4455
+Jharkhand,Dhanbad,182,2051,2015,1991
+Jharkhand,Bokaro,133,9304,875,4053
+Jharkhand,Deoghar,60,2554,2179,3833
+Karnataka,Bengaluru,154,3713,1923,2431
+Karnataka,Mysuru,74,5234,2240,2785
+Karnataka,Mangaluru,318,8571,833,3640
+Karnataka,Hubli,496,3016,1591,2937
+Karnataka,Belagavi,244,7117,1986,1655
+Kerala,Thiruvananthapuram,144,4979,1462,4043
+Kerala,Kochi,488,5806,1461,3281
+Kerala,Kozhikode,269,5364,2942,2478
+Kerala,Thrissur,214,9520,779,1664
+Kerala,Kannur,217,7136,2071,3067
+Madhya Pradesh,Bhopal,481,8322,2009,3546
+Madhya Pradesh,Indore,445,3177,878,3018
+Madhya Pradesh,Gwalior,132,2727,1113,3899
+Madhya Pradesh,Jabalpur,468,1258,2670,3541
+Madhya Pradesh,Ujjain,282,1227,2027,3158
+Maharashtra,Mumbai,154,8682,2708,1088
+Maharashtra,Pune,249,9268,896,3708
+Maharashtra,Nashik,292,6209,2373,1927
+Maharashtra,Nagpur,369,1431,2589,3414
+Maharashtra,Thane,300,5758,2946,3379
+Manipur,Imphal,176,1131,2095,4818
+Manipur,Churachandpur,55,3366,1183,4275
+Manipur,Thoubal,401,4937,1562,2052
+Manipur,Bishnupur,443,6082,2367,2756
+Manipur,Senapati,357,1661,2505,3710
+Meghalaya,Shillong,317,7638,2010,2517
+Meghalaya,Tura,485,1374,2807,4311
+Meghalaya,Jowai,64,3150,580,3562
+Meghalaya,Nongstoin,166,1412,2127,4123
+Meghalaya,Baghmara,226,4740,2643,4842
+Mizoram,Aizawl,138,5400,1844,2759
+Mizoram,Lunglei,447,5102,1343,2383
+Mizoram,Champhai,278,4976,1617,4117
+Mizoram,Serchhip,483,3746,2488,3071
+Mizoram,Kolasib,463,6392,886,1414
+Nagaland,Kohima,183,6570,1752,2398
+Nagaland,Dimapur,79,7310,997,3635
+Nagaland,Mokokchung,165,5784,2095,2638
+Nagaland,Mon,478,7819,2601,1301
+Nagaland,Wokha,422,3233,2983,1902
+Odisha,Bhubaneswar,107,3523,1140,2197
+Odisha,Cuttack,418,5627,2650,3504
+Odisha,Rourkela,249,5282,2832,2712
+Odisha,Berhampur,337,2607,2142,2822
+Odisha,Sambalpur,148,7366,1412,2285
+Punjab,Chandigarh,344,7349,2765,4902
+Punjab,Ludhiana,185,9950,2169,1327
+Punjab,Amritsar,230,4847,2520,2479
+Punjab,Jalandhar,252,5528,2053,1314
+Punjab,Patiala,270,9349,729,4453
+Rajasthan,Jaipur,337,2366,2019,3491
+Rajasthan,Udaipur,225,8643,575,1025
+Rajasthan,Jodhpur,64,5867,2674,1469
+Rajasthan,Ajmer,448,1529,610,3410
+Rajasthan,Bikaner,374,7008,2865,4496
+Sikkim,Gangtok,339,7571,1709,1416
+Sikkim,Namchi,414,3466,683,4801
+Sikkim,Pelling,183,8607,2516,3634
+Sikkim,Ravangla,152,9489,2980,1243
+Sikkim,Gyalshing,229,4531,1962,1481
+Tamil Nadu,Chennai,371,2539,2579,3509
+Tamil Nadu,Coimbatore,263,4094,1481,4149
+Tamil Nadu,Madurai,248,6178,2388,2692
+Tamil Nadu,Tiruchirappalli,266,7076,2033,4881
+Tamil Nadu,Salem,103,7233,1504,4637
+Telangana,Hyderabad,226,1599,2772,1826
+Telangana,Warangal,319,2611,2786,3965
+Telangana,Nizamabad,258,8276,947,2995
+Telangana,Khammam,74,6285,1161,2346
+Telangana,Karimnagar,209,2189,2982,1743
+Tripura,Agartala,101,6163,1742,1138
+Tripura,Udaipur,494,3644,2662,2714
+Tripura,Dharmanagar,438,4819,2655,1718
+Tripura,Kailashahar,211,6258,1234,2654
+Tripura,Ambassa,404,9042,855,4889
+Uttar Pradesh,Lucknow,129,7109,2038,3711
+Uttar Pradesh,Kanpur,185,4053,2722,2160
+Uttar Pradesh,Varanasi,388,8374,2529,4554
+Uttar Pradesh,Agra,198,4982,2507,2047
+Uttar Pradesh,Meerut,294,4495,2846,2235
+Uttarakhand,Dehradun,423,8925,2682,3580
+Uttarakhand,Haridwar,406,3136,2795,4856
+Uttarakhand,Nainital,175,4884,2273,4202
+Uttarakhand,Rishikesh,230,9754,1562,2755
+Uttarakhand,Haldwani,80,1180,1291,3294
+West Bengal,Kolkata,60,6119,2794,4792
+West Bengal,Darjeeling,457,6250,1053,4271
+West Bengal,Siliguri,335,2388,2241,2281
+West Bengal,Howrah,242,6490,2709,4010
+West Bengal,Durgapur,218,9193,905,1135

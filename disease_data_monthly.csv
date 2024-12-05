@@ -1,0 +1,1681 @@
+Month,State,District,Disease,ReportedCases,Deaths,Recovered
+2023-01,Andhra Pradesh,Visakhapatnam,Dengue,1315,22,1293
+2023-02,Andhra Pradesh,Visakhapatnam,Dengue,1091,10,1081
+2023-03,Andhra Pradesh,Visakhapatnam,Influenza,781,71,710
+2023-04,Andhra Pradesh,Visakhapatnam,Cholera,1732,13,1719
+2023-05,Andhra Pradesh,Visakhapatnam,Dengue,1676,55,1621
+2023-06,Andhra Pradesh,Visakhapatnam,Malaria,556,47,509
+2023-07,Andhra Pradesh,Visakhapatnam,Cholera,1405,2,1403
+2023-08,Andhra Pradesh,Visakhapatnam,Malaria,1993,167,1826
+2023-09,Andhra Pradesh,Visakhapatnam,COVID-19,1046,98,948
+2023-10,Andhra Pradesh,Visakhapatnam,Dengue,1388,130,1258
+2023-11,Andhra Pradesh,Visakhapatnam,COVID-19,1815,162,1653
+2023-12,Andhra Pradesh,Visakhapatnam,COVID-19,810,44,766
+2023-01,Andhra Pradesh,Vijayawada,Dengue,1402,10,1392
+2023-02,Andhra Pradesh,Vijayawada,Cholera,1242,123,1119
+2023-03,Andhra Pradesh,Vijayawada,Malaria,549,40,509
+2023-04,Andhra Pradesh,Vijayawada,Cholera,1509,78,1431
+2023-05,Andhra Pradesh,Vijayawada,Influenza,678,3,675
+2023-06,Andhra Pradesh,Vijayawada,Cholera,1961,155,1806
+2023-07,Andhra Pradesh,Vijayawada,Cholera,815,74,741
+2023-08,Andhra Pradesh,Vijayawada,Dengue,559,41,518
+2023-09,Andhra Pradesh,Vijayawada,Cholera,1572,64,1508
+2023-10,Andhra Pradesh,Vijayawada,Influenza,1285,113,1172
+2023-11,Andhra Pradesh,Vijayawada,Dengue,663,30,633
+2023-12,Andhra Pradesh,Vijayawada,COVID-19,1837,100,1737
+2023-01,Andhra Pradesh,Guntur,Influenza,1242,69,1173
+2023-02,Andhra Pradesh,Guntur,COVID-19,891,51,840
+2023-03,Andhra Pradesh,Guntur,Cholera,1206,66,1140
+2023-04,Andhra Pradesh,Guntur,COVID-19,506,7,499
+2023-05,Andhra Pradesh,Guntur,Influenza,900,10,890
+2023-06,Andhra Pradesh,Guntur,Dengue,1961,56,1905
+2023-07,Andhra Pradesh,Guntur,Dengue,1421,45,1376
+2023-08,Andhra Pradesh,Guntur,COVID-19,1961,186,1775
+2023-09,Andhra Pradesh,Guntur,Malaria,1681,72,1609
+2023-10,Andhra Pradesh,Guntur,Dengue,970,71,899
+2023-11,Andhra Pradesh,Guntur,COVID-19,1849,125,1724
+2023-12,Andhra Pradesh,Guntur,Dengue,1881,37,1844
+2023-01,Andhra Pradesh,Tirupati,Dengue,993,79,914
+2023-02,Andhra Pradesh,Tirupati,COVID-19,1376,105,1271
+2023-03,Andhra Pradesh,Tirupati,Dengue,575,35,540
+2023-04,Andhra Pradesh,Tirupati,Influenza,551,29,522
+2023-05,Andhra Pradesh,Tirupati,Malaria,1132,65,1067
+2023-06,Andhra Pradesh,Tirupati,Malaria,1342,30,1312
+2023-07,Andhra Pradesh,Tirupati,Influenza,1790,81,1709
+2023-08,Andhra Pradesh,Tirupati,Malaria,1443,20,1423
+2023-09,Andhra Pradesh,Tirupati,COVID-19,1796,111,1685
+2023-10,Andhra Pradesh,Tirupati,Influenza,1092,32,1060
+2023-11,Andhra Pradesh,Tirupati,Cholera,1701,118,1583
+2023-12,Andhra Pradesh,Tirupati,Dengue,669,31,638
+2023-01,Andhra Pradesh,Nellore,Dengue,650,41,609
+2023-02,Andhra Pradesh,Nellore,Influenza,1287,97,1190
+2023-03,Andhra Pradesh,Nellore,Cholera,1524,55,1469
+2023-04,Andhra Pradesh,Nellore,Dengue,691,26,665
+2023-05,Andhra Pradesh,Nellore,Dengue,1076,37,1039
+2023-06,Andhra Pradesh,Nellore,Malaria,1476,108,1368
+2023-07,Andhra Pradesh,Nellore,Influenza,1371,17,1354
+2023-08,Andhra Pradesh,Nellore,Cholera,1109,42,1067
+2023-09,Andhra Pradesh,Nellore,Influenza,1724,160,1564
+2023-10,Andhra Pradesh,Nellore,COVID-19,1291,41,1250
+2023-11,Andhra Pradesh,Nellore,Malaria,885,21,864
+2023-12,Andhra Pradesh,Nellore,Dengue,1838,11,1827
+2023-01,Arunachal Pradesh,Itanagar,Influenza,1237,119,1118
+2023-02,Arunachal Pradesh,Itanagar,Influenza,1006,62,944
+2023-03,Arunachal Pradesh,Itanagar,Dengue,1151,96,1055
+2023-04,Arunachal Pradesh,Itanagar,Cholera,963,78,885
+2023-05,Arunachal Pradesh,Itanagar,Malaria,504,5,499
+2023-06,Arunachal Pradesh,Itanagar,Malaria,1786,96,1690
+2023-07,Arunachal Pradesh,Itanagar,Dengue,960,8,952
+2023-08,Arunachal Pradesh,Itanagar,Cholera,1094,24,1070
+2023-09,Arunachal Pradesh,Itanagar,COVID-19,1402,12,1390
+2023-10,Arunachal Pradesh,Itanagar,COVID-19,887,12,875
+2023-11,Arunachal Pradesh,Itanagar,COVID-19,1674,120,1554
+2023-12,Arunachal Pradesh,Itanagar,Dengue,884,24,860
+2023-01,Arunachal Pradesh,Tawang,Cholera,559,37,522
+2023-02,Arunachal Pradesh,Tawang,COVID-19,1100,68,1032
+2023-03,Arunachal Pradesh,Tawang,Malaria,995,27,968
+2023-04,Arunachal Pradesh,Tawang,Malaria,874,19,855
+2023-05,Arunachal Pradesh,Tawang,Malaria,1659,71,1588
+2023-06,Arunachal Pradesh,Tawang,Malaria,1396,44,1352
+2023-07,Arunachal Pradesh,Tawang,Cholera,1526,49,1477
+2023-08,Arunachal Pradesh,Tawang,Dengue,1441,17,1424
+2023-09,Arunachal Pradesh,Tawang,Malaria,1293,50,1243
+2023-10,Arunachal Pradesh,Tawang,Malaria,516,31,485
+2023-11,Arunachal Pradesh,Tawang,Malaria,1127,58,1069
+2023-12,Arunachal Pradesh,Tawang,Malaria,1955,81,1874
+2023-01,Arunachal Pradesh,Pasighat,Cholera,877,53,824
+2023-02,Arunachal Pradesh,Pasighat,COVID-19,1787,166,1621
+2023-03,Arunachal Pradesh,Pasighat,COVID-19,1752,71,1681
+2023-04,Arunachal Pradesh,Pasighat,Dengue,1121,73,1048
+2023-05,Arunachal Pradesh,Pasighat,Malaria,1967,7,1960
+2023-06,Arunachal Pradesh,Pasighat,Influenza,1734,107,1627
+2023-07,Arunachal Pradesh,Pasighat,Cholera,696,47,649
+2023-08,Arunachal Pradesh,Pasighat,Influenza,1474,92,1382
+2023-09,Arunachal Pradesh,Pasighat,COVID-19,1383,136,1247
+2023-10,Arunachal Pradesh,Pasighat,Malaria,1138,17,1121
+2023-11,Arunachal Pradesh,Pasighat,Influenza,1000,37,963
+2023-12,Arunachal Pradesh,Pasighat,Influenza,1285,31,1254
+2023-01,Arunachal Pradesh,Ziro,COVID-19,1121,36,1085
+2023-02,Arunachal Pradesh,Ziro,Dengue,1091,89,1002
+2023-03,Arunachal Pradesh,Ziro,Influenza,967,70,897
+2023-04,Arunachal Pradesh,Ziro,Cholera,1147,66,1081
+2023-05,Arunachal Pradesh,Ziro,Dengue,720,56,664
+2023-06,Arunachal Pradesh,Ziro,Malaria,1668,121,1547
+2023-07,Arunachal Pradesh,Ziro,Influenza,509,15,494
+2023-08,Arunachal Pradesh,Ziro,Dengue,793,70,723
+2023-09,Arunachal Pradesh,Ziro,Malaria,510,1,509
+2023-10,Arunachal Pradesh,Ziro,Influenza,883,41,842
+2023-11,Arunachal Pradesh,Ziro,Malaria,1080,18,1062
+2023-12,Arunachal Pradesh,Ziro,Influenza,1298,113,1185
+2023-01,Arunachal Pradesh,Bomdila,COVID-19,1073,61,1012
+2023-02,Arunachal Pradesh,Bomdila,Malaria,1567,147,1420
+2023-03,Arunachal Pradesh,Bomdila,COVID-19,953,87,866
+2023-04,Arunachal Pradesh,Bomdila,Malaria,714,21,693
+2023-05,Arunachal Pradesh,Bomdila,Influenza,1988,52,1936
+2023-06,Arunachal Pradesh,Bomdila,Dengue,1439,0,1439
+2023-07,Arunachal Pradesh,Bomdila,Cholera,1013,68,945
+2023-08,Arunachal Pradesh,Bomdila,COVID-19,1312,75,1237
+2023-09,Arunachal Pradesh,Bomdila,Malaria,1480,38,1442
+2023-10,Arunachal Pradesh,Bomdila,Dengue,968,35,933
+2023-11,Arunachal Pradesh,Bomdila,Influenza,1828,140,1688
+2023-12,Arunachal Pradesh,Bomdila,Cholera,1914,37,1877
+2023-01,Assam,Guwahati,Malaria,542,25,517
+2023-02,Assam,Guwahati,Dengue,589,1,588
+2023-03,Assam,Guwahati,Malaria,1501,107,1394
+2023-04,Assam,Guwahati,Influenza,1340,62,1278
+2023-05,Assam,Guwahati,Malaria,998,44,954
+2023-06,Assam,Guwahati,Influenza,1895,98,1797
+2023-07,Assam,Guwahati,Cholera,1671,126,1545
+2023-08,Assam,Guwahati,COVID-19,845,2,843
+2023-09,Assam,Guwahati,Dengue,1851,2,1849
+2023-10,Assam,Guwahati,COVID-19,1476,146,1330
+2023-11,Assam,Guwahati,Dengue,626,20,606
+2023-12,Assam,Guwahati,Cholera,1040,21,1019
+2023-01,Assam,Dibrugarh,Dengue,1595,40,1555
+2023-02,Assam,Dibrugarh,Influenza,1583,130,1453
+2023-03,Assam,Dibrugarh,Cholera,1862,21,1841
+2023-04,Assam,Dibrugarh,Dengue,1807,98,1709
+2023-05,Assam,Dibrugarh,COVID-19,607,57,550
+2023-06,Assam,Dibrugarh,Cholera,1559,126,1433
+2023-07,Assam,Dibrugarh,Influenza,1510,117,1393
+2023-08,Assam,Dibrugarh,Cholera,723,25,698
+2023-09,Assam,Dibrugarh,Cholera,1139,45,1094
+2023-10,Assam,Dibrugarh,COVID-19,1417,18,1399
+2023-11,Assam,Dibrugarh,Dengue,742,73,669
+2023-12,Assam,Dibrugarh,Influenza,1939,160,1779
+2023-01,Assam,Silchar,Cholera,654,56,598
+2023-02,Assam,Silchar,Dengue,937,21,916
+2023-03,Assam,Silchar,COVID-19,1452,104,1348
+2023-04,Assam,Silchar,COVID-19,873,52,821
+2023-05,Assam,Silchar,Influenza,1366,84,1282
+2023-06,Assam,Silchar,Dengue,703,26,677
+2023-07,Assam,Silchar,Malaria,1983,191,1792
+2023-08,Assam,Silchar,Malaria,1485,121,1364
+2023-09,Assam,Silchar,Cholera,1504,25,1479
+2023-10,Assam,Silchar,Dengue,1304,3,1301
+2023-11,Assam,Silchar,Dengue,1129,102,1027
+2023-12,Assam,Silchar,Malaria,1941,175,1766
+2023-01,Assam,Tezpur,Influenza,1361,110,1251
+2023-02,Assam,Tezpur,Malaria,1837,140,1697
+2023-03,Assam,Tezpur,Dengue,878,37,841
+2023-04,Assam,Tezpur,COVID-19,1019,31,988
+2023-05,Assam,Tezpur,COVID-19,1389,52,1337
+2023-06,Assam,Tezpur,Dengue,589,22,567
+2023-07,Assam,Tezpur,Dengue,705,61,644
+2023-08,Assam,Tezpur,Malaria,526,51,475
+2023-09,Assam,Tezpur,Malaria,1027,75,952
+2023-10,Assam,Tezpur,Dengue,1228,0,1228
+2023-11,Assam,Tezpur,COVID-19,1135,59,1076
+2023-12,Assam,Tezpur,Influenza,1327,130,1197
+2023-01,Assam,Jorhat,Dengue,1548,100,1448
+2023-02,Assam,Jorhat,Malaria,1821,148,1673
+2023-03,Assam,Jorhat,Cholera,1479,80,1399
+2023-04,Assam,Jorhat,COVID-19,1167,22,1145
+2023-05,Assam,Jorhat,Malaria,1246,91,1155
+2023-06,Assam,Jorhat,Influenza,1201,60,1141
+2023-07,Assam,Jorhat,Malaria,905,48,857
+2023-08,Assam,Jorhat,Cholera,1008,0,1008
+2023-09,Assam,Jorhat,COVID-19,1693,57,1636
+2023-10,Assam,Jorhat,Malaria,847,35,812
+2023-11,Assam,Jorhat,Dengue,1554,106,1448
+2023-12,Assam,Jorhat,Influenza,679,34,645
+2023-01,Bihar,Patna,Malaria,998,97,901
+2023-02,Bihar,Patna,COVID-19,1982,187,1795
+2023-03,Bihar,Patna,Malaria,1347,127,1220
+2023-04,Bihar,Patna,Influenza,652,55,597
+2023-05,Bihar,Patna,COVID-19,1356,54,1302
+2023-06,Bihar,Patna,Dengue,1266,42,1224
+2023-07,Bihar,Patna,Dengue,883,76,807
+2023-08,Bihar,Patna,Influenza,968,47,921
+2023-09,Bihar,Patna,COVID-19,1689,121,1568
+2023-10,Bihar,Patna,Influenza,637,25,612
+2023-11,Bihar,Patna,Cholera,950,45,905
+2023-12,Bihar,Patna,Influenza,1456,73,1383
+2023-01,Bihar,Gaya,Cholera,535,15,520
+2023-02,Bihar,Gaya,Malaria,1646,76,1570
+2023-03,Bihar,Gaya,Dengue,1964,48,1916
+2023-04,Bihar,Gaya,Cholera,1987,136,1851
+2023-05,Bihar,Gaya,COVID-19,1802,69,1733
+2023-06,Bihar,Gaya,Dengue,675,51,624
+2023-07,Bihar,Gaya,Influenza,1592,25,1567
+2023-08,Bihar,Gaya,Influenza,1765,173,1592
+2023-09,Bihar,Gaya,Cholera,802,9,793
+2023-10,Bihar,Gaya,Cholera,1192,73,1119
+2023-11,Bihar,Gaya,COVID-19,1714,50,1664
+2023-12,Bihar,Gaya,Influenza,1423,82,1341
+2023-01,Bihar,Muzaffarpur,Dengue,680,51,629
+2023-02,Bihar,Muzaffarpur,Cholera,763,2,761
+2023-03,Bihar,Muzaffarpur,Cholera,1777,165,1612
+2023-04,Bihar,Muzaffarpur,Cholera,1609,144,1465
+2023-05,Bihar,Muzaffarpur,Malaria,1622,162,1460
+2023-06,Bihar,Muzaffarpur,Dengue,1822,28,1794
+2023-07,Bihar,Muzaffarpur,Dengue,1756,153,1603
+2023-08,Bihar,Muzaffarpur,COVID-19,1323,124,1199
+2023-09,Bihar,Muzaffarpur,COVID-19,1649,46,1603
+2023-10,Bihar,Muzaffarpur,Malaria,1260,60,1200
+2023-11,Bihar,Muzaffarpur,COVID-19,1377,81,1296
+2023-12,Bihar,Muzaffarpur,Dengue,1715,85,1630
+2023-01,Bihar,Bhagalpur,COVID-19,1885,42,1843
+2023-02,Bihar,Bhagalpur,Cholera,853,24,829
+2023-03,Bihar,Bhagalpur,Dengue,857,6,851
+2023-04,Bihar,Bhagalpur,Dengue,1506,126,1380
+2023-05,Bihar,Bhagalpur,Cholera,1464,8,1456
+2023-06,Bihar,Bhagalpur,Dengue,1783,173,1610
+2023-07,Bihar,Bhagalpur,Dengue,1583,88,1495
+2023-08,Bihar,Bhagalpur,COVID-19,1403,63,1340
+2023-09,Bihar,Bhagalpur,Cholera,1690,25,1665
+2023-10,Bihar,Bhagalpur,Malaria,1435,114,1321
+2023-11,Bihar,Bhagalpur,Dengue,1036,97,939
+2023-12,Bihar,Bhagalpur,Dengue,1969,191,1778
+2023-01,Bihar,Darbhanga,COVID-19,552,49,503
+2023-02,Bihar,Darbhanga,Dengue,509,45,464
+2023-03,Bihar,Darbhanga,Influenza,1506,111,1395
+2023-04,Bihar,Darbhanga,Cholera,1443,26,1417
+2023-05,Bihar,Darbhanga,Dengue,1089,82,1007
+2023-06,Bihar,Darbhanga,Dengue,1321,36,1285
+2023-07,Bihar,Darbhanga,COVID-19,745,67,678
+2023-08,Bihar,Darbhanga,Influenza,1522,13,1509
+2023-09,Bihar,Darbhanga,Malaria,1855,154,1701
+2023-10,Bihar,Darbhanga,Influenza,1586,76,1510
+2023-11,Bihar,Darbhanga,Dengue,747,43,704
+2023-12,Bihar,Darbhanga,Dengue,1314,89,1225
+2023-01,Chhattisgarh,Raipur,Influenza,584,21,563
+2023-02,Chhattisgarh,Raipur,Influenza,1939,54,1885
+2023-03,Chhattisgarh,Raipur,Dengue,726,3,723
+2023-04,Chhattisgarh,Raipur,Dengue,592,30,562
+2023-05,Chhattisgarh,Raipur,Influenza,1910,18,1892
+2023-06,Chhattisgarh,Raipur,Malaria,1548,26,1522
+2023-07,Chhattisgarh,Raipur,COVID-19,662,64,598
+2023-08,Chhattisgarh,Raipur,COVID-19,1840,118,1722
+2023-09,Chhattisgarh,Raipur,COVID-19,502,24,478
+2023-10,Chhattisgarh,Raipur,Cholera,844,58,786
+2023-11,Chhattisgarh,Raipur,COVID-19,1175,84,1091
+2023-12,Chhattisgarh,Raipur,Dengue,1463,55,1408
+2023-01,Chhattisgarh,Bilaspur,COVID-19,1102,64,1038
+2023-02,Chhattisgarh,Bilaspur,Cholera,1976,133,1843
+2023-03,Chhattisgarh,Bilaspur,Influenza,1315,1,1314
+2023-04,Chhattisgarh,Bilaspur,COVID-19,869,29,840
+2023-05,Chhattisgarh,Bilaspur,Cholera,1276,23,1253
+2023-06,Chhattisgarh,Bilaspur,Malaria,1569,100,1469
+2023-07,Chhattisgarh,Bilaspur,Cholera,595,37,558
+2023-08,Chhattisgarh,Bilaspur,Influenza,1621,25,1596
+2023-09,Chhattisgarh,Bilaspur,Dengue,1696,13,1683
+2023-10,Chhattisgarh,Bilaspur,COVID-19,1324,45,1279
+2023-11,Chhattisgarh,Bilaspur,COVID-19,1238,76,1162
+2023-12,Chhattisgarh,Bilaspur,Influenza,745,71,674
+2023-01,Chhattisgarh,Korba,Dengue,653,25,628
+2023-02,Chhattisgarh,Korba,Dengue,527,12,515
+2023-03,Chhattisgarh,Korba,Influenza,1325,78,1247
+2023-04,Chhattisgarh,Korba,Malaria,1062,43,1019
+2023-05,Chhattisgarh,Korba,COVID-19,1417,17,1400
+2023-06,Chhattisgarh,Korba,COVID-19,690,56,634
+2023-07,Chhattisgarh,Korba,Cholera,550,43,507
+2023-08,Chhattisgarh,Korba,Influenza,1074,72,1002
+2023-09,Chhattisgarh,Korba,Malaria,901,18,883
+2023-10,Chhattisgarh,Korba,Dengue,947,28,919
+2023-11,Chhattisgarh,Korba,Influenza,1734,141,1593
+2023-12,Chhattisgarh,Korba,Cholera,1962,88,1874
+2023-01,Chhattisgarh,Durg,Malaria,1919,191,1728
+2023-02,Chhattisgarh,Durg,Malaria,1065,68,997
+2023-03,Chhattisgarh,Durg,Dengue,1706,149,1557
+2023-04,Chhattisgarh,Durg,COVID-19,1814,135,1679
+2023-05,Chhattisgarh,Durg,Cholera,805,34,771
+2023-06,Chhattisgarh,Durg,COVID-19,592,58,534
+2023-07,Chhattisgarh,Durg,Influenza,1025,62,963
+2023-08,Chhattisgarh,Durg,Dengue,1337,7,1330
+2023-09,Chhattisgarh,Durg,Malaria,929,87,842
+2023-10,Chhattisgarh,Durg,Dengue,963,59,904
+2023-11,Chhattisgarh,Durg,Malaria,733,8,725
+2023-12,Chhattisgarh,Durg,Malaria,539,34,505
+2023-01,Chhattisgarh,Jagdalpur,Influenza,1109,40,1069
+2023-02,Chhattisgarh,Jagdalpur,Cholera,638,61,577
+2023-03,Chhattisgarh,Jagdalpur,Cholera,1129,40,1089
+2023-04,Chhattisgarh,Jagdalpur,COVID-19,1195,112,1083
+2023-05,Chhattisgarh,Jagdalpur,Influenza,1732,166,1566
+2023-06,Chhattisgarh,Jagdalpur,Dengue,1819,117,1702
+2023-07,Chhattisgarh,Jagdalpur,Influenza,1653,112,1541
+2023-08,Chhattisgarh,Jagdalpur,Cholera,867,84,783
+2023-09,Chhattisgarh,Jagdalpur,Influenza,1093,40,1053
+2023-10,Chhattisgarh,Jagdalpur,Dengue,1425,22,1403
+2023-11,Chhattisgarh,Jagdalpur,COVID-19,692,47,645
+2023-12,Chhattisgarh,Jagdalpur,Influenza,1697,41,1656
+2023-01,Goa,Panaji,COVID-19,1401,133,1268
+2023-02,Goa,Panaji,COVID-19,1838,125,1713
+2023-03,Goa,Panaji,Influenza,1357,37,1320
+2023-04,Goa,Panaji,Malaria,664,23,641
+2023-05,Goa,Panaji,COVID-19,845,66,779
+2023-06,Goa,Panaji,Dengue,742,5,737
+2023-07,Goa,Panaji,Dengue,1765,62,1703
+2023-08,Goa,Panaji,Malaria,957,4,953
+2023-09,Goa,Panaji,COVID-19,1291,18,1273
+2023-10,Goa,Panaji,Dengue,1487,42,1445
+2023-11,Goa,Panaji,COVID-19,1847,117,1730
+2023-12,Goa,Panaji,Dengue,1547,66,1481
+2023-01,Goa,Margao,Dengue,1092,37,1055
+2023-02,Goa,Margao,Cholera,1397,10,1387
+2023-03,Goa,Margao,Influenza,828,82,746
+2023-04,Goa,Margao,Influenza,1838,95,1743
+2023-05,Goa,Margao,Influenza,1836,88,1748
+2023-06,Goa,Margao,Cholera,934,8,926
+2023-07,Goa,Margao,Dengue,1333,22,1311
+2023-08,Goa,Margao,COVID-19,1101,102,999
+2023-09,Goa,Margao,COVID-19,1402,95,1307
+2023-10,Goa,Margao,Influenza,676,25,651
+2023-11,Goa,Margao,Cholera,804,36,768
+2023-12,Goa,Margao,COVID-19,578,36,542
+2023-01,Goa,Vasco da Gama,Malaria,1708,89,1619
+2023-02,Goa,Vasco da Gama,Influenza,1401,128,1273
+2023-03,Goa,Vasco da Gama,COVID-19,1547,84,1463
+2023-04,Goa,Vasco da Gama,Cholera,1702,53,1649
+2023-05,Goa,Vasco da Gama,Influenza,1294,112,1182
+2023-06,Goa,Vasco da Gama,Malaria,1597,16,1581
+2023-07,Goa,Vasco da Gama,Dengue,1115,68,1047
+2023-08,Goa,Vasco da Gama,Malaria,1739,4,1735
+2023-09,Goa,Vasco da Gama,Cholera,1170,86,1084
+2023-10,Goa,Vasco da Gama,Malaria,707,40,667
+2023-11,Goa,Vasco da Gama,Malaria,882,36,846
+2023-12,Goa,Vasco da Gama,Cholera,1151,114,1037
+2023-01,Goa,Mapusa,COVID-19,1720,2,1718
+2023-02,Goa,Mapusa,Cholera,1285,123,1162
+2023-03,Goa,Mapusa,Influenza,1489,20,1469
+2023-04,Goa,Mapusa,Influenza,1342,123,1219
+2023-05,Goa,Mapusa,Influenza,703,7,696
+2023-06,Goa,Mapusa,Dengue,1330,76,1254
+2023-07,Goa,Mapusa,Cholera,1696,82,1614
+2023-08,Goa,Mapusa,Cholera,1346,98,1248
+2023-09,Goa,Mapusa,Cholera,1002,64,938
+2023-10,Goa,Mapusa,Dengue,1842,43,1799
+2023-11,Goa,Mapusa,Dengue,967,70,897
+2023-12,Goa,Mapusa,Influenza,1081,103,978
+2023-01,Goa,Ponda,COVID-19,597,5,592
+2023-02,Goa,Ponda,Malaria,576,37,539
+2023-03,Goa,Ponda,Dengue,1303,56,1247
+2023-04,Goa,Ponda,COVID-19,1079,39,1040
+2023-05,Goa,Ponda,Dengue,1376,36,1340
+2023-06,Goa,Ponda,Dengue,574,11,563
+2023-07,Goa,Ponda,Dengue,1117,52,1065
+2023-08,Goa,Ponda,COVID-19,584,24,560
+2023-09,Goa,Ponda,COVID-19,1589,41,1548
+2023-10,Goa,Ponda,Cholera,545,37,508
+2023-11,Goa,Ponda,COVID-19,1303,21,1282
+2023-12,Goa,Ponda,Dengue,1941,79,1862
+2023-01,Gujarat,Ahmedabad,Influenza,1223,64,1159
+2023-02,Gujarat,Ahmedabad,Dengue,692,33,659
+2023-03,Gujarat,Ahmedabad,COVID-19,1935,56,1879
+2023-04,Gujarat,Ahmedabad,Influenza,1537,118,1419
+2023-05,Gujarat,Ahmedabad,Malaria,1426,62,1364
+2023-06,Gujarat,Ahmedabad,COVID-19,794,72,722
+2023-07,Gujarat,Ahmedabad,Influenza,1724,130,1594
+2023-08,Gujarat,Ahmedabad,Dengue,761,50,711
+2023-09,Gujarat,Ahmedabad,COVID-19,1128,105,1023
+2023-10,Gujarat,Ahmedabad,Influenza,671,28,643
+2023-11,Gujarat,Ahmedabad,Malaria,1401,22,1379
+2023-12,Gujarat,Ahmedabad,Malaria,657,3,654
+2023-01,Gujarat,Surat,COVID-19,1553,134,1419
+2023-02,Gujarat,Surat,Malaria,759,3,756
+2023-03,Gujarat,Surat,Malaria,1805,11,1794
+2023-04,Gujarat,Surat,Dengue,1951,27,1924
+2023-05,Gujarat,Surat,Dengue,583,22,561
+2023-06,Gujarat,Surat,Dengue,1944,30,1914
+2023-07,Gujarat,Surat,Dengue,1784,29,1755
+2023-08,Gujarat,Surat,COVID-19,1027,65,962
+2023-09,Gujarat,Surat,Cholera,1134,0,1134
+2023-10,Gujarat,Surat,COVID-19,869,77,792
+2023-11,Gujarat,Surat,Dengue,1791,85,1706
+2023-12,Gujarat,Surat,Cholera,1924,13,1911
+2023-01,Gujarat,Vadodara,COVID-19,1625,86,1539
+2023-02,Gujarat,Vadodara,Dengue,1058,73,985
+2023-03,Gujarat,Vadodara,Influenza,876,17,859
+2023-04,Gujarat,Vadodara,Malaria,1685,95,1590
+2023-05,Gujarat,Vadodara,Dengue,1554,78,1476
+2023-06,Gujarat,Vadodara,Dengue,1537,28,1509
+2023-07,Gujarat,Vadodara,Influenza,844,72,772
+2023-08,Gujarat,Vadodara,COVID-19,666,35,631
+2023-09,Gujarat,Vadodara,Dengue,1489,81,1408
+2023-10,Gujarat,Vadodara,Cholera,1192,84,1108
+2023-11,Gujarat,Vadodara,Influenza,1880,17,1863
+2023-12,Gujarat,Vadodara,Cholera,1837,112,1725
+2023-01,Gujarat,Rajkot,Malaria,1933,93,1840
+2023-02,Gujarat,Rajkot,Dengue,1402,46,1356
+2023-03,Gujarat,Rajkot,Malaria,869,32,837
+2023-04,Gujarat,Rajkot,Influenza,1076,74,1002
+2023-05,Gujarat,Rajkot,Cholera,516,37,479
+2023-06,Gujarat,Rajkot,Cholera,1962,163,1799
+2023-07,Gujarat,Rajkot,COVID-19,733,16,717
+2023-08,Gujarat,Rajkot,COVID-19,1700,3,1697
+2023-09,Gujarat,Rajkot,COVID-19,1350,69,1281
+2023-10,Gujarat,Rajkot,Influenza,662,19,643
+2023-11,Gujarat,Rajkot,Malaria,823,35,788
+2023-12,Gujarat,Rajkot,Malaria,552,53,499
+2023-01,Gujarat,Bhavnagar,Influenza,1831,17,1814
+2023-02,Gujarat,Bhavnagar,COVID-19,705,4,701
+2023-03,Gujarat,Bhavnagar,Cholera,598,23,575
+2023-04,Gujarat,Bhavnagar,Influenza,564,44,520
+2023-05,Gujarat,Bhavnagar,Malaria,1746,154,1592
+2023-06,Gujarat,Bhavnagar,Dengue,822,41,781
+2023-07,Gujarat,Bhavnagar,Cholera,926,78,848
+2023-08,Gujarat,Bhavnagar,COVID-19,1664,65,1599
+2023-09,Gujarat,Bhavnagar,COVID-19,1278,60,1218
+2023-10,Gujarat,Bhavnagar,Influenza,1692,82,1610
+2023-11,Gujarat,Bhavnagar,Cholera,971,84,887
+2023-12,Gujarat,Bhavnagar,Malaria,1987,4,1983
+2023-01,Haryana,Gurgaon,Malaria,882,2,880
+2023-02,Haryana,Gurgaon,Influenza,613,0,613
+2023-03,Haryana,Gurgaon,Dengue,1327,50,1277
+2023-04,Haryana,Gurgaon,Influenza,1707,92,1615
+2023-05,Haryana,Gurgaon,Malaria,1048,52,996
+2023-06,Haryana,Gurgaon,COVID-19,715,58,657
+2023-07,Haryana,Gurgaon,COVID-19,1618,155,1463
+2023-08,Haryana,Gurgaon,Dengue,1981,112,1869
+2023-09,Haryana,Gurgaon,Dengue,743,67,676
+2023-10,Haryana,Gurgaon,Influenza,1991,120,1871
+2023-11,Haryana,Gurgaon,Dengue,685,46,639
+2023-12,Haryana,Gurgaon,Malaria,961,77,884
+2023-01,Haryana,Faridabad,Influenza,1297,77,1220
+2023-02,Haryana,Faridabad,Influenza,1196,65,1131
+2023-03,Haryana,Faridabad,Cholera,1270,126,1144
+2023-04,Haryana,Faridabad,Influenza,1272,3,1269
+2023-05,Haryana,Faridabad,Cholera,1808,99,1709
+2023-06,Haryana,Faridabad,Cholera,1781,107,1674
+2023-07,Haryana,Faridabad,Malaria,1214,97,1117
+2023-08,Haryana,Faridabad,Cholera,1054,10,1044
+2023-09,Haryana,Faridabad,Influenza,1187,116,1071
+2023-10,Haryana,Faridabad,Malaria,953,4,949
+2023-11,Haryana,Faridabad,Malaria,1184,61,1123
+2023-12,Haryana,Faridabad,Malaria,1477,147,1330
+2023-01,Haryana,Panipat,Dengue,674,61,613
+2023-02,Haryana,Panipat,Malaria,1089,23,1066
+2023-03,Haryana,Panipat,Dengue,1264,65,1199
+2023-04,Haryana,Panipat,Dengue,1817,35,1782
+2023-05,Haryana,Panipat,Malaria,1835,110,1725
+2023-06,Haryana,Panipat,Influenza,1047,34,1013
+2023-07,Haryana,Panipat,Influenza,1116,106,1010
+2023-08,Haryana,Panipat,Malaria,1131,50,1081
+2023-09,Haryana,Panipat,Influenza,1526,64,1462
+2023-10,Haryana,Panipat,Influenza,1775,150,1625
+2023-11,Haryana,Panipat,Cholera,1451,94,1357
+2023-12,Haryana,Panipat,Malaria,1240,43,1197
+2023-01,Haryana,Ambala,Cholera,1975,152,1823
+2023-02,Haryana,Ambala,Dengue,1978,72,1906
+2023-03,Haryana,Ambala,COVID-19,1999,90,1909
+2023-04,Haryana,Ambala,COVID-19,1892,38,1854
+2023-05,Haryana,Ambala,COVID-19,1392,5,1387
+2023-06,Haryana,Ambala,Cholera,775,51,724
+2023-07,Haryana,Ambala,Cholera,1173,16,1157
+2023-08,Haryana,Ambala,Cholera,1046,41,1005
+2023-09,Haryana,Ambala,COVID-19,1812,8,1804
+2023-10,Haryana,Ambala,COVID-19,1399,104,1295
+2023-11,Haryana,Ambala,Dengue,1305,66,1239
+2023-12,Haryana,Ambala,Dengue,1565,150,1415
+2023-01,Haryana,Karnal,Influenza,1071,64,1007
+2023-02,Haryana,Karnal,COVID-19,1208,81,1127
+2023-03,Haryana,Karnal,Influenza,1235,75,1160
+2023-04,Haryana,Karnal,Cholera,1671,79,1592
+2023-05,Haryana,Karnal,Malaria,1325,102,1223
+2023-06,Haryana,Karnal,Influenza,533,22,511
+2023-07,Haryana,Karnal,COVID-19,1930,9,1921
+2023-08,Haryana,Karnal,COVID-19,1928,181,1747
+2023-09,Haryana,Karnal,Cholera,896,84,812
+2023-10,Haryana,Karnal,Influenza,1211,2,1209
+2023-11,Haryana,Karnal,Influenza,1275,89,1186
+2023-12,Haryana,Karnal,Dengue,1260,15,1245
+2023-01,Himachal Pradesh,Shimla,Cholera,797,12,785
+2023-02,Himachal Pradesh,Shimla,Influenza,1009,12,997
+2023-03,Himachal Pradesh,Shimla,Cholera,1092,82,1010
+2023-04,Himachal Pradesh,Shimla,Cholera,1100,11,1089
+2023-05,Himachal Pradesh,Shimla,Influenza,1827,134,1693
+2023-06,Himachal Pradesh,Shimla,COVID-19,1297,58,1239
+2023-07,Himachal Pradesh,Shimla,COVID-19,528,0,528
+2023-08,Himachal Pradesh,Shimla,Influenza,1335,60,1275
+2023-09,Himachal Pradesh,Shimla,Malaria,857,19,838
+2023-10,Himachal Pradesh,Shimla,Dengue,710,23,687
+2023-11,Himachal Pradesh,Shimla,Influenza,1209,63,1146
+2023-12,Himachal Pradesh,Shimla,Malaria,1194,96,1098
+2023-01,Himachal Pradesh,Dharamshala,Influenza,631,56,575
+2023-02,Himachal Pradesh,Dharamshala,Malaria,1427,94,1333
+2023-03,Himachal Pradesh,Dharamshala,COVID-19,808,3,805
+2023-04,Himachal Pradesh,Dharamshala,Malaria,1413,22,1391
+2023-05,Himachal Pradesh,Dharamshala,COVID-19,1106,97,1009
+2023-06,Himachal Pradesh,Dharamshala,COVID-19,697,3,694
+2023-07,Himachal Pradesh,Dharamshala,COVID-19,915,39,876
+2023-08,Himachal Pradesh,Dharamshala,Cholera,1124,48,1076
+2023-09,Himachal Pradesh,Dharamshala,Malaria,1280,124,1156
+2023-10,Himachal Pradesh,Dharamshala,Influenza,1450,137,1313
+2023-11,Himachal Pradesh,Dharamshala,Dengue,586,48,538
+2023-12,Himachal Pradesh,Dharamshala,Malaria,581,25,556
+2023-01,Himachal Pradesh,Manali,Influenza,932,59,873
+2023-02,Himachal Pradesh,Manali,Cholera,1804,19,1785
+2023-03,Himachal Pradesh,Manali,Influenza,959,4,955
+2023-04,Himachal Pradesh,Manali,Dengue,1909,52,1857
+2023-05,Himachal Pradesh,Manali,Dengue,1645,8,1637
+2023-06,Himachal Pradesh,Manali,Cholera,847,18,829
+2023-07,Himachal Pradesh,Manali,Malaria,833,43,790
+2023-08,Himachal Pradesh,Manali,Malaria,793,50,743
+2023-09,Himachal Pradesh,Manali,Cholera,645,30,615
+2023-10,Himachal Pradesh,Manali,Dengue,971,96,875
+2023-11,Himachal Pradesh,Manali,Dengue,1217,46,1171
+2023-12,Himachal Pradesh,Manali,Influenza,1595,9,1586
+2023-01,Himachal Pradesh,Kullu,Dengue,916,23,893
+2023-02,Himachal Pradesh,Kullu,Influenza,790,78,712
+2023-03,Himachal Pradesh,Kullu,COVID-19,757,41,716
+2023-04,Himachal Pradesh,Kullu,Influenza,1075,30,1045
+2023-05,Himachal Pradesh,Kullu,Influenza,795,49,746
+2023-06,Himachal Pradesh,Kullu,Influenza,896,6,890
+2023-07,Himachal Pradesh,Kullu,Malaria,811,52,759
+2023-08,Himachal Pradesh,Kullu,Malaria,1795,106,1689
+2023-09,Himachal Pradesh,Kullu,Malaria,1888,83,1805
+2023-10,Himachal Pradesh,Kullu,Dengue,704,16,688
+2023-11,Himachal Pradesh,Kullu,COVID-19,1473,2,1471
+2023-12,Himachal Pradesh,Kullu,Malaria,1836,77,1759
+2023-01,Himachal Pradesh,Solan,COVID-19,914,16,898
+2023-02,Himachal Pradesh,Solan,COVID-19,1634,84,1550
+2023-03,Himachal Pradesh,Solan,Cholera,1700,85,1615
+2023-04,Himachal Pradesh,Solan,Dengue,726,35,691
+2023-05,Himachal Pradesh,Solan,Dengue,1070,83,987
+2023-06,Himachal Pradesh,Solan,COVID-19,1240,53,1187
+2023-07,Himachal Pradesh,Solan,Influenza,1978,59,1919
+2023-08,Himachal Pradesh,Solan,Cholera,1115,75,1040
+2023-09,Himachal Pradesh,Solan,Dengue,1980,122,1858
+2023-10,Himachal Pradesh,Solan,Cholera,1625,21,1604
+2023-11,Himachal Pradesh,Solan,Influenza,805,33,772
+2023-12,Himachal Pradesh,Solan,Malaria,1077,16,1061
+2023-01,Jharkhand,Ranchi,COVID-19,561,45,516
+2023-02,Jharkhand,Ranchi,Influenza,1876,32,1844
+2023-03,Jharkhand,Ranchi,Malaria,1651,97,1554
+2023-04,Jharkhand,Ranchi,Influenza,950,18,932
+2023-05,Jharkhand,Ranchi,Influenza,1492,135,1357
+2023-06,Jharkhand,Ranchi,Cholera,1105,57,1048
+2023-07,Jharkhand,Ranchi,COVID-19,880,87,793
+2023-08,Jharkhand,Ranchi,Influenza,1644,18,1626
+2023-09,Jharkhand,Ranchi,COVID-19,1721,154,1567
+2023-10,Jharkhand,Ranchi,Influenza,1472,14,1458
+2023-11,Jharkhand,Ranchi,COVID-19,1449,124,1325
+2023-12,Jharkhand,Ranchi,Dengue,1238,12,1226
+2023-01,Jharkhand,Jamshedpur,Cholera,998,89,909
+2023-02,Jharkhand,Jamshedpur,COVID-19,900,40,860
+2023-03,Jharkhand,Jamshedpur,Dengue,1089,20,1069
+2023-04,Jharkhand,Jamshedpur,Malaria,1571,63,1508
+2023-05,Jharkhand,Jamshedpur,Malaria,1859,106,1753
+2023-06,Jharkhand,Jamshedpur,Dengue,997,1,996
+2023-07,Jharkhand,Jamshedpur,Influenza,1471,63,1408
+2023-08,Jharkhand,Jamshedpur,Influenza,1210,57,1153
+2023-09,Jharkhand,Jamshedpur,Cholera,1529,42,1487
+2023-10,Jharkhand,Jamshedpur,Malaria,1051,66,985
+2023-11,Jharkhand,Jamshedpur,Influenza,766,25,741
+2023-12,Jharkhand,Jamshedpur,Influenza,830,80,750
+2023-01,Jharkhand,Dhanbad,Malaria,521,40,481
+2023-02,Jharkhand,Dhanbad,Influenza,1096,66,1030
+2023-03,Jharkhand,Dhanbad,Dengue,1633,73,1560
+2023-04,Jharkhand,Dhanbad,Dengue,1323,15,1308
+2023-05,Jharkhand,Dhanbad,Influenza,896,0,896
+2023-06,Jharkhand,Dhanbad,Influenza,502,42,460
+2023-07,Jharkhand,Dhanbad,Cholera,1189,5,1184
+2023-08,Jharkhand,Dhanbad,Cholera,1231,24,1207
+2023-09,Jharkhand,Dhanbad,Malaria,1689,76,1613
+2023-10,Jharkhand,Dhanbad,COVID-19,943,39,904
+2023-11,Jharkhand,Dhanbad,COVID-19,665,29,636
+2023-12,Jharkhand,Dhanbad,Dengue,1082,7,1075
+2023-01,Jharkhand,Bokaro,Cholera,1303,93,1210
+2023-02,Jharkhand,Bokaro,COVID-19,1430,45,1385
+2023-03,Jharkhand,Bokaro,Cholera,1781,159,1622
+2023-04,Jharkhand,Bokaro,Malaria,1461,83,1378
+2023-05,Jharkhand,Bokaro,Cholera,1546,8,1538
+2023-06,Jharkhand,Bokaro,Dengue,1791,107,1684
+2023-07,Jharkhand,Bokaro,COVID-19,1966,68,1898
+2023-08,Jharkhand,Bokaro,Dengue,1101,101,1000
+2023-09,Jharkhand,Bokaro,Cholera,510,7,503
+2023-10,Jharkhand,Bokaro,Influenza,1746,46,1700
+2023-11,Jharkhand,Bokaro,Dengue,821,79,742
+2023-12,Jharkhand,Bokaro,Cholera,735,56,679
+2023-01,Jharkhand,Deoghar,Malaria,1718,45,1673
+2023-02,Jharkhand,Deoghar,Dengue,666,3,663
+2023-03,Jharkhand,Deoghar,Influenza,1785,4,1781
+2023-04,Jharkhand,Deoghar,Influenza,656,41,615
+2023-05,Jharkhand,Deoghar,Influenza,884,71,813
+2023-06,Jharkhand,Deoghar,Dengue,725,49,676
+2023-07,Jharkhand,Deoghar,Malaria,1725,33,1692
+2023-08,Jharkhand,Deoghar,Dengue,1681,23,1658
+2023-09,Jharkhand,Deoghar,Influenza,1203,106,1097
+2023-10,Jharkhand,Deoghar,Influenza,1454,48,1406
+2023-11,Jharkhand,Deoghar,Dengue,1123,77,1046
+2023-12,Jharkhand,Deoghar,COVID-19,1877,108,1769
+2023-01,Karnataka,Bengaluru,Dengue,1015,60,955
+2023-02,Karnataka,Bengaluru,Cholera,1364,111,1253
+2023-03,Karnataka,Bengaluru,Cholera,1612,103,1509
+2023-04,Karnataka,Bengaluru,COVID-19,970,44,926
+2023-05,Karnataka,Bengaluru,Cholera,1619,146,1473
+2023-06,Karnataka,Bengaluru,Cholera,1350,111,1239
+2023-07,Karnataka,Bengaluru,COVID-19,798,71,727
+2023-08,Karnataka,Bengaluru,Influenza,1344,3,1341
+2023-09,Karnataka,Bengaluru,Influenza,1178,78,1100
+2023-10,Karnataka,Bengaluru,Influenza,1087,51,1036
+2023-11,Karnataka,Bengaluru,Malaria,1467,7,1460
+2023-12,Karnataka,Bengaluru,Influenza,1362,43,1319
+2023-01,Karnataka,Mysuru,Malaria,821,41,780
+2023-02,Karnataka,Mysuru,Cholera,577,56,521
+2023-03,Karnataka,Mysuru,Dengue,825,21,804
+2023-04,Karnataka,Mysuru,Malaria,1814,15,1799
+2023-05,Karnataka,Mysuru,Dengue,1068,92,976
+2023-06,Karnataka,Mysuru,Influenza,1028,90,938
+2023-07,Karnataka,Mysuru,Dengue,571,28,543
+2023-08,Karnataka,Mysuru,Malaria,1245,91,1154
+2023-09,Karnataka,Mysuru,Cholera,1418,139,1279
+2023-10,Karnataka,Mysuru,Influenza,569,55,514
+2023-11,Karnataka,Mysuru,Influenza,533,9,524
+2023-12,Karnataka,Mysuru,Influenza,574,47,527
+2023-01,Karnataka,Mangaluru,Dengue,603,47,556
+2023-02,Karnataka,Mangaluru,Cholera,1050,40,1010
+2023-03,Karnataka,Mangaluru,Dengue,1953,143,1810
+2023-04,Karnataka,Mangaluru,Dengue,955,66,889
+2023-05,Karnataka,Mangaluru,COVID-19,1338,83,1255
+2023-06,Karnataka,Mangaluru,Dengue,723,39,684
+2023-07,Karnataka,Mangaluru,Influenza,1451,28,1423
+2023-08,Karnataka,Mangaluru,Dengue,1423,130,1293
+2023-09,Karnataka,Mangaluru,COVID-19,1855,148,1707
+2023-10,Karnataka,Mangaluru,Influenza,576,26,550
+2023-11,Karnataka,Mangaluru,Cholera,1557,100,1457
+2023-12,Karnataka,Mangaluru,Influenza,530,27,503
+2023-01,Karnataka,Hubli,Dengue,1515,53,1462
+2023-02,Karnataka,Hubli,Cholera,1063,7,1056
+2023-03,Karnataka,Hubli,Dengue,904,83,821
+2023-04,Karnataka,Hubli,Influenza,1985,34,1951
+2023-05,Karnataka,Hubli,Malaria,604,37,567
+2023-06,Karnataka,Hubli,Cholera,867,0,867
+2023-07,Karnataka,Hubli,COVID-19,842,24,818
+2023-08,Karnataka,Hubli,Dengue,1922,68,1854
+2023-09,Karnataka,Hubli,Cholera,1736,26,1710
+2023-10,Karnataka,Hubli,Cholera,665,37,628
+2023-11,Karnataka,Hubli,COVID-19,1249,24,1225
+2023-12,Karnataka,Hubli,COVID-19,1825,147,1678
+2023-01,Karnataka,Belagavi,Cholera,740,64,676
+2023-02,Karnataka,Belagavi,Cholera,1010,52,958
+2023-03,Karnataka,Belagavi,Influenza,1048,38,1010
+2023-04,Karnataka,Belagavi,Malaria,600,23,577
+2023-05,Karnataka,Belagavi,Cholera,654,24,630
+2023-06,Karnataka,Belagavi,COVID-19,1805,104,1701
+2023-07,Karnataka,Belagavi,Influenza,1180,5,1175
+2023-08,Karnataka,Belagavi,Malaria,1771,22,1749
+2023-09,Karnataka,Belagavi,COVID-19,1801,3,1798
+2023-10,Karnataka,Belagavi,Malaria,611,49,562
+2023-11,Karnataka,Belagavi,Malaria,660,2,658
+2023-12,Karnataka,Belagavi,Influenza,1869,42,1827
+2023-01,Kerala,Thiruvananthapuram,COVID-19,1463,85,1378
+2023-02,Kerala,Thiruvananthapuram,COVID-19,875,27,848
+2023-03,Kerala,Thiruvananthapuram,Dengue,1232,59,1173
+2023-04,Kerala,Thiruvananthapuram,COVID-19,1664,18,1646
+2023-05,Kerala,Thiruvananthapuram,Dengue,743,17,726
+2023-06,Kerala,Thiruvananthapuram,Influenza,1750,51,1699
+2023-07,Kerala,Thiruvananthapuram,Malaria,1445,71,1374
+2023-08,Kerala,Thiruvananthapuram,Influenza,1253,55,1198
+2023-09,Kerala,Thiruvananthapuram,Cholera,1376,48,1328
+2023-10,Kerala,Thiruvananthapuram,Influenza,848,24,824
+2023-11,Kerala,Thiruvananthapuram,Influenza,1951,11,1940
+2023-12,Kerala,Thiruvananthapuram,Dengue,1448,25,1423
+2023-01,Kerala,Kochi,Influenza,1329,107,1222
+2023-02,Kerala,Kochi,Influenza,1753,24,1729
+2023-03,Kerala,Kochi,COVID-19,528,35,493
+2023-04,Kerala,Kochi,Dengue,1969,142,1827
+2023-05,Kerala,Kochi,Influenza,1930,172,1758
+2023-06,Kerala,Kochi,COVID-19,1277,8,1269
+2023-07,Kerala,Kochi,Cholera,1139,101,1038
+2023-08,Kerala,Kochi,Dengue,501,31,470
+2023-09,Kerala,Kochi,Cholera,1530,45,1485
+2023-10,Kerala,Kochi,Influenza,1729,40,1689
+2023-11,Kerala,Kochi,COVID-19,624,30,594
+2023-12,Kerala,Kochi,Dengue,1699,32,1667
+2023-01,Kerala,Kozhikode,Dengue,899,10,889
+2023-02,Kerala,Kozhikode,Influenza,1430,35,1395
+2023-03,Kerala,Kozhikode,Cholera,1940,90,1850
+2023-04,Kerala,Kozhikode,COVID-19,1750,88,1662
+2023-05,Kerala,Kozhikode,Influenza,1508,113,1395
+2023-06,Kerala,Kozhikode,Cholera,1246,5,1241
+2023-07,Kerala,Kozhikode,COVID-19,1530,84,1446
+2023-08,Kerala,Kozhikode,Cholera,1943,68,1875
+2023-09,Kerala,Kozhikode,Dengue,1475,72,1403
+2023-10,Kerala,Kozhikode,Dengue,1863,160,1703
+2023-11,Kerala,Kozhikode,Malaria,690,34,656
+2023-12,Kerala,Kozhikode,COVID-19,1336,76,1260
+2023-01,Kerala,Thrissur,Influenza,612,49,563
+2023-02,Kerala,Thrissur,Dengue,1967,195,1772
+2023-03,Kerala,Thrissur,Malaria,1341,112,1229
+2023-04,Kerala,Thrissur,COVID-19,1904,83,1821
+2023-05,Kerala,Thrissur,Influenza,915,70,845
+2023-06,Kerala,Thrissur,COVID-19,1995,145,1850
+2023-07,Kerala,Thrissur,Malaria,1347,10,1337
+2023-08,Kerala,Thrissur,Malaria,1126,42,1084
+2023-09,Kerala,Thrissur,Malaria,1070,79,991
+2023-10,Kerala,Thrissur,Dengue,1226,122,1104
+2023-11,Kerala,Thrissur,COVID-19,1983,132,1851
+2023-12,Kerala,Thrissur,Dengue,1986,60,1926
+2023-01,Kerala,Kannur,Malaria,967,59,908
+2023-02,Kerala,Kannur,COVID-19,1078,106,972
+2023-03,Kerala,Kannur,Influenza,1130,112,1018
+2023-04,Kerala,Kannur,COVID-19,1958,133,1825
+2023-05,Kerala,Kannur,Malaria,1019,40,979
+2023-06,Kerala,Kannur,Malaria,621,17,604
+2023-07,Kerala,Kannur,COVID-19,624,54,570
+2023-08,Kerala,Kannur,Dengue,1231,8,1223
+2023-09,Kerala,Kannur,Dengue,825,5,820
+2023-10,Kerala,Kannur,Influenza,929,18,911
+2023-11,Kerala,Kannur,Cholera,1924,108,1816
+2023-12,Kerala,Kannur,COVID-19,1715,77,1638
+2023-01,Madhya Pradesh,Bhopal,Dengue,1761,60,1701
+2023-02,Madhya Pradesh,Bhopal,Cholera,1282,67,1215
+2023-03,Madhya Pradesh,Bhopal,Dengue,1948,27,1921
+2023-04,Madhya Pradesh,Bhopal,Cholera,1870,97,1773
+2023-05,Madhya Pradesh,Bhopal,COVID-19,1355,76,1279
+2023-06,Madhya Pradesh,Bhopal,Influenza,883,77,806
+2023-07,Madhya Pradesh,Bhopal,Dengue,777,71,706
+2023-08,Madhya Pradesh,Bhopal,Dengue,867,28,839
+2023-09,Madhya Pradesh,Bhopal,Malaria,1860,72,1788
+2023-10,Madhya Pradesh,Bhopal,Influenza,1605,40,1565
+2023-11,Madhya Pradesh,Bhopal,Malaria,653,24,629
+2023-12,Madhya Pradesh,Bhopal,Malaria,1859,110,1749
+2023-01,Madhya Pradesh,Indore,Malaria,1385,45,1340
+2023-02,Madhya Pradesh,Indore,Dengue,1030,25,1005
+2023-03,Madhya Pradesh,Indore,Cholera,1048,19,1029
+2023-04,Madhya Pradesh,Indore,Malaria,1944,88,1856
+2023-05,Madhya Pradesh,Indore,Influenza,1672,11,1661
+2023-06,Madhya Pradesh,Indore,Influenza,1959,5,1954
+2023-07,Madhya Pradesh,Indore,Dengue,1455,16,1439
+2023-08,Madhya Pradesh,Indore,Dengue,620,14,606
+2023-09,Madhya Pradesh,Indore,COVID-19,1893,65,1828
+2023-10,Madhya Pradesh,Indore,COVID-19,554,1,553
+2023-11,Madhya Pradesh,Indore,Dengue,1075,53,1022
+2023-12,Madhya Pradesh,Indore,Cholera,541,41,500
+2023-01,Madhya Pradesh,Gwalior,Dengue,1060,51,1009
+2023-02,Madhya Pradesh,Gwalior,Influenza,1341,101,1240
+2023-03,Madhya Pradesh,Gwalior,Cholera,1689,52,1637
+2023-04,Madhya Pradesh,Gwalior,Malaria,531,27,504
+2023-05,Madhya Pradesh,Gwalior,COVID-19,861,47,814
+2023-06,Madhya Pradesh,Gwalior,Cholera,952,23,929
+2023-07,Madhya Pradesh,Gwalior,Influenza,702,46,656
+2023-08,Madhya Pradesh,Gwalior,Malaria,1819,169,1650
+2023-09,Madhya Pradesh,Gwalior,Influenza,1155,106,1049
+2023-10,Madhya Pradesh,Gwalior,COVID-19,724,25,699
+2023-11,Madhya Pradesh,Gwalior,Influenza,1031,88,943
+2023-12,Madhya Pradesh,Gwalior,Influenza,1031,34,997
+2023-01,Madhya Pradesh,Jabalpur,Influenza,614,29,585
+2023-02,Madhya Pradesh,Jabalpur,Influenza,847,38,809
+2023-03,Madhya Pradesh,Jabalpur,COVID-19,796,75,721
+2023-04,Madhya Pradesh,Jabalpur,Malaria,1609,120,1489
+2023-05,Madhya Pradesh,Jabalpur,Cholera,983,44,939
+2023-06,Madhya Pradesh,Jabalpur,Dengue,1607,49,1558
+2023-07,Madhya Pradesh,Jabalpur,Influenza,801,19,782
+2023-08,Madhya Pradesh,Jabalpur,Dengue,1030,84,946
+2023-09,Madhya Pradesh,Jabalpur,Dengue,1004,63,941
+2023-10,Madhya Pradesh,Jabalpur,Cholera,1671,93,1578
+2023-11,Madhya Pradesh,Jabalpur,Influenza,1696,1,1695
+2023-12,Madhya Pradesh,Jabalpur,Dengue,532,3,529
+2023-01,Madhya Pradesh,Ujjain,COVID-19,1052,28,1024
+2023-02,Madhya Pradesh,Ujjain,Dengue,1003,37,966
+2023-03,Madhya Pradesh,Ujjain,Influenza,1210,75,1135
+2023-04,Madhya Pradesh,Ujjain,COVID-19,1402,54,1348
+2023-05,Madhya Pradesh,Ujjain,Influenza,646,40,606
+2023-06,Madhya Pradesh,Ujjain,Influenza,1627,59,1568
+2023-07,Madhya Pradesh,Ujjain,Malaria,1457,107,1350
+2023-08,Madhya Pradesh,Ujjain,Cholera,552,12,540
+2023-09,Madhya Pradesh,Ujjain,Influenza,911,85,826
+2023-10,Madhya Pradesh,Ujjain,Cholera,1468,76,1392
+2023-11,Madhya Pradesh,Ujjain,COVID-19,836,50,786
+2023-12,Madhya Pradesh,Ujjain,Influenza,1635,1,1634
+2023-01,Maharashtra,Mumbai,Malaria,1392,1,1391
+2023-02,Maharashtra,Mumbai,Influenza,1940,120,1820
+2023-03,Maharashtra,Mumbai,Influenza,508,45,463
+2023-04,Maharashtra,Mumbai,COVID-19,980,12,968
+2023-05,Maharashtra,Mumbai,Cholera,869,52,817
+2023-06,Maharashtra,Mumbai,Influenza,553,40,513
+2023-07,Maharashtra,Mumbai,Influenza,1338,86,1252
+2023-08,Maharashtra,Mumbai,Malaria,833,50,783
+2023-09,Maharashtra,Mumbai,Malaria,873,46,827
+2023-10,Maharashtra,Mumbai,Dengue,1781,20,1761
+2023-11,Maharashtra,Mumbai,COVID-19,1114,105,1009
+2023-12,Maharashtra,Mumbai,Cholera,1564,21,1543
+2023-01,Maharashtra,Pune,COVID-19,1952,160,1792
+2023-02,Maharashtra,Pune,COVID-19,556,17,539
+2023-03,Maharashtra,Pune,COVID-19,966,62,904
+2023-04,Maharashtra,Pune,COVID-19,1610,128,1482
+2023-05,Maharashtra,Pune,Dengue,775,11,764
+2023-06,Maharashtra,Pune,Malaria,1688,161,1527
+2023-07,Maharashtra,Pune,COVID-19,536,48,488
+2023-08,Maharashtra,Pune,Malaria,1926,48,1878
+2023-09,Maharashtra,Pune,Influenza,1458,145,1313
+2023-10,Maharashtra,Pune,Cholera,1187,21,1166
+2023-11,Maharashtra,Pune,Influenza,1329,106,1223
+2023-12,Maharashtra,Pune,Influenza,1383,122,1261
+2023-01,Maharashtra,Nashik,Dengue,1385,105,1280
+2023-02,Maharashtra,Nashik,Cholera,1312,86,1226
+2023-03,Maharashtra,Nashik,Influenza,674,61,613
+2023-04,Maharashtra,Nashik,Malaria,1722,5,1717
+2023-05,Maharashtra,Nashik,Cholera,1580,78,1502
+2023-06,Maharashtra,Nashik,Dengue,1392,62,1330
+2023-07,Maharashtra,Nashik,Dengue,1281,128,1153
+2023-08,Maharashtra,Nashik,Dengue,1483,92,1391
+2023-09,Maharashtra,Nashik,Cholera,819,5,814
+2023-10,Maharashtra,Nashik,Dengue,1165,31,1134
+2023-11,Maharashtra,Nashik,Influenza,1385,14,1371
+2023-12,Maharashtra,Nashik,Malaria,1018,68,950
+2023-01,Maharashtra,Nagpur,Dengue,1823,71,1752
+2023-02,Maharashtra,Nagpur,Influenza,1990,198,1792
+2023-03,Maharashtra,Nagpur,Dengue,979,81,898
+2023-04,Maharashtra,Nagpur,Dengue,1204,56,1148
+2023-05,Maharashtra,Nagpur,Cholera,1907,162,1745
+2023-06,Maharashtra,Nagpur,Dengue,764,5,759
+2023-07,Maharashtra,Nagpur,COVID-19,894,4,890
+2023-08,Maharashtra,Nagpur,COVID-19,1744,5,1739
+2023-09,Maharashtra,Nagpur,COVID-19,1148,58,1090
+2023-10,Maharashtra,Nagpur,Cholera,1327,7,1320
+2023-11,Maharashtra,Nagpur,Cholera,1796,152,1644
+2023-12,Maharashtra,Nagpur,COVID-19,1548,92,1456
+2023-01,Maharashtra,Thane,COVID-19,669,58,611
+2023-02,Maharashtra,Thane,Malaria,1711,82,1629
+2023-03,Maharashtra,Thane,Cholera,1788,1,1787
+2023-04,Maharashtra,Thane,COVID-19,1648,133,1515
+2023-05,Maharashtra,Thane,COVID-19,1093,40,1053
+2023-06,Maharashtra,Thane,Cholera,1891,170,1721
+2023-07,Maharashtra,Thane,Dengue,1006,59,947
+2023-08,Maharashtra,Thane,Malaria,1057,90,967
+2023-09,Maharashtra,Thane,Influenza,535,50,485
+2023-10,Maharashtra,Thane,COVID-19,990,73,917
+2023-11,Maharashtra,Thane,Cholera,1582,111,1471
+2023-12,Maharashtra,Thane,COVID-19,1647,23,1624
+2023-01,Manipur,Imphal,Influenza,1663,84,1579
+2023-02,Manipur,Imphal,Malaria,811,74,737
+2023-03,Manipur,Imphal,Malaria,1524,80,1444
+2023-04,Manipur,Imphal,Cholera,1877,119,1758
+2023-05,Manipur,Imphal,COVID-19,1799,166,1633
+2023-06,Manipur,Imphal,Cholera,1465,65,1400
+2023-07,Manipur,Imphal,Dengue,1047,79,968
+2023-08,Manipur,Imphal,COVID-19,1236,45,1191
+2023-09,Manipur,Imphal,Dengue,1538,132,1406
+2023-10,Manipur,Imphal,Influenza,746,38,708
+2023-11,Manipur,Imphal,Cholera,1396,104,1292
+2023-12,Manipur,Imphal,COVID-19,711,5,706
+2023-01,Manipur,Churachandpur,Cholera,1204,0,1204
+2023-02,Manipur,Churachandpur,Dengue,1072,106,966
+2023-03,Manipur,Churachandpur,Malaria,1165,110,1055
+2023-04,Manipur,Churachandpur,COVID-19,1934,65,1869
+2023-05,Manipur,Churachandpur,Malaria,1428,130,1298
+2023-06,Manipur,Churachandpur,Dengue,1220,104,1116
+2023-07,Manipur,Churachandpur,COVID-19,1874,152,1722
+2023-08,Manipur,Churachandpur,Influenza,1488,41,1447
+2023-09,Manipur,Churachandpur,Malaria,640,23,617
+2023-10,Manipur,Churachandpur,COVID-19,1965,106,1859
+2023-11,Manipur,Churachandpur,Dengue,1860,48,1812
+2023-12,Manipur,Churachandpur,Dengue,582,51,531
+2023-01,Manipur,Thoubal,Cholera,1368,103,1265
+2023-02,Manipur,Thoubal,Malaria,1141,21,1120
+2023-03,Manipur,Thoubal,Cholera,863,77,786
+2023-04,Manipur,Thoubal,Influenza,1679,106,1573
+2023-05,Manipur,Thoubal,Influenza,1431,90,1341
+2023-06,Manipur,Thoubal,Cholera,569,21,548
+2023-07,Manipur,Thoubal,Cholera,565,19,546
+2023-08,Manipur,Thoubal,Dengue,1733,98,1635
+2023-09,Manipur,Thoubal,COVID-19,1672,144,1528
+2023-10,Manipur,Thoubal,COVID-19,1940,131,1809
+2023-11,Manipur,Thoubal,Cholera,779,5,774
+2023-12,Manipur,Thoubal,Cholera,1374,135,1239
+2023-01,Manipur,Bishnupur,Malaria,1437,34,1403
+2023-02,Manipur,Bishnupur,Malaria,1579,34,1545
+2023-03,Manipur,Bishnupur,Dengue,1212,12,1200
+2023-04,Manipur,Bishnupur,Malaria,703,51,652
+2023-05,Manipur,Bishnupur,Malaria,598,47,551
+2023-06,Manipur,Bishnupur,Malaria,783,1,782
+2023-07,Manipur,Bishnupur,Dengue,1325,29,1296
+2023-08,Manipur,Bishnupur,Malaria,932,43,889
+2023-09,Manipur,Bishnupur,Dengue,1666,19,1647
+2023-10,Manipur,Bishnupur,Cholera,1630,14,1616
+2023-11,Manipur,Bishnupur,Malaria,988,77,911
+2023-12,Manipur,Bishnupur,Influenza,1926,12,1914
+2023-01,Manipur,Senapati,COVID-19,1519,136,1383
+2023-02,Manipur,Senapati,COVID-19,689,12,677
+2023-03,Manipur,Senapati,Influenza,958,81,877
+2023-04,Manipur,Senapati,Cholera,828,63,765
+2023-05,Manipur,Senapati,Malaria,1948,70,1878
+2023-06,Manipur,Senapati,COVID-19,1608,141,1467
+2023-07,Manipur,Senapati,Cholera,1996,90,1906
+2023-08,Manipur,Senapati,Malaria,1677,100,1577
+2023-09,Manipur,Senapati,Cholera,1455,126,1329
+2023-10,Manipur,Senapati,Dengue,798,42,756
+2023-11,Manipur,Senapati,Dengue,847,54,793
+2023-12,Manipur,Senapati,Dengue,818,40,778
+2023-01,Meghalaya,Shillong,Dengue,853,62,791
+2023-02,Meghalaya,Shillong,Dengue,829,1,828
+2023-03,Meghalaya,Shillong,Dengue,1917,122,1795
+2023-04,Meghalaya,Shillong,Influenza,502,35,467
+2023-05,Meghalaya,Shillong,Dengue,1107,22,1085
+2023-06,Meghalaya,Shillong,Malaria,708,50,658
+2023-07,Meghalaya,Shillong,Dengue,1987,137,1850
+2023-08,Meghalaya,Shillong,Dengue,975,46,929
+2023-09,Meghalaya,Shillong,Influenza,816,21,795
+2023-10,Meghalaya,Shillong,Dengue,1309,104,1205
+2023-11,Meghalaya,Shillong,Malaria,1656,37,1619
+2023-12,Meghalaya,Shillong,COVID-19,1402,99,1303
+2023-01,Meghalaya,Tura,Cholera,1919,110,1809
+2023-02,Meghalaya,Tura,Malaria,1187,94,1093
+2023-03,Meghalaya,Tura,Malaria,1826,146,1680
+2023-04,Meghalaya,Tura,Influenza,1780,173,1607
+2023-05,Meghalaya,Tura,Influenza,818,27,791
+2023-06,Meghalaya,Tura,Cholera,820,1,819
+2023-07,Meghalaya,Tura,COVID-19,1715,110,1605
+2023-08,Meghalaya,Tura,COVID-19,752,17,735
+2023-09,Meghalaya,Tura,COVID-19,1266,102,1164
+2023-10,Meghalaya,Tura,Dengue,867,77,790
+2023-11,Meghalaya,Tura,Influenza,1845,151,1694
+2023-12,Meghalaya,Tura,COVID-19,1102,48,1054
+2023-01,Meghalaya,Jowai,Influenza,896,12,884
+2023-02,Meghalaya,Jowai,Malaria,573,49,524
+2023-03,Meghalaya,Jowai,Cholera,863,16,847
+2023-04,Meghalaya,Jowai,Cholera,1666,149,1517
+2023-05,Meghalaya,Jowai,Influenza,1909,59,1850
+2023-06,Meghalaya,Jowai,Dengue,803,71,732
+2023-07,Meghalaya,Jowai,Influenza,1280,57,1223
+2023-08,Meghalaya,Jowai,Influenza,1455,94,1361
+2023-09,Meghalaya,Jowai,Malaria,667,8,659
+2023-10,Meghalaya,Jowai,Malaria,677,67,610
+2023-11,Meghalaya,Jowai,Dengue,1097,66,1031
+2023-12,Meghalaya,Jowai,Cholera,561,52,509
+2023-01,Meghalaya,Nongstoin,Cholera,1516,147,1369
+2023-02,Meghalaya,Nongstoin,Dengue,999,29,970
+2023-03,Meghalaya,Nongstoin,Dengue,1571,38,1533
+2023-04,Meghalaya,Nongstoin,COVID-19,1853,1,1852
+2023-05,Meghalaya,Nongstoin,Influenza,1094,48,1046
+2023-06,Meghalaya,Nongstoin,Dengue,668,5,663
+2023-07,Meghalaya,Nongstoin,Influenza,880,24,856
+2023-08,Meghalaya,Nongstoin,COVID-19,1042,17,1025
+2023-09,Meghalaya,Nongstoin,COVID-19,1279,92,1187
+2023-10,Meghalaya,Nongstoin,Influenza,576,32,544
+2023-11,Meghalaya,Nongstoin,Dengue,1565,33,1532
+2023-12,Meghalaya,Nongstoin,Influenza,511,42,469
+2023-01,Meghalaya,Baghmara,Dengue,1084,50,1034
+2023-02,Meghalaya,Baghmara,Malaria,1553,20,1533
+2023-03,Meghalaya,Baghmara,Cholera,1559,140,1419
+2023-04,Meghalaya,Baghmara,Cholera,710,39,671
+2023-05,Meghalaya,Baghmara,Cholera,1660,9,1651
+2023-06,Meghalaya,Baghmara,Dengue,1259,90,1169
+2023-07,Meghalaya,Baghmara,Influenza,812,46,766
+2023-08,Meghalaya,Baghmara,Dengue,1031,76,955
+2023-09,Meghalaya,Baghmara,Dengue,1094,72,1022
+2023-10,Meghalaya,Baghmara,Influenza,1312,76,1236
+2023-11,Meghalaya,Baghmara,Cholera,870,17,853
+2023-12,Meghalaya,Baghmara,COVID-19,712,59,653
+2023-01,Mizoram,Aizawl,Influenza,802,41,761
+2023-02,Mizoram,Aizawl,Malaria,1324,43,1281
+2023-03,Mizoram,Aizawl,Dengue,590,21,569
+2023-04,Mizoram,Aizawl,Malaria,1520,28,1492
+2023-05,Mizoram,Aizawl,Influenza,1364,102,1262
+2023-06,Mizoram,Aizawl,Dengue,1560,54,1506
+2023-07,Mizoram,Aizawl,Cholera,1457,103,1354
+2023-08,Mizoram,Aizawl,COVID-19,1325,120,1205
+2023-09,Mizoram,Aizawl,Malaria,572,37,535
+2023-10,Mizoram,Aizawl,Malaria,1055,20,1035
+2023-11,Mizoram,Aizawl,Dengue,1003,92,911
+2023-12,Mizoram,Aizawl,Malaria,1323,26,1297
+2023-01,Mizoram,Lunglei,Cholera,1079,21,1058
+2023-02,Mizoram,Lunglei,Cholera,1346,6,1340
+2023-03,Mizoram,Lunglei,Influenza,1917,100,1817
+2023-04,Mizoram,Lunglei,Malaria,657,51,606
+2023-05,Mizoram,Lunglei,Malaria,589,15,574
+2023-06,Mizoram,Lunglei,Dengue,1921,150,1771
+2023-07,Mizoram,Lunglei,COVID-19,1945,104,1841
+2023-08,Mizoram,Lunglei,Malaria,1985,191,1794
+2023-09,Mizoram,Lunglei,Influenza,1104,4,1100
+2023-10,Mizoram,Lunglei,Influenza,720,27,693
+2023-11,Mizoram,Lunglei,Cholera,1669,80,1589
+2023-12,Mizoram,Lunglei,Cholera,1435,57,1378
+2023-01,Mizoram,Champhai,Dengue,678,38,640
+2023-02,Mizoram,Champhai,Dengue,818,42,776
+2023-03,Mizoram,Champhai,Cholera,1603,30,1573
+2023-04,Mizoram,Champhai,Cholera,1218,69,1149
+2023-05,Mizoram,Champhai,Influenza,1687,73,1614
+2023-06,Mizoram,Champhai,COVID-19,741,16,725
+2023-07,Mizoram,Champhai,Influenza,837,51,786
+2023-08,Mizoram,Champhai,Cholera,1871,29,1842
+2023-09,Mizoram,Champhai,Dengue,1521,63,1458
+2023-10,Mizoram,Champhai,Malaria,1561,152,1409
+2023-11,Mizoram,Champhai,Malaria,1382,56,1326
+2023-12,Mizoram,Champhai,Influenza,616,27,589
+2023-01,Mizoram,Serchhip,Influenza,965,79,886
+2023-02,Mizoram,Serchhip,Dengue,1313,123,1190
+2023-03,Mizoram,Serchhip,COVID-19,1768,128,1640
+2023-04,Mizoram,Serchhip,Malaria,1301,91,1210
+2023-05,Mizoram,Serchhip,Cholera,1870,75,1795
+2023-06,Mizoram,Serchhip,Cholera,1036,86,950
+2023-07,Mizoram,Serchhip,Influenza,611,17,594
+2023-08,Mizoram,Serchhip,Influenza,1844,31,1813
+2023-09,Mizoram,Serchhip,Malaria,1192,28,1164
+2023-10,Mizoram,Serchhip,Dengue,631,22,609
+2023-11,Mizoram,Serchhip,Cholera,1858,117,1741
+2023-12,Mizoram,Serchhip,Malaria,1917,41,1876
+2023-01,Mizoram,Kolasib,Influenza,1782,24,1758
+2023-02,Mizoram,Kolasib,COVID-19,821,61,760
+2023-03,Mizoram,Kolasib,Cholera,1076,45,1031
+2023-04,Mizoram,Kolasib,Influenza,1106,88,1018
+2023-05,Mizoram,Kolasib,Influenza,1462,111,1351
+2023-06,Mizoram,Kolasib,Influenza,1728,165,1563
+2023-07,Mizoram,Kolasib,Cholera,1990,23,1967
+2023-08,Mizoram,Kolasib,Malaria,1358,113,1245
+2023-09,Mizoram,Kolasib,Influenza,1208,120,1088
+2023-10,Mizoram,Kolasib,Malaria,1915,161,1754
+2023-11,Mizoram,Kolasib,Dengue,1965,9,1956
+2023-12,Mizoram,Kolasib,Dengue,803,62,741
+2023-01,Nagaland,Kohima,Cholera,566,2,564
+2023-02,Nagaland,Kohima,Malaria,1199,34,1165
+2023-03,Nagaland,Kohima,Influenza,1347,76,1271
+2023-04,Nagaland,Kohima,COVID-19,1071,68,1003
+2023-05,Nagaland,Kohima,Dengue,965,38,927
+2023-06,Nagaland,Kohima,COVID-19,1572,135,1437
+2023-07,Nagaland,Kohima,Dengue,924,22,902
+2023-08,Nagaland,Kohima,Dengue,1040,38,1002
+2023-09,Nagaland,Kohima,Cholera,562,20,542
+2023-10,Nagaland,Kohima,Dengue,1991,86,1905
+2023-11,Nagaland,Kohima,Dengue,821,46,775
+2023-12,Nagaland,Kohima,COVID-19,694,44,650
+2023-01,Nagaland,Dimapur,Cholera,1344,76,1268
+2023-02,Nagaland,Dimapur,Influenza,1384,72,1312
+2023-03,Nagaland,Dimapur,COVID-19,1600,100,1500
+2023-04,Nagaland,Dimapur,Cholera,851,7,844
+2023-05,Nagaland,Dimapur,Malaria,1442,73,1369
+2023-06,Nagaland,Dimapur,Cholera,1039,12,1027
+2023-07,Nagaland,Dimapur,Cholera,1014,23,991
+2023-08,Nagaland,Dimapur,Dengue,767,76,691
+2023-09,Nagaland,Dimapur,Dengue,1932,28,1904
+2023-10,Nagaland,Dimapur,Cholera,1186,60,1126
+2023-11,Nagaland,Dimapur,COVID-19,1598,80,1518
+2023-12,Nagaland,Dimapur,Malaria,748,59,689
+2023-01,Nagaland,Mokokchung,Malaria,1298,126,1172
+2023-02,Nagaland,Mokokchung,COVID-19,1620,72,1548
+2023-03,Nagaland,Mokokchung,COVID-19,1426,34,1392
+2023-04,Nagaland,Mokokchung,Dengue,1724,148,1576
+2023-05,Nagaland,Mokokchung,COVID-19,1831,81,1750
+2023-06,Nagaland,Mokokchung,Malaria,1559,133,1426
+2023-07,Nagaland,Mokokchung,Cholera,777,61,716
+2023-08,Nagaland,Mokokchung,Malaria,1679,6,1673
+2023-09,Nagaland,Mokokchung,Influenza,999,62,937
+2023-10,Nagaland,Mokokchung,Influenza,768,17,751
+2023-11,Nagaland,Mokokchung,Cholera,851,51,800
+2023-12,Nagaland,Mokokchung,Cholera,1464,140,1324
+2023-01,Nagaland,Mon,Dengue,1798,114,1684
+2023-02,Nagaland,Mon,Influenza,1471,69,1402
+2023-03,Nagaland,Mon,Cholera,1869,83,1786
+2023-04,Nagaland,Mon,COVID-19,1367,120,1247
+2023-05,Nagaland,Mon,Cholera,1805,22,1783
+2023-06,Nagaland,Mon,Cholera,1289,6,1283
+2023-07,Nagaland,Mon,Cholera,1131,107,1024
+2023-08,Nagaland,Mon,Malaria,1454,138,1316
+2023-09,Nagaland,Mon,Cholera,915,80,835
+2023-10,Nagaland,Mon,Malaria,1432,58,1374
+2023-11,Nagaland,Mon,Malaria,1415,86,1329
+2023-12,Nagaland,Mon,Malaria,1977,43,1934
+2023-01,Nagaland,Wokha,Influenza,1848,16,1832
+2023-02,Nagaland,Wokha,Influenza,532,6,526
+2023-03,Nagaland,Wokha,Dengue,1570,20,1550
+2023-04,Nagaland,Wokha,COVID-19,1056,33,1023
+2023-05,Nagaland,Wokha,Influenza,1320,107,1213
+2023-06,Nagaland,Wokha,Cholera,706,60,646
+2023-07,Nagaland,Wokha,Influenza,1960,141,1819
+2023-08,Nagaland,Wokha,Cholera,774,73,701
+2023-09,Nagaland,Wokha,COVID-19,1797,16,1781
+2023-10,Nagaland,Wokha,Malaria,1961,105,1856
+2023-11,Nagaland,Wokha,Dengue,1459,144,1315
+2023-12,Nagaland,Wokha,Dengue,1401,32,1369
+2023-01,Odisha,Bhubaneswar,COVID-19,1473,97,1376
+2023-02,Odisha,Bhubaneswar,Cholera,668,38,630
+2023-03,Odisha,Bhubaneswar,COVID-19,1017,98,919
+2023-04,Odisha,Bhubaneswar,Malaria,1722,29,1693
+2023-05,Odisha,Bhubaneswar,Influenza,793,25,768
+2023-06,Odisha,Bhubaneswar,Cholera,923,42,881
+2023-07,Odisha,Bhubaneswar,Malaria,919,54,865
+2023-08,Odisha,Bhubaneswar,Cholera,1301,109,1192
+2023-09,Odisha,Bhubaneswar,Cholera,1846,149,1697
+2023-10,Odisha,Bhubaneswar,COVID-19,1199,118,1081
+2023-11,Odisha,Bhubaneswar,Cholera,886,21,865
+2023-12,Odisha,Bhubaneswar,Dengue,1863,94,1769
+2023-01,Odisha,Cuttack,COVID-19,1164,13,1151
+2023-02,Odisha,Cuttack,Malaria,1316,131,1185
+2023-03,Odisha,Cuttack,COVID-19,1223,5,1218
+2023-04,Odisha,Cuttack,Malaria,1831,157,1674
+2023-05,Odisha,Cuttack,Malaria,1374,83,1291
+2023-06,Odisha,Cuttack,Malaria,1509,33,1476
+2023-07,Odisha,Cuttack,Dengue,517,46,471
+2023-08,Odisha,Cuttack,Dengue,1893,8,1885
+2023-09,Odisha,Cuttack,Dengue,1857,20,1837
+2023-10,Odisha,Cuttack,Influenza,1392,80,1312
+2023-11,Odisha,Cuttack,COVID-19,685,40,645
+2023-12,Odisha,Cuttack,Dengue,1385,101,1284
+2023-01,Odisha,Rourkela,COVID-19,1975,145,1830
+2023-02,Odisha,Rourkela,Influenza,714,31,683
+2023-03,Odisha,Rourkela,Cholera,1246,57,1189
+2023-04,Odisha,Rourkela,COVID-19,1013,97,916
+2023-05,Odisha,Rourkela,Cholera,1947,80,1867
+2023-06,Odisha,Rourkela,Dengue,1519,109,1410
+2023-07,Odisha,Rourkela,Cholera,1485,59,1426
+2023-08,Odisha,Rourkela,Influenza,1946,58,1888
+2023-09,Odisha,Rourkela,COVID-19,1008,44,964
+2023-10,Odisha,Rourkela,COVID-19,546,33,513
+2023-11,Odisha,Rourkela,Cholera,1510,65,1445
+2023-12,Odisha,Rourkela,Influenza,1279,108,1171
+2023-01,Odisha,Berhampur,COVID-19,1771,131,1640
+2023-02,Odisha,Berhampur,Influenza,685,19,666
+2023-03,Odisha,Berhampur,Cholera,895,47,848
+2023-04,Odisha,Berhampur,COVID-19,1801,100,1701
+2023-05,Odisha,Berhampur,Influenza,1102,72,1030
+2023-06,Odisha,Berhampur,COVID-19,1309,89,1220
+2023-07,Odisha,Berhampur,Dengue,1217,42,1175
+2023-08,Odisha,Berhampur,Influenza,508,23,485
+2023-09,Odisha,Berhampur,COVID-19,513,23,490
+2023-10,Odisha,Berhampur,Malaria,1904,111,1793
+2023-11,Odisha,Berhampur,COVID-19,1816,166,1650
+2023-12,Odisha,Berhampur,Malaria,818,43,775
+2023-01,Odisha,Sambalpur,Dengue,1731,40,1691
+2023-02,Odisha,Sambalpur,Influenza,1484,143,1341
+2023-03,Odisha,Sambalpur,Cholera,1163,99,1064
+2023-04,Odisha,Sambalpur,Dengue,1459,2,1457
+2023-05,Odisha,Sambalpur,Cholera,1722,93,1629
+2023-06,Odisha,Sambalpur,Cholera,1852,85,1767
+2023-07,Odisha,Sambalpur,Dengue,1373,137,1236
+2023-08,Odisha,Sambalpur,Dengue,1102,44,1058
+2023-09,Odisha,Sambalpur,COVID-19,1546,132,1414
+2023-10,Odisha,Sambalpur,Cholera,1084,16,1068
+2023-11,Odisha,Sambalpur,Dengue,910,59,851
+2023-12,Odisha,Sambalpur,Malaria,1597,33,1564
+2023-01,Punjab,Chandigarh,Influenza,1829,165,1664
+2023-02,Punjab,Chandigarh,Dengue,1060,44,1016
+2023-03,Punjab,Chandigarh,Influenza,1849,116,1733
+2023-04,Punjab,Chandigarh,Dengue,1443,121,1322
+2023-05,Punjab,Chandigarh,Dengue,1640,123,1517
+2023-06,Punjab,Chandigarh,Influenza,1670,161,1509
+2023-07,Punjab,Chandigarh,COVID-19,1997,70,1927
+2023-08,Punjab,Chandigarh,Cholera,913,11,902
+2023-09,Punjab,Chandigarh,Cholera,703,36,667
+2023-10,Punjab,Chandigarh,Malaria,1059,89,970
+2023-11,Punjab,Chandigarh,Influenza,1033,73,960
+2023-12,Punjab,Chandigarh,Malaria,1541,38,1503
+2023-01,Punjab,Ludhiana,COVID-19,660,52,608
+2023-02,Punjab,Ludhiana,Influenza,1866,108,1758
+2023-03,Punjab,Ludhiana,Dengue,999,48,951
+2023-04,Punjab,Ludhiana,Influenza,1831,66,1765
+2023-05,Punjab,Ludhiana,Influenza,1515,140,1375
+2023-06,Punjab,Ludhiana,COVID-19,1909,99,1810
+2023-07,Punjab,Ludhiana,COVID-19,1443,143,1300
+2023-08,Punjab,Ludhiana,Dengue,632,16,616
+2023-09,Punjab,Ludhiana,Cholera,1402,53,1349
+2023-10,Punjab,Ludhiana,COVID-19,1632,20,1612
+2023-11,Punjab,Ludhiana,Cholera,1167,59,1108
+2023-12,Punjab,Ludhiana,Malaria,1726,101,1625
+2023-01,Punjab,Amritsar,Malaria,748,20,728
+2023-02,Punjab,Amritsar,Malaria,1344,126,1218
+2023-03,Punjab,Amritsar,Malaria,1277,108,1169
+2023-04,Punjab,Amritsar,Influenza,650,38,612
+2023-05,Punjab,Amritsar,Cholera,1000,100,900
+2023-06,Punjab,Amritsar,Dengue,632,38,594
+2023-07,Punjab,Amritsar,Influenza,791,56,735
+2023-08,Punjab,Amritsar,Dengue,1735,27,1708
+2023-09,Punjab,Amritsar,Influenza,1700,156,1544
+2023-10,Punjab,Amritsar,COVID-19,617,2,615
+2023-11,Punjab,Amritsar,Malaria,1449,80,1369
+2023-12,Punjab,Amritsar,Cholera,1461,48,1413
+2023-01,Punjab,Jalandhar,Dengue,1509,73,1436
+2023-02,Punjab,Jalandhar,Cholera,552,31,521
+2023-03,Punjab,Jalandhar,Cholera,777,11,766
+2023-04,Punjab,Jalandhar,Influenza,1451,20,1431
+2023-05,Punjab,Jalandhar,Dengue,1534,126,1408
+2023-06,Punjab,Jalandhar,Dengue,1711,160,1551
+2023-07,Punjab,Jalandhar,Influenza,1202,80,1122
+2023-08,Punjab,Jalandhar,Dengue,989,96,893
+2023-09,Punjab,Jalandhar,COVID-19,1428,127,1301
+2023-10,Punjab,Jalandhar,COVID-19,1476,129,1347
+2023-11,Punjab,Jalandhar,Influenza,1701,160,1541
+2023-12,Punjab,Jalandhar,Cholera,821,65,756
+2023-01,Punjab,Patiala,COVID-19,1165,37,1128
+2023-02,Punjab,Patiala,Dengue,637,12,625
+2023-03,Punjab,Patiala,Cholera,1159,62,1097
+2023-04,Punjab,Patiala,COVID-19,1112,21,1091
+2023-05,Punjab,Patiala,Dengue,823,9,814
+2023-06,Punjab,Patiala,Influenza,745,9,736
+2023-07,Punjab,Patiala,COVID-19,1438,131,1307
+2023-08,Punjab,Patiala,Malaria,1978,187,1791
+2023-09,Punjab,Patiala,Cholera,1413,97,1316
+2023-10,Punjab,Patiala,COVID-19,1711,14,1697
+2023-11,Punjab,Patiala,Malaria,585,5,580
+2023-12,Punjab,Patiala,Malaria,1445,122,1323
+2023-01,Rajasthan,Jaipur,Cholera,1532,3,1529
+2023-02,Rajasthan,Jaipur,Cholera,979,62,917
+2023-03,Rajasthan,Jaipur,Cholera,529,37,492
+2023-04,Rajasthan,Jaipur,Malaria,1214,25,1189
+2023-05,Rajasthan,Jaipur,Malaria,1507,16,1491
+2023-06,Rajasthan,Jaipur,Dengue,983,31,952
+2023-07,Rajasthan,Jaipur,Dengue,1036,29,1007
+2023-08,Rajasthan,Jaipur,Cholera,1077,91,986
+2023-09,Rajasthan,Jaipur,Cholera,1666,17,1649
+2023-10,Rajasthan,Jaipur,Influenza,1697,161,1536
+2023-11,Rajasthan,Jaipur,Malaria,700,8,692
+2023-12,Rajasthan,Jaipur,Influenza,1750,172,1578
+2023-01,Rajasthan,Udaipur,COVID-19,1510,138,1372
+2023-02,Rajasthan,Udaipur,Dengue,1732,95,1637
+2023-03,Rajasthan,Udaipur,Malaria,1555,132,1423
+2023-04,Rajasthan,Udaipur,Malaria,1026,0,1026
+2023-05,Rajasthan,Udaipur,Dengue,1746,164,1582
+2023-06,Rajasthan,Udaipur,Cholera,1687,168,1519
+2023-07,Rajasthan,Udaipur,COVID-19,519,22,497
+2023-08,Rajasthan,Udaipur,Cholera,1505,141,1364
+2023-09,Rajasthan,Udaipur,Malaria,541,9,532
+2023-10,Rajasthan,Udaipur,COVID-19,841,63,778
+2023-11,Rajasthan,Udaipur,Cholera,840,70,770
+2023-12,Rajasthan,Udaipur,Malaria,1850,124,1726
+2023-01,Rajasthan,Jodhpur,COVID-19,700,48,652
+2023-02,Rajasthan,Jodhpur,Cholera,1416,14,1402
+2023-03,Rajasthan,Jodhpur,COVID-19,1526,65,1461
+2023-04,Rajasthan,Jodhpur,Influenza,964,13,951
+2023-05,Rajasthan,Jodhpur,Dengue,1828,17,1811
+2023-06,Rajasthan,Jodhpur,Influenza,1545,138,1407
+2023-07,Rajasthan,Jodhpur,Cholera,1440,21,1419
+2023-08,Rajasthan,Jodhpur,Malaria,1962,35,1927
+2023-09,Rajasthan,Jodhpur,Influenza,1357,36,1321
+2023-10,Rajasthan,Jodhpur,Dengue,861,33,828
+2023-11,Rajasthan,Jodhpur,Influenza,1101,73,1028
+2023-12,Rajasthan,Jodhpur,Cholera,1049,101,948
+2023-01,Rajasthan,Ajmer,COVID-19,680,35,645
+2023-02,Rajasthan,Ajmer,COVID-19,1024,42,982
+2023-03,Rajasthan,Ajmer,Influenza,1344,85,1259
+2023-04,Rajasthan,Ajmer,Influenza,1311,82,1229
+2023-05,Rajasthan,Ajmer,Malaria,1512,100,1412
+2023-06,Rajasthan,Ajmer,Influenza,1910,81,1829
+2023-07,Rajasthan,Ajmer,Cholera,843,28,815
+2023-08,Rajasthan,Ajmer,COVID-19,1134,63,1071
+2023-09,Rajasthan,Ajmer,Cholera,1805,114,1691
+2023-10,Rajasthan,Ajmer,Malaria,780,67,713
+2023-11,Rajasthan,Ajmer,Malaria,855,69,786
+2023-12,Rajasthan,Ajmer,Cholera,706,52,654
+2023-01,Rajasthan,Bikaner,Influenza,1989,70,1919
+2023-02,Rajasthan,Bikaner,Influenza,598,55,543
+2023-03,Rajasthan,Bikaner,Malaria,1409,35,1374
+2023-04,Rajasthan,Bikaner,Malaria,1892,165,1727
+2023-05,Rajasthan,Bikaner,Cholera,1338,6,1332
+2023-06,Rajasthan,Bikaner,Cholera,1445,114,1331
+2023-07,Rajasthan,Bikaner,Cholera,1145,69,1076
+2023-08,Rajasthan,Bikaner,Dengue,1283,125,1158
+2023-09,Rajasthan,Bikaner,COVID-19,1560,141,1419
+2023-10,Rajasthan,Bikaner,Cholera,879,61,818
+2023-11,Rajasthan,Bikaner,Dengue,636,24,612
+2023-12,Rajasthan,Bikaner,COVID-19,1356,130,1226
+2023-01,Sikkim,Gangtok,Malaria,725,47,678
+2023-02,Sikkim,Gangtok,Malaria,1488,148,1340
+2023-03,Sikkim,Gangtok,Malaria,913,61,852
+2023-04,Sikkim,Gangtok,Dengue,744,21,723
+2023-05,Sikkim,Gangtok,Dengue,1526,66,1460
+2023-06,Sikkim,Gangtok,Cholera,822,34,788
+2023-07,Sikkim,Gangtok,Influenza,791,5,786
+2023-08,Sikkim,Gangtok,Cholera,1609,79,1530
+2023-09,Sikkim,Gangtok,Influenza,1716,148,1568
+2023-10,Sikkim,Gangtok,Influenza,1753,132,1621
+2023-11,Sikkim,Gangtok,Cholera,602,24,578
+2023-12,Sikkim,Gangtok,Dengue,856,8,848
+2023-01,Sikkim,Namchi,Cholera,1515,35,1480
+2023-02,Sikkim,Namchi,Influenza,1194,60,1134
+2023-03,Sikkim,Namchi,Cholera,1147,91,1056
+2023-04,Sikkim,Namchi,Malaria,1456,83,1373
+2023-05,Sikkim,Namchi,Dengue,1023,95,928
+2023-06,Sikkim,Namchi,Influenza,1637,147,1490
+2023-07,Sikkim,Namchi,Dengue,547,44,503
+2023-08,Sikkim,Namchi,Cholera,838,43,795
+2023-09,Sikkim,Namchi,Dengue,1925,50,1875
+2023-10,Sikkim,Namchi,Cholera,1420,28,1392
+2023-11,Sikkim,Namchi,Dengue,1904,132,1772
+2023-12,Sikkim,Namchi,Cholera,730,27,703
+2023-01,Sikkim,Pelling,COVID-19,881,80,801
+2023-02,Sikkim,Pelling,Dengue,856,49,807
+2023-03,Sikkim,Pelling,COVID-19,505,34,471
+2023-04,Sikkim,Pelling,Cholera,1627,106,1521
+2023-05,Sikkim,Pelling,COVID-19,1024,58,966
+2023-06,Sikkim,Pelling,Dengue,1057,51,1006
+2023-07,Sikkim,Pelling,Dengue,1129,85,1044
+2023-08,Sikkim,Pelling,Influenza,1458,104,1354
+2023-09,Sikkim,Pelling,Cholera,558,14,544
+2023-10,Sikkim,Pelling,Cholera,1792,102,1690
+2023-11,Sikkim,Pelling,Dengue,1906,130,1776
+2023-12,Sikkim,Pelling,Cholera,593,38,555
+2023-01,Sikkim,Ravangla,COVID-19,1953,89,1864
+2023-02,Sikkim,Ravangla,Influenza,1276,12,1264
+2023-03,Sikkim,Ravangla,COVID-19,1436,17,1419
+2023-04,Sikkim,Ravangla,Dengue,1944,155,1789
+2023-05,Sikkim,Ravangla,Malaria,975,7,968
+2023-06,Sikkim,Ravangla,Influenza,1344,118,1226
+2023-07,Sikkim,Ravangla,COVID-19,1036,22,1014
+2023-08,Sikkim,Ravangla,Influenza,1523,108,1415
+2023-09,Sikkim,Ravangla,COVID-19,1473,101,1372
+2023-10,Sikkim,Ravangla,Dengue,1456,97,1359
+2023-11,Sikkim,Ravangla,Malaria,1875,1,1874
+2023-12,Sikkim,Ravangla,Malaria,1687,120,1567
+2023-01,Sikkim,Gyalshing,Cholera,1190,105,1085
+2023-02,Sikkim,Gyalshing,Cholera,1898,135,1763
+2023-03,Sikkim,Gyalshing,Malaria,1882,49,1833
+2023-04,Sikkim,Gyalshing,Influenza,1586,113,1473
+2023-05,Sikkim,Gyalshing,Cholera,1998,175,1823
+2023-06,Sikkim,Gyalshing,Dengue,806,41,765
+2023-07,Sikkim,Gyalshing,Malaria,594,40,554
+2023-08,Sikkim,Gyalshing,Malaria,753,58,695
+2023-09,Sikkim,Gyalshing,Cholera,1051,75,976
+2023-10,Sikkim,Gyalshing,COVID-19,860,52,808
+2023-11,Sikkim,Gyalshing,Cholera,1627,37,1590
+2023-12,Sikkim,Gyalshing,COVID-19,564,33,531
+2023-01,Tamil Nadu,Chennai,Malaria,845,52,793
+2023-02,Tamil Nadu,Chennai,Influenza,1535,64,1471
+2023-03,Tamil Nadu,Chennai,Cholera,1337,51,1286
+2023-04,Tamil Nadu,Chennai,Influenza,1064,11,1053
+2023-05,Tamil Nadu,Chennai,COVID-19,935,9,926
+2023-06,Tamil Nadu,Chennai,Cholera,1789,105,1684
+2023-07,Tamil Nadu,Chennai,COVID-19,1041,14,1027
+2023-08,Tamil Nadu,Chennai,Influenza,1249,25,1224
+2023-09,Tamil Nadu,Chennai,Cholera,1343,108,1235
+2023-10,Tamil Nadu,Chennai,Malaria,835,51,784
+2023-11,Tamil Nadu,Chennai,Malaria,1469,69,1400
+2023-12,Tamil Nadu,Chennai,COVID-19,1103,73,1030
+2023-01,Tamil Nadu,Coimbatore,COVID-19,1463,90,1373
+2023-02,Tamil Nadu,Coimbatore,COVID-19,610,7,603
+2023-03,Tamil Nadu,Coimbatore,Influenza,1879,0,1879
+2023-04,Tamil Nadu,Coimbatore,Influenza,1552,140,1412
+2023-05,Tamil Nadu,Coimbatore,Dengue,1275,104,1171
+2023-06,Tamil Nadu,Coimbatore,Influenza,1327,102,1225
+2023-07,Tamil Nadu,Coimbatore,Influenza,1913,57,1856
+2023-08,Tamil Nadu,Coimbatore,Cholera,627,51,576
+2023-09,Tamil Nadu,Coimbatore,Malaria,1135,19,1116
+2023-10,Tamil Nadu,Coimbatore,Malaria,650,32,618
+2023-11,Tamil Nadu,Coimbatore,Malaria,882,44,838
+2023-12,Tamil Nadu,Coimbatore,Dengue,1204,80,1124
+2023-01,Tamil Nadu,Madurai,Dengue,1306,122,1184
+2023-02,Tamil Nadu,Madurai,Malaria,1810,15,1795
+2023-03,Tamil Nadu,Madurai,Influenza,1942,49,1893
+2023-04,Tamil Nadu,Madurai,Cholera,1733,173,1560
+2023-05,Tamil Nadu,Madurai,Malaria,545,36,509
+2023-06,Tamil Nadu,Madurai,Malaria,1507,14,1493
+2023-07,Tamil Nadu,Madurai,Cholera,831,25,806
+2023-08,Tamil Nadu,Madurai,Cholera,1161,43,1118
+2023-09,Tamil Nadu,Madurai,Malaria,1009,97,912
+2023-10,Tamil Nadu,Madurai,Malaria,1638,153,1485
+2023-11,Tamil Nadu,Madurai,Influenza,1565,101,1464
+2023-12,Tamil Nadu,Madurai,Influenza,1717,143,1574
+2023-01,Tamil Nadu,Tiruchirappalli,COVID-19,860,76,784
+2023-02,Tamil Nadu,Tiruchirappalli,COVID-19,709,7,702
+2023-03,Tamil Nadu,Tiruchirappalli,Influenza,1479,98,1381
+2023-04,Tamil Nadu,Tiruchirappalli,Dengue,820,33,787
+2023-05,Tamil Nadu,Tiruchirappalli,Malaria,1039,15,1024
+2023-06,Tamil Nadu,Tiruchirappalli,Cholera,926,42,884
+2023-07,Tamil Nadu,Tiruchirappalli,Influenza,1643,71,1572
+2023-08,Tamil Nadu,Tiruchirappalli,COVID-19,835,57,778
+2023-09,Tamil Nadu,Tiruchirappalli,COVID-19,1401,139,1262
+2023-10,Tamil Nadu,Tiruchirappalli,Dengue,1534,139,1395
+2023-11,Tamil Nadu,Tiruchirappalli,Dengue,1257,121,1136
+2023-12,Tamil Nadu,Tiruchirappalli,Cholera,511,50,461
+2023-01,Tamil Nadu,Salem,Cholera,1702,170,1532
+2023-02,Tamil Nadu,Salem,Influenza,1349,108,1241
+2023-03,Tamil Nadu,Salem,Dengue,1654,134,1520
+2023-04,Tamil Nadu,Salem,Dengue,604,52,552
+2023-05,Tamil Nadu,Salem,Dengue,1564,28,1536
+2023-06,Tamil Nadu,Salem,COVID-19,559,34,525
+2023-07,Tamil Nadu,Salem,Malaria,1315,36,1279
+2023-08,Tamil Nadu,Salem,Dengue,765,68,697
+2023-09,Tamil Nadu,Salem,Influenza,625,12,613
+2023-10,Tamil Nadu,Salem,Dengue,896,66,830
+2023-11,Tamil Nadu,Salem,Influenza,1580,71,1509
+2023-12,Tamil Nadu,Salem,COVID-19,723,68,655
+2023-01,Telangana,Hyderabad,Cholera,1845,53,1792
+2023-02,Telangana,Hyderabad,Malaria,577,56,521
+2023-03,Telangana,Hyderabad,Influenza,1082,31,1051
+2023-04,Telangana,Hyderabad,COVID-19,560,44,516
+2023-05,Telangana,Hyderabad,Influenza,1679,18,1661
+2023-06,Telangana,Hyderabad,Influenza,1897,75,1822
+2023-07,Telangana,Hyderabad,Malaria,604,40,564
+2023-08,Telangana,Hyderabad,COVID-19,1244,103,1141
+2023-09,Telangana,Hyderabad,Malaria,1438,76,1362
+2023-10,Telangana,Hyderabad,COVID-19,1897,139,1758
+2023-11,Telangana,Hyderabad,Dengue,543,40,503
+2023-12,Telangana,Hyderabad,COVID-19,1830,124,1706
+2023-01,Telangana,Warangal,Dengue,661,34,627
+2023-02,Telangana,Warangal,COVID-19,1154,23,1131
+2023-03,Telangana,Warangal,Influenza,1595,67,1528
+2023-04,Telangana,Warangal,COVID-19,1373,59,1314
+2023-05,Telangana,Warangal,COVID-19,1388,62,1326
+2023-06,Telangana,Warangal,Dengue,1801,141,1660
+2023-07,Telangana,Warangal,COVID-19,509,32,477
+2023-08,Telangana,Warangal,Influenza,570,36,534
+2023-09,Telangana,Warangal,Dengue,709,38,671
+2023-10,Telangana,Warangal,COVID-19,621,38,583
+2023-11,Telangana,Warangal,Dengue,518,14,504
+2023-12,Telangana,Warangal,COVID-19,1006,57,949
+2023-01,Telangana,Nizamabad,Cholera,1553,99,1454
+2023-02,Telangana,Nizamabad,COVID-19,857,4,853
+2023-03,Telangana,Nizamabad,COVID-19,1920,173,1747
+2023-04,Telangana,Nizamabad,Cholera,1609,128,1481
+2023-05,Telangana,Nizamabad,Dengue,557,16,541
+2023-06,Telangana,Nizamabad,Dengue,506,49,457
+2023-07,Telangana,Nizamabad,Dengue,1881,93,1788
+2023-08,Telangana,Nizamabad,COVID-19,1535,126,1409
+2023-09,Telangana,Nizamabad,Influenza,1463,62,1401
+2023-10,Telangana,Nizamabad,Dengue,1831,163,1668
+2023-11,Telangana,Nizamabad,Dengue,1950,48,1902
+2023-12,Telangana,Nizamabad,Influenza,1807,27,1780
+2023-01,Telangana,Khammam,COVID-19,719,42,677
+2023-02,Telangana,Khammam,Dengue,673,5,668
+2023-03,Telangana,Khammam,COVID-19,587,36,551
+2023-04,Telangana,Khammam,COVID-19,1337,13,1324
+2023-05,Telangana,Khammam,COVID-19,658,47,611
+2023-06,Telangana,Khammam,COVID-19,1724,93,1631
+2023-07,Telangana,Khammam,Dengue,944,9,935
+2023-08,Telangana,Khammam,Malaria,1673,3,1670
+2023-09,Telangana,Khammam,Malaria,1142,107,1035
+2023-10,Telangana,Khammam,Dengue,1902,180,1722
+2023-11,Telangana,Khammam,Cholera,1234,94,1140
+2023-12,Telangana,Khammam,Dengue,1072,45,1027
+2023-01,Telangana,Karimnagar,COVID-19,763,31,732
+2023-02,Telangana,Karimnagar,Influenza,1664,70,1594
+2023-03,Telangana,Karimnagar,Influenza,576,3,573
+2023-04,Telangana,Karimnagar,Dengue,1102,92,1010
+2023-05,Telangana,Karimnagar,COVID-19,892,42,850
+2023-06,Telangana,Karimnagar,Malaria,772,54,718
+2023-07,Telangana,Karimnagar,Influenza,1993,162,1831
+2023-08,Telangana,Karimnagar,Influenza,845,57,788
+2023-09,Telangana,Karimnagar,Cholera,1782,63,1719
+2023-10,Telangana,Karimnagar,Cholera,667,48,619
+2023-11,Telangana,Karimnagar,Malaria,684,18,666
+2023-12,Telangana,Karimnagar,Malaria,574,12,562
+2023-01,Tripura,Agartala,COVID-19,734,33,701
+2023-02,Tripura,Agartala,COVID-19,1677,155,1522
+2023-03,Tripura,Agartala,Cholera,764,48,716
+2023-04,Tripura,Agartala,Influenza,1696,90,1606
+2023-05,Tripura,Agartala,Dengue,762,66,696
+2023-06,Tripura,Agartala,Dengue,740,48,692
+2023-07,Tripura,Agartala,Malaria,1658,119,1539
+2023-08,Tripura,Agartala,COVID-19,627,59,568
+2023-09,Tripura,Agartala,Influenza,1686,7,1679
+2023-10,Tripura,Agartala,Dengue,692,29,663
+2023-11,Tripura,Agartala,Influenza,1284,87,1197
+2023-12,Tripura,Agartala,Influenza,1196,113,1083
+2023-01,Tripura,Udaipur,COVID-19,973,70,903
+2023-02,Tripura,Udaipur,Influenza,682,50,632
+2023-03,Tripura,Udaipur,Dengue,983,54,929
+2023-04,Tripura,Udaipur,Influenza,1541,141,1400
+2023-05,Tripura,Udaipur,Dengue,1667,162,1505
+2023-06,Tripura,Udaipur,COVID-19,1244,108,1136
+2023-07,Tripura,Udaipur,COVID-19,957,44,913
+2023-08,Tripura,Udaipur,Cholera,1898,6,1892
+2023-09,Tripura,Udaipur,Malaria,1652,12,1640
+2023-10,Tripura,Udaipur,Influenza,1591,36,1555
+2023-11,Tripura,Udaipur,Cholera,1300,29,1271
+2023-12,Tripura,Udaipur,Influenza,1698,9,1689
+2023-01,Tripura,Dharmanagar,Dengue,1214,91,1123
+2023-02,Tripura,Dharmanagar,Cholera,946,17,929
+2023-03,Tripura,Dharmanagar,Malaria,950,26,924
+2023-04,Tripura,Dharmanagar,Dengue,1437,3,1434
+2023-05,Tripura,Dharmanagar,Influenza,620,1,619
+2023-06,Tripura,Dharmanagar,COVID-19,1353,118,1235
+2023-07,Tripura,Dharmanagar,COVID-19,1913,85,1828
+2023-08,Tripura,Dharmanagar,COVID-19,1747,3,1744
+2023-09,Tripura,Dharmanagar,Influenza,1896,83,1813
+2023-10,Tripura,Dharmanagar,COVID-19,796,35,761
+2023-11,Tripura,Dharmanagar,COVID-19,1068,18,1050
+2023-12,Tripura,Dharmanagar,Malaria,931,43,888
+2023-01,Tripura,Kailashahar,Malaria,712,58,654
+2023-02,Tripura,Kailashahar,Malaria,1374,36,1338
+2023-03,Tripura,Kailashahar,Cholera,757,35,722
+2023-04,Tripura,Kailashahar,Cholera,1468,54,1414
+2023-05,Tripura,Kailashahar,Cholera,791,6,785
+2023-06,Tripura,Kailashahar,Malaria,654,4,650
+2023-07,Tripura,Kailashahar,COVID-19,1874,54,1820
+2023-08,Tripura,Kailashahar,Dengue,788,10,778
+2023-09,Tripura,Kailashahar,Dengue,1897,94,1803
+2023-10,Tripura,Kailashahar,Dengue,1394,123,1271
+2023-11,Tripura,Kailashahar,Dengue,1874,24,1850
+2023-12,Tripura,Kailashahar,Cholera,1531,25,1506
+2023-01,Tripura,Ambassa,Dengue,641,8,633
+2023-02,Tripura,Ambassa,COVID-19,970,51,919
+2023-03,Tripura,Ambassa,Dengue,809,19,790
+2023-04,Tripura,Ambassa,Cholera,1015,97,918
+2023-05,Tripura,Ambassa,Cholera,947,58,889
+2023-06,Tripura,Ambassa,Cholera,1645,126,1519
+2023-07,Tripura,Ambassa,Influenza,1613,161,1452
+2023-08,Tripura,Ambassa,Influenza,1198,101,1097
+2023-09,Tripura,Ambassa,Influenza,1691,41,1650
+2023-10,Tripura,Ambassa,Dengue,1690,100,1590
+2023-11,Tripura,Ambassa,Dengue,1673,106,1567
+2023-12,Tripura,Ambassa,Cholera,1348,21,1327
+2023-01,Uttar Pradesh,Lucknow,Influenza,1362,92,1270
+2023-02,Uttar Pradesh,Lucknow,Malaria,1796,156,1640
+2023-03,Uttar Pradesh,Lucknow,COVID-19,1762,163,1599
+2023-04,Uttar Pradesh,Lucknow,Malaria,1317,60,1257
+2023-05,Uttar Pradesh,Lucknow,Cholera,911,60,851
+2023-06,Uttar Pradesh,Lucknow,Cholera,821,71,750
+2023-07,Uttar Pradesh,Lucknow,COVID-19,1431,26,1405
+2023-08,Uttar Pradesh,Lucknow,Malaria,524,24,500
+2023-09,Uttar Pradesh,Lucknow,Cholera,1886,52,1834
+2023-10,Uttar Pradesh,Lucknow,Cholera,1594,108,1486
+2023-11,Uttar Pradesh,Lucknow,Influenza,892,73,819
+2023-12,Uttar Pradesh,Lucknow,Influenza,1932,113,1819
+2023-01,Uttar Pradesh,Kanpur,Dengue,1034,3,1031
+2023-02,Uttar Pradesh,Kanpur,Influenza,532,22,510
+2023-03,Uttar Pradesh,Kanpur,Influenza,1747,15,1732
+2023-04,Uttar Pradesh,Kanpur,COVID-19,1274,98,1176
+2023-05,Uttar Pradesh,Kanpur,Influenza,1145,49,1096
+2023-06,Uttar Pradesh,Kanpur,COVID-19,563,4,559
+2023-07,Uttar Pradesh,Kanpur,COVID-19,1468,59,1409
+2023-08,Uttar Pradesh,Kanpur,COVID-19,990,36,954
+2023-09,Uttar Pradesh,Kanpur,COVID-19,1458,79,1379
+2023-10,Uttar Pradesh,Kanpur,Cholera,1895,171,1724
+2023-11,Uttar Pradesh,Kanpur,Malaria,962,11,951
+2023-12,Uttar Pradesh,Kanpur,Cholera,1304,24,1280
+2023-01,Uttar Pradesh,Varanasi,Cholera,1367,21,1346
+2023-02,Uttar Pradesh,Varanasi,Cholera,1637,33,1604
+2023-03,Uttar Pradesh,Varanasi,COVID-19,809,2,807
+2023-04,Uttar Pradesh,Varanasi,Malaria,1570,140,1430
+2023-05,Uttar Pradesh,Varanasi,Malaria,939,11,928
+2023-06,Uttar Pradesh,Varanasi,Dengue,1080,16,1064
+2023-07,Uttar Pradesh,Varanasi,Malaria,565,55,510
+2023-08,Uttar Pradesh,Varanasi,Dengue,674,63,611
+2023-09,Uttar Pradesh,Varanasi,Malaria,608,50,558
+2023-10,Uttar Pradesh,Varanasi,Dengue,758,72,686
+2023-11,Uttar Pradesh,Varanasi,Influenza,1710,116,1594
+2023-12,Uttar Pradesh,Varanasi,Cholera,686,64,622
+2023-01,Uttar Pradesh,Agra,Cholera,507,27,480
+2023-02,Uttar Pradesh,Agra,Malaria,841,80,761
+2023-03,Uttar Pradesh,Agra,Cholera,1723,2,1721
+2023-04,Uttar Pradesh,Agra,Malaria,1794,165,1629
+2023-05,Uttar Pradesh,Agra,Dengue,1356,33,1323
+2023-06,Uttar Pradesh,Agra,Malaria,1474,137,1337
+2023-07,Uttar Pradesh,Agra,Malaria,1095,15,1080
+2023-08,Uttar Pradesh,Agra,Dengue,1755,76,1679
+2023-09,Uttar Pradesh,Agra,Influenza,1423,61,1362
+2023-10,Uttar Pradesh,Agra,Dengue,1289,80,1209
+2023-11,Uttar Pradesh,Agra,Dengue,765,38,727
+2023-12,Uttar Pradesh,Agra,Dengue,1164,89,1075
+2023-01,Uttar Pradesh,Meerut,COVID-19,1018,86,932
+2023-02,Uttar Pradesh,Meerut,Dengue,1210,110,1100
+2023-03,Uttar Pradesh,Meerut,Influenza,1054,36,1018
+2023-04,Uttar Pradesh,Meerut,COVID-19,1442,72,1370
+2023-05,Uttar Pradesh,Meerut,Cholera,1605,109,1496
+2023-06,Uttar Pradesh,Meerut,Cholera,1431,60,1371
+2023-07,Uttar Pradesh,Meerut,Dengue,1735,98,1637
+2023-08,Uttar Pradesh,Meerut,Cholera,825,2,823
+2023-09,Uttar Pradesh,Meerut,Dengue,927,47,880
+2023-10,Uttar Pradesh,Meerut,COVID-19,1230,56,1174
+2023-11,Uttar Pradesh,Meerut,Influenza,603,10,593
+2023-12,Uttar Pradesh,Meerut,Cholera,681,51,630
+2023-01,Uttarakhand,Dehradun,COVID-19,723,54,669
+2023-02,Uttarakhand,Dehradun,Dengue,1785,120,1665
+2023-03,Uttarakhand,Dehradun,COVID-19,1845,103,1742
+2023-04,Uttarakhand,Dehradun,Malaria,1194,33,1161
+2023-05,Uttarakhand,Dehradun,Influenza,1228,3,1225
+2023-06,Uttarakhand,Dehradun,Malaria,1738,99,1639
+2023-07,Uttarakhand,Dehradun,Cholera,1465,47,1418
+2023-08,Uttarakhand,Dehradun,Malaria,1508,78,1430
+2023-09,Uttarakhand,Dehradun,Cholera,1649,62,1587
+2023-10,Uttarakhand,Dehradun,Dengue,688,27,661
+2023-11,Uttarakhand,Dehradun,Malaria,1425,5,1420
+2023-12,Uttarakhand,Dehradun,Dengue,1984,173,1811
+2023-01,Uttarakhand,Haridwar,Influenza,1697,6,1691
+2023-02,Uttarakhand,Haridwar,Malaria,1871,99,1772
+2023-03,Uttarakhand,Haridwar,Influenza,1643,156,1487
+2023-04,Uttarakhand,Haridwar,Cholera,1202,99,1103
+2023-05,Uttarakhand,Haridwar,Cholera,1458,141,1317
+2023-06,Uttarakhand,Haridwar,Dengue,1368,24,1344
+2023-07,Uttarakhand,Haridwar,COVID-19,1494,146,1348
+2023-08,Uttarakhand,Haridwar,Dengue,1986,185,1801
+2023-09,Uttarakhand,Haridwar,COVID-19,539,47,492
+2023-10,Uttarakhand,Haridwar,Dengue,1272,54,1218
+2023-11,Uttarakhand,Haridwar,Cholera,1536,31,1505
+2023-12,Uttarakhand,Haridwar,Malaria,566,22,544
+2023-01,Uttarakhand,Nainital,Dengue,1927,3,1924
+2023-02,Uttarakhand,Nainital,Dengue,956,54,902
+2023-03,Uttarakhand,Nainital,COVID-19,1043,25,1018
+2023-04,Uttarakhand,Nainital,Cholera,1095,52,1043
+2023-05,Uttarakhand,Nainital,Dengue,1749,4,1745
+2023-06,Uttarakhand,Nainital,Cholera,950,94,856
+2023-07,Uttarakhand,Nainital,COVID-19,990,3,987
+2023-08,Uttarakhand,Nainital,COVID-19,853,81,772
+2023-09,Uttarakhand,Nainital,Influenza,1385,49,1336
+2023-10,Uttarakhand,Nainital,Dengue,597,3,594
+2023-11,Uttarakhand,Nainital,Malaria,1140,24,1116
+2023-12,Uttarakhand,Nainital,COVID-19,1813,17,1796
+2023-01,Uttarakhand,Rishikesh,Dengue,1415,6,1409
+2023-02,Uttarakhand,Rishikesh,Malaria,1026,80,946
+2023-03,Uttarakhand,Rishikesh,Influenza,831,44,787
+2023-04,Uttarakhand,Rishikesh,Influenza,514,51,463
+2023-05,Uttarakhand,Rishikesh,Influenza,1572,45,1527
+2023-06,Uttarakhand,Rishikesh,Dengue,997,83,914
+2023-07,Uttarakhand,Rishikesh,COVID-19,1156,75,1081
+2023-08,Uttarakhand,Rishikesh,Dengue,1644,6,1638
+2023-09,Uttarakhand,Rishikesh,Dengue,800,67,733
+2023-10,Uttarakhand,Rishikesh,COVID-19,1132,96,1036
+2023-11,Uttarakhand,Rishikesh,COVID-19,1424,57,1367
+2023-12,Uttarakhand,Rishikesh,Dengue,1032,52,980
+2023-01,Uttarakhand,Haldwani,Malaria,548,44,504
+2023-02,Uttarakhand,Haldwani,Influenza,1459,113,1346
+2023-03,Uttarakhand,Haldwani,COVID-19,1031,11,1020
+2023-04,Uttarakhand,Haldwani,Influenza,873,58,815
+2023-05,Uttarakhand,Haldwani,Influenza,1353,38,1315
+2023-06,Uttarakhand,Haldwani,Cholera,1385,68,1317
+2023-07,Uttarakhand,Haldwani,Cholera,1784,152,1632
+2023-08,Uttarakhand,Haldwani,Influenza,565,43,522
+2023-09,Uttarakhand,Haldwani,Cholera,1022,34,988
+2023-10,Uttarakhand,Haldwani,Dengue,1559,76,1483
+2023-11,Uttarakhand,Haldwani,Dengue,961,14,947
+2023-12,Uttarakhand,Haldwani,Dengue,1980,51,1929
+2023-01,West Bengal,Kolkata,Influenza,632,43,589
+2023-02,West Bengal,Kolkata,Influenza,1269,75,1194
+2023-03,West Bengal,Kolkata,Influenza,1443,79,1364
+2023-04,West Bengal,Kolkata,Dengue,1809,105,1704
+2023-05,West Bengal,Kolkata,Dengue,1801,17,1784
+2023-06,West Bengal,Kolkata,Dengue,759,50,709
+2023-07,West Bengal,Kolkata,COVID-19,1670,42,1628
+2023-08,West Bengal,Kolkata,Dengue,819,27,792
+2023-09,West Bengal,Kolkata,COVID-19,1433,130,1303
+2023-10,West Bengal,Kolkata,Influenza,1654,120,1534
+2023-11,West Bengal,Kolkata,Dengue,1197,84,1113
+2023-12,West Bengal,Kolkata,COVID-19,1183,38,1145
+2023-01,West Bengal,Darjeeling,Malaria,1820,37,1783
+2023-02,West Bengal,Darjeeling,COVID-19,1143,5,1138
+2023-03,West Bengal,Darjeeling,Malaria,1167,79,1088
+2023-04,West Bengal,Darjeeling,Cholera,1856,100,1756
+2023-05,West Bengal,Darjeeling,Dengue,1386,90,1296
+2023-06,West Bengal,Darjeeling,Malaria,1868,87,1781
+2023-07,West Bengal,Darjeeling,Cholera,1573,42,1531
+2023-08,West Bengal,Darjeeling,Malaria,631,9,622
+2023-09,West Bengal,Darjeeling,Cholera,1831,102,1729
+2023-10,West Bengal,Darjeeling,Malaria,1468,121,1347
+2023-11,West Bengal,Darjeeling,Dengue,1721,100,1621
+2023-12,West Bengal,Darjeeling,COVID-19,1688,6,1682
+2023-01,West Bengal,Siliguri,COVID-19,1523,73,1450
+2023-02,West Bengal,Siliguri,COVID-19,838,46,792
+2023-03,West Bengal,Siliguri,Influenza,805,41,764
+2023-04,West Bengal,Siliguri,Influenza,1176,28,1148
+2023-05,West Bengal,Siliguri,Malaria,1472,31,1441
+2023-06,West Bengal,Siliguri,Malaria,1638,30,1608
+2023-07,West Bengal,Siliguri,Influenza,762,22,740
+2023-08,West Bengal,Siliguri,COVID-19,606,28,578
+2023-09,West Bengal,Siliguri,Malaria,1570,89,1481
+2023-10,West Bengal,Siliguri,Cholera,1361,51,1310
+2023-11,West Bengal,Siliguri,Dengue,562,52,510
+2023-12,West Bengal,Siliguri,Cholera,883,59,824
+2023-01,West Bengal,Howrah,Dengue,1207,0,1207
+2023-02,West Bengal,Howrah,Malaria,1166,91,1075
+2023-03,West Bengal,Howrah,Malaria,1246,114,1132
+2023-04,West Bengal,Howrah,COVID-19,1545,101,1444
+2023-05,West Bengal,Howrah,Malaria,1470,17,1453
+2023-06,West Bengal,Howrah,Influenza,1572,154,1418
+2023-07,West Bengal,Howrah,Cholera,1285,69,1216
+2023-08,West Bengal,Howrah,Cholera,1833,53,1780
+2023-09,West Bengal,Howrah,Influenza,1483,97,1386
+2023-10,West Bengal,Howrah,Dengue,1224,27,1197
+2023-11,West Bengal,Howrah,Dengue,568,6,562
+2023-12,West Bengal,Howrah,COVID-19,970,45,925
+2023-01,West Bengal,Durgapur,Influenza,1565,75,1490
+2023-02,West Bengal,Durgapur,Cholera,971,91,880
+2023-03,West Bengal,Durgapur,Dengue,751,32,719
+2023-04,West Bengal,Durgapur,Malaria,1869,127,1742
+2023-05,West Bengal,Durgapur,Cholera,771,43,728
+2023-06,West Bengal,Durgapur,Influenza,1895,127,1768
+2023-07,West Bengal,Durgapur,Dengue,533,2,531
+2023-08,West Bengal,Durgapur,Influenza,952,24,928
+2023-09,West Bengal,Durgapur,COVID-19,857,56,801
+2023-10,West Bengal,Durgapur,Cholera,1357,31,1326
+2023-11,West Bengal,Durgapur,Cholera,1176,117,1059
+2023-12,West Bengal,Durgapur,COVID-19,1104,107,997

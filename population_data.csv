@@ -1,0 +1,141 @@
+State,District,Population,PopulationDensity,UrbanizationRate
+Andhra Pradesh,Visakhapatnam,1734492,305,49.9
+Andhra Pradesh,Vijayawada,667982,406,75.3
+Andhra Pradesh,Guntur,506750,829,60.5
+Andhra Pradesh,Tirupati,558731,825,42.7
+Andhra Pradesh,Nellore,1179549,443,66.7
+Arunachal Pradesh,Itanagar,1144718,977,41.4
+Arunachal Pradesh,Tawang,1035811,781,60.7
+Arunachal Pradesh,Pasighat,1524416,389,61.6
+Arunachal Pradesh,Ziro,1775280,243,37.8
+Arunachal Pradesh,Bomdila,885559,834,45.6
+Assam,Guwahati,809853,436,53.2
+Assam,Dibrugarh,1645833,325,73.7
+Assam,Silchar,1253230,811,74.9
+Assam,Tezpur,559260,980,61.2
+Assam,Jorhat,685800,752,38.7
+Bihar,Patna,641540,917,66.5
+Bihar,Gaya,1431169,298,46.9
+Bihar,Muzaffarpur,1848067,841,43.0
+Bihar,Bhagalpur,606624,202,38.7
+Bihar,Darbhanga,817888,352,74.2
+Chhattisgarh,Raipur,684397,945,34.6
+Chhattisgarh,Bilaspur,672078,355,30.1
+Chhattisgarh,Korba,1407548,511,69.1
+Chhattisgarh,Durg,1198653,656,76.4
+Chhattisgarh,Jagdalpur,948575,994,69.8
+Goa,Panaji,1491125,603,72.6
+Goa,Margao,1626081,269,63.4
+Goa,Vasco da Gama,911680,994,33.9
+Goa,Mapusa,1588154,556,57.4
+Goa,Ponda,700499,217,58.7
+Gujarat,Ahmedabad,545871,577,63.0
+Gujarat,Surat,1301316,272,35.4
+Gujarat,Vadodara,1691746,525,33.1
+Gujarat,Rajkot,1654785,401,70.5
+Gujarat,Bhavnagar,1114994,932,61.4
+Haryana,Gurgaon,1194614,480,35.6
+Haryana,Faridabad,953538,249,77.6
+Haryana,Panipat,1349643,348,69.9
+Haryana,Ambala,1572054,428,72.7
+Haryana,Karnal,1849993,387,72.3
+Himachal Pradesh,Shimla,1970997,972,66.1
+Himachal Pradesh,Dharamshala,1053125,768,66.9
+Himachal Pradesh,Manali,523617,684,54.5
+Himachal Pradesh,Kullu,1408114,205,64.0
+Himachal Pradesh,Solan,1329765,885,33.0
+Jharkhand,Ranchi,1855387,756,35.3
+Jharkhand,Jamshedpur,1451722,831,31.1
+Jharkhand,Dhanbad,1761653,403,31.1
+Jharkhand,Bokaro,1758094,396,74.2
+Jharkhand,Deoghar,1912844,721,45.2
+Karnataka,Bengaluru,1088808,674,32.0
+Karnataka,Mysuru,1670850,326,72.8
+Karnataka,Mangaluru,1861478,760,69.3
+Karnataka,Hubli,1283274,708,75.6
+Karnataka,Belagavi,1062334,263,77.3
+Kerala,Thiruvananthapuram,818458,222,69.2
+Kerala,Kochi,1243325,935,72.0
+Kerala,Kozhikode,1337582,512,44.6
+Kerala,Thrissur,1398541,793,60.2
+Kerala,Kannur,1495018,790,60.9
+Madhya Pradesh,Bhopal,720199,599,44.3
+Madhya Pradesh,Indore,952530,658,35.6
+Madhya Pradesh,Gwalior,1913367,297,32.8
+Madhya Pradesh,Jabalpur,944148,778,70.2
+Madhya Pradesh,Ujjain,652304,563,64.2
+Maharashtra,Mumbai,1158226,269,49.9
+Maharashtra,Pune,984792,300,52.3
+Maharashtra,Nashik,1809856,219,52.2
+Maharashtra,Nagpur,844706,943,61.0
+Maharashtra,Thane,1825797,539,67.8
+Manipur,Imphal,535090,799,60.8
+Manipur,Churachandpur,710976,797,67.6
+Manipur,Thoubal,1951297,550,44.9
+Manipur,Bishnupur,1583907,942,76.1
+Manipur,Senapati,1509337,329,38.5
+Meghalaya,Shillong,1605637,916,55.6
+Meghalaya,Tura,848905,256,56.2
+Meghalaya,Jowai,539455,335,57.7
+Meghalaya,Nongstoin,1703656,914,52.1
+Meghalaya,Baghmara,1949767,834,72.9
+Mizoram,Aizawl,739933,684,30.8
+Mizoram,Lunglei,1870879,983,63.3
+Mizoram,Champhai,557248,365,38.9
+Mizoram,Serchhip,1980252,555,58.8
+Mizoram,Kolasib,901252,296,53.3
+Nagaland,Kohima,1447600,356,77.6
+Nagaland,Dimapur,701927,594,61.8
+Nagaland,Mokokchung,1789614,978,36.2
+Nagaland,Mon,1814817,557,57.0
+Nagaland,Wokha,1001014,737,30.4
+Odisha,Bhubaneswar,754339,337,69.7
+Odisha,Cuttack,1195196,930,47.4
+Odisha,Rourkela,1001140,356,46.2
+Odisha,Berhampur,930959,410,56.6
+Odisha,Sambalpur,1194104,300,60.8
+Punjab,Chandigarh,1093680,210,58.4
+Punjab,Ludhiana,1519737,401,54.6
+Punjab,Amritsar,1848167,548,40.6
+Punjab,Jalandhar,1198444,347,59.8
+Punjab,Patiala,1843418,637,46.5
+Rajasthan,Jaipur,1789613,455,78.4
+Rajasthan,Udaipur,1640981,962,32.3
+Rajasthan,Jodhpur,1072533,605,59.9
+Rajasthan,Ajmer,1696026,340,79.7
+Rajasthan,Bikaner,1426998,724,54.8
+Sikkim,Gangtok,892331,332,50.9
+Sikkim,Namchi,1916386,405,71.9
+Sikkim,Pelling,888773,347,38.7
+Sikkim,Ravangla,1058711,366,71.7
+Sikkim,Gyalshing,1330738,809,54.4
+Tamil Nadu,Chennai,1024827,815,38.4
+Tamil Nadu,Coimbatore,971738,730,70.3
+Tamil Nadu,Madurai,1868755,912,58.1
+Tamil Nadu,Tiruchirappalli,1280520,394,61.6
+Tamil Nadu,Salem,874172,793,79.8
+Telangana,Hyderabad,782958,518,52.8
+Telangana,Warangal,1928248,350,65.4
+Telangana,Nizamabad,1885844,487,65.9
+Telangana,Khammam,1668169,433,34.6
+Telangana,Karimnagar,1647557,206,47.8
+Tripura,Agartala,520377,734,41.3
+Tripura,Udaipur,547244,491,57.7
+Tripura,Dharmanagar,1658114,292,50.0
+Tripura,Kailashahar,1528196,331,77.1
+Tripura,Ambassa,954409,591,41.2
+Uttar Pradesh,Lucknow,1629010,501,54.7
+Uttar Pradesh,Kanpur,1921123,427,71.8
+Uttar Pradesh,Varanasi,841156,318,41.4
+Uttar Pradesh,Agra,1229401,916,74.3
+Uttar Pradesh,Meerut,1598982,926,63.9
+Uttarakhand,Dehradun,1551298,793,41.9
+Uttarakhand,Haridwar,618524,676,33.8
+Uttarakhand,Nainital,1053688,858,66.6
+Uttarakhand,Rishikesh,1637266,993,62.3
+Uttarakhand,Haldwani,624698,819,34.4
+West Bengal,Kolkata,1557786,824,56.0
+West Bengal,Darjeeling,1623575,714,52.5
+West Bengal,Siliguri,689087,532,62.2
+West Bengal,Howrah,1779479,362,71.4
+West Bengal,Durgapur,1545869,355,64.6
