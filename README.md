@@ -65,3 +65,15 @@ bash
     python app.py
 
 ** Access the app: Open your browser and navigate to http://127.0.0.1:5000 **
+
+bash 
+    pip install pandas scikit-learn joblist matplotlib
+
+### Model Training
+The model is trained using a RandomForestClassifier to predict disease outbreak risks based on key features. Below are the steps used for model training:
+
+### Data Preparation:
+
+Merges datasets containing climate, population, and healthcare data.
+
+Extracts features like temperature, humidity, rainfall, population density, and healthcare availability.
