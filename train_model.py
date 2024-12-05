@@ -7,10 +7,10 @@ import joblib
 import matplotlib.pyplot as plt
 
 # Load the datasets
-disease_df = pd.read_csv("C:/Users/yaqoo/Desktop/ML/disease_data_monthly.csv")
-climate_df = pd.read_csv("C:/Users/yaqoo/Desktop/ML/climate_data_monthly.csv")
-population_df = pd.read_csv("C:/Users/yaqoo/Desktop/ML/population_data.csv")
-healthcare_df = pd.read_csv("C:/Users/yaqoo/Desktop/ML/healthcare_data.csv")
+disease_df = pd.read_csv("disease_data_monthly.csv")
+climate_df = pd.read_csv("climate_data_monthly.csv")
+population_df = pd.read_csv("population_data.csv")
+healthcare_df = pd.read_csv("healthcare_data.csv")
 
 
 # Merge datasets
