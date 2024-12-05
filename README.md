@@ -67,6 +67,7 @@ bash
 ** Access the app: Open your browser and navigate to http://127.0.0.1:5000 **
 
 bash 
+
     pip install pandas scikit-learn joblist matplotlib
 
 ### Model Training
