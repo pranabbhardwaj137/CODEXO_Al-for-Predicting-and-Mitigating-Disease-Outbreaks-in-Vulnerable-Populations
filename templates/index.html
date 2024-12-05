@@ -1,0 +1,320 @@
+
+
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Outbreak Predictor</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body>
+    <h1>Disease Outbreak Predictor</h1>
+    <form id="predictionForm">
+        <label for="state">Select State:</label>
+        <select id="state" name="state" required></select>
+
+        <label for="district">Select District:</label>
+        <select id="district" name="district" required></select>
+
+        <button type="button" id="getWeather">Get Weather</button>
+        <div id="weatherDetails"></div>
+
+        <button type="submit">Predict</button>
+    </form>
+
+    <script>
+        $(document).ready(function () {
+            $.get("/get_states", function (data) {
+                data.states.forEach(function (state) {
+                    $("#state").append(new Option(state, state));
+                });
+            });
+
+            $("#state").change(function () {
+                const state = $(this).val();
+                $.get(`/get_districts?state=${state}`, function (data) {
+                    $("#district").empty();
+                    data.districts.forEach(function (district) {
+                        $("#district").append(new Option(district, district));
+                    });
+                });
+            });
+
+            $("#getWeather").click(function () {
+                const state = $("#state").val();
+                const district = $("#district").val();
+
+                $.post("/get_weather", { state: state, district: district }, function (data) {
+                    if (data.error) {
+                        $("#weatherDetails").text(data.error);
+                    } else {
+                        $("#weatherDetails").html(`
+                            <p>Temperature: ${data.temperature}°C</p>
+                            <p>Humidity: ${data.humidity}%</p>
+                            <p>Rainfall: ${data.rainfall} mm</p>
+                        `);
+                    }
+                });
+            });
+
+            $("#predictionForm").submit(function (e) {
+                e.preventDefault();
+                const state = $("#state").val();
+                const district = $("#district").val();
+
+                $.post("/predict", { state: state, district: district }, function (data) {
+                    if (data.error) {
+                        alert(data.error);
+                    } else {
+                        alert(`Prediction: ${data.prediction}\nConfidence: ${data.confidence}`);
+                    }
+                });
+            });
+        });
+    </script>
+</body>
+</html> -->
+
+<!-- <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Outbreak Predictor</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/4.6.2/css/bootstrap.min.css">
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+</head>
+<body class="bg-light">
+    <div class="container mt-5">
+        <h1 class="text-center">Disease Outbreak Predictor</h1>
+        <form id="predictForm" class="mt-4">
+            <div class="form-group">
+                <label for="state">Select State:</label>
+                <select id="state" name="state" class="form-control" required>
+                    <option value="">Select State</option>
+                    {% for state in states %}
+                        <option value="{{ state }}">{{ state }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+            <div class="form-group">
+                <label for="district">Select District:</label>
+                <select id="district" name="district" class="form-control" required>
+                    <option value="">Select District</option>
+                </select>
+            </div>
+            <div id="weatherInfo" class="mt-4">
+                <h4>Today's Weather:</h4>
+                <p><strong>Temperature:</strong> <span id="temp"></span> °C</p>
+                <p><strong>Humidity:</strong> <span id="humidity"></span> %</p>
+                <p><strong>Rainfall:</strong> <span id="rainfall"></span> mm</p>
+            </div>
+            <button type="submit" class="btn btn-primary btn-block">Predict</button>
+        </form>
+
+        <div id="result" class="mt-4 text-center"></div>
+    </div>
+
+    <script>
+        // State change logic and other JavaScript remains the same
+    </script>
+</body>
+</html> -->
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Outbreak Predictor</title>
+    <!-- Link to Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- Google Fonts for a more modern look -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <!-- Custom CSS for added styling -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
+        }
+
+        .container {
+            margin-top: 50px;
+            max-width: 900px;
+        }
+
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: #343a40;
+        }
+
+        .form-group label {
+            font-weight: 500;
+        }
+
+        .form-control {
+            border-radius: 10px;
+            box-shadow: none;
+        }
+
+        .btn-primary {
+            background-color: #007bff;
+            border-color: #007bff;
+            font-weight: 500;
+        }
+
+        .btn-primary:hover {
+            background-color: #0056b3;
+            border-color: #0056b3;
+        }
+
+        #result {
+            margin-top: 30px;
+            padding: 20px;
+            background-color: #e9ecef;
+            border-radius: 10px;
+        }
+
+        .alert-custom {
+            border-radius: 10px;
+            font-size: 1.2rem;
+            font-weight: 500;
+        }
+
+        .alert-success {
+            background-color: #28a745;
+            color: white;
+        }
+
+        .alert-danger {
+            background-color: #dc3545;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1 class="text-center">Disease Outbreak Predictor</h1>
+
+    <!-- Form to select State and District -->
+    <form id="predictForm" class="mt-5">
+        <div class="form-row">
+            <div class="col-md-6 form-group">
+                <label for="state">Select State:</label>
+                <select id="state" name="state" class="form-control" required>
+                    <option value="">Select State</option>
+                    {% for state in states %}
+                        <option value="{{ state }}">{{ state }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="col-md-6 form-group">
+                <label for="district">Select District:</label>
+                <select id="district" name="district" class="form-control" required>
+                    <option value="">Select District</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Display weather info here -->
+        <div id="weatherInfo" class="mt-4">
+            <h4>Today's Weather:</h4>
+            <p><strong>Temperature:</strong> <span id="temp"></span> °C</p>
+            <p><strong>Humidity:</strong> <span id="humidity"></span> %</p>
+            <p><strong>Rainfall:</strong> <span id="rainfall"></span> mm</p>
+        </div>
+
+        <!-- Button to submit and predict outbreak -->
+        <button type="submit" class="btn btn-primary btn-block mt-4">Predict</button>
+    </form>
+
+    <!-- Display prediction result -->
+    <div id="result" class="mt-4"></div>
+</div>
+
+<!-- Include jQuery and Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    // Update districts based on selected state
+    $('#state').change(function () {
+        var selectedState = $(this).val();
+        if (selectedState) {
+            $.ajax({
+                url: '/get_districts',
+                type: 'POST',
+                data: { state: selectedState },
+                success: function (response) {
+                    var districtSelect = $('#district');
+                    districtSelect.empty();
+                    districtSelect.append('<option value="">Select District</option>'); // default option
+
+                    // Add each district as an option in the dropdown
+                    $.each(response.districts, function (index, district) {
+                        districtSelect.append('<option value="' + district + '">' + district + '</option>');
+                    });
+                }
+            });
+        } else {
+            $('#district').empty();
+            $('#district').append('<option value="">Select District</option>');
+        }
+    });
+
+    // Fetch today's weather when state and district are selected
+    $('#district').change(function () {
+        var state = $('#state').val();
+        var district = $(this).val();
+
+        if (state && district) {
+            $.ajax({
+                url: '/get_weather',
+                type: 'POST',
+                data: { state: state, district: district },
+                success: function (response) {
+                    if (response.error) {
+                        $('#weatherInfo').html('<p class="alert alert-danger">' + response.error + '</p>');
+                    } else {
+                        $('#temp').text(response.temperature);
+                        $('#humidity').text(response.humidity);
+                        $('#rainfall').text(response.rainfall);
+                    }
+                }
+            });
+        }
+    });
+
+    // Submit form via AJAX for prediction and display result
+    $('#predictForm').submit(function (event) {
+        event.preventDefault(); // Prevent form from reloading the page
+
+        var state = $('#state').val();
+        var district = $('#district').val();
+
+        $.ajax({
+            url: '/predict',
+            type: 'POST',
+            data: {
+                state: state,
+                district: district
+            },
+            success: function (response) {
+                if (response.error) {
+                    $('#result').html('<p class="alert alert-danger">' + response.error + '</p>');
+                } else {
+                    $('#result').html('<p class="alert alert-success"><strong>Prediction:</strong> ' + response.prediction + '</p>' +
+                        '<p><strong>Confidence:</strong> ' + response.confidence + '</p>');
+                }
+            }
+        });
+    });
+</script>
+
+</body>
+</html>
