@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Outbreak Predictor</title>
+    <link rel="icon" href="static/Codexo.png" type="image/png">
+    <!-- Link to Bootstrap CSS -->
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+    <!-- Leaflet and Leaflet Heatmap CSS -->
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css">
+    <!-- Google Fonts for a more modern look -->
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <style>
+        body {
+            font-family: 'Poppins', sans-serif;
+            background-color: #f8f9fa;
+            z-index: 30;
+            margin-top: 120px;
+        }
+        
+        .container {
+            margin-top: 50px;
+            max-width: 900px;
+        }
+        .logo{
+            height: 70px;
+            width: 70px;
+            object-fit: contain;
+            border-radius: 20px;
+        }
+        h1 {
+            font-size: 2.5rem;
+            font-weight: 600;
+            color: white;
+            margin-left: 90px;
+            
+        }
+        header {
+            display: flex;
+            
+            
+            background-color: #0d6efd; /* Matching theme */
+            padding: 1rem 2rem;
+            width: 100%;
+            box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+            position: fixed;
+            top: 0;
+            
+            left: 0;
+            z-index: 1000;
+        }
+        #map {
+            height: 600px;
+            display: none; /* Initially hide the map */
+            margin-top: 30px;
+        }
+
+        .btn-toggle {
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <header class="header">
+    <img src="static/Codexo.png" alt="Codexo Logo" class="logo">
+    <h1 class="text-center">Disease Outbreak Predictor</h1>
+    </header>
+    <!-- Form to select State and District -->
+    <form id="predictForm" class="mt-5">
+        <div class="form-row">
+            <div class="col-md-6 form-group">
+                <label for="state">Select State:</label>
+                <select id="state" name="state" class="form-control" required>
+                    <option value="">Select State</option>
+                    {% for state in states %}
+                        <option value="{{ state }}">{{ state }}</option>
+                    {% endfor %}
+                </select>
+            </div>
+
+            <div class="col-md-6 form-group">
+                <label for="district">Select District:</label>
+                <select id="district" name="district" class="form-control" required>
+                    <option value="">Select District</option>
+                </select>
+            </div>
+        </div>
+
+        <!-- Display weather info here -->
+        <div id="weatherInfo" class="mt-4">
+            <h4>Today's Weather:</h4>
+            <p><strong>Temperature:</strong> <span id="temp"></span> °C</p>
+            <p><strong>Humidity:</strong> <span id="humidity"></span> %</p>
+            <p><strong>Rainfall:</strong> <span id="rainfall"></span> mm</p>
+        </div>
+
+        <!-- Button to submit and predict outbreak -->
+        <button type="submit" class="btn btn-primary btn-block mt-4">Predict</button>
+    </form>
+
+    <!-- Display prediction result -->
+    <div id="result" class="mt-4"></div>
+
+    <!-- Toggle buttons for Heatmap -->
+    <button id="heatmapToggle" class="btn btn-secondary btn-block btn-toggle">Toggle Heatmap</button>
+
+    <!-- Heatmap -->
+    <div id="map"></div>
+</div>
+
+<!-- Include JS Libraries -->
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.bundle.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+<script src="https://unpkg.com/leaflet.heat/dist/leaflet-heat.js"></script>
+
+<script>
+    // Update districts based on selected state
+    $('#state').change(function () {
+        var selectedState = $(this).val();
+        if (selectedState) {
+            $.ajax({
+                url: '/get_districts',
+                type: 'POST',
+                data: { state: selectedState },
+                success: function (response) {
+                    var districtSelect = $('#district');
+                    districtSelect.empty();
+                    districtSelect.append('<option value="">Select District</option>');
+                    $.each(response.districts, function (index, district) {
+                        districtSelect.append('<option value="' + district + '">' + district + '</option>');
+                    });
+                }
+            });
+        } else {
+            $('#district').empty();
+            $('#district').append('<option value="">Select District</option>');
+        }
+    });
+
+    // Fetch today's weather when state and district are selected
+    $('#district').change(function () {
+        var state = $('#state').val();
+        var district = $(this).val();
+
+        if (state && district) {
+            $.ajax({
+                url: '/get_weather',
+                type: 'POST',
+                data: { state: state, district: district },
+                success: function (response) {
+                    if (response.error) {
+                        $('#weatherInfo').html('<p class="alert alert-danger">' + response.error + '</p>');
+                    } else {
+                        $('#temp').text(response.temperature);
+                        $('#humidity').text(response.humidity);
+                        $('#rainfall').text(response.rainfall);
+                    }
+                }
+            });
+        }
+    });
+
+    // Submit form via AJAX for prediction and display result
+    $('#predictForm').submit(function (event) {
+        event.preventDefault(); // Prevent form from reloading the page
+
+        var state = $('#state').val();
+        var district = $('#district').val();
+
+        $.ajax({
+            url: '/predict',
+            type: 'POST',
+            data: {
+                state: state,
+                district: district
+            },
+            success: function (response) {
+                if (response.error) {
+                    $('#result').html('<p class="alert alert-danger">' + response.error + '</p>');
+                } else {
+                    $('#result').html('<p class="alert alert-success"><strong>Prediction:</strong> ' + response.prediction + '</p>' +
+                        '<p><strong>AI Confidence:</strong> ' + response.ai_confidence + '</p>');
+                }
+            }
+        });
+    });
+
+    // Heatmap functionality
+    $('#heatmapToggle').click(function () {
+        $('#map').toggle(); // Toggle visibility of heatmap
+        if ($('#map').is(':visible')) {
+            $.ajax({
+                url: '/heatmap_data',
+                type: 'GET',
+                success: function (data) {
+                    var map = L.map('map').setView([20.5937, 78.9629], 5); // Center map on India
+                    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+                        attribution: '© OpenStreetMap contributors'
+                    }).addTo(map);
+
+                    // Add heatmap data
+                    L.heatLayer(data.map(function (point) {
+                        return [point[0], point[1], point[2]]; // latitude, longitude, intensity
+                    }), { radius: 25 }).addTo(map);
+                }
+            });
+        }
+    });
+</script>
+</body>
+</html>
